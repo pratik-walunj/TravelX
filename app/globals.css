@@ -1,0 +1,197 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ------------------------------------------------------------------ */
+/*  TravelX — Design Tokens (light / dark)                            */
+/* ------------------------------------------------------------------ */
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 222 47% 11%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 222 47% 11%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 222 47% 11%;
+
+    --primary: 207 79% 28%; /* #0F4C81 */
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 173 80% 40%; /* #14B8A6 */
+    --secondary-foreground: 0 0% 100%;
+
+    --accent: 38 92% 50%; /* #F59E0B */
+    --accent-foreground: 26 83% 14%;
+
+    --muted: 210 40% 96%;
+    --muted-foreground: 215 16% 47%;
+
+    --border: 214 32% 91%;
+    --input: 214 32% 91%;
+    --ring: 207 79% 40%;
+
+    --radius: 1rem;
+  }
+
+  .dark {
+    --background: 222 47% 11%; /* #0F172A */
+    --foreground: 210 40% 98%;
+
+    --card: 222 44% 14%;
+    --card-foreground: 210 40% 98%;
+
+    --popover: 222 47% 13%;
+    --popover-foreground: 210 40% 98%;
+
+    --primary: 205 82% 55%;
+    --primary-foreground: 222 47% 11%;
+
+    --secondary: 173 70% 45%;
+    --secondary-foreground: 222 47% 11%;
+
+    --accent: 38 92% 55%;
+    --accent-foreground: 26 83% 14%;
+
+    --muted: 217 33% 20%;
+    --muted-foreground: 215 20% 65%;
+
+    --border: 217 33% 22%;
+    --input: 217 33% 24%;
+    --ring: 205 82% 60%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-feature-settings: "cv11", "ss01";
+    text-rendering: optimizeLegibility;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-heading font-semibold tracking-tight;
+    text-wrap: balance;
+  }
+
+  ::selection {
+    @apply bg-primary-600/90 text-white;
+  }
+
+  /* Custom scrollbar */
+  ::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+  }
+  ::-webkit-scrollbar-track {
+    @apply bg-transparent;
+  }
+  ::-webkit-scrollbar-thumb {
+    @apply rounded-full bg-muted-foreground/30;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    @apply bg-muted-foreground/50;
+  }
+
+  /* Accessible focus ring across interactive elements */
+  :where(a, button, input, select, textarea, [tabindex]):focus-visible {
+    @apply outline-none ring-2 ring-ring ring-offset-2 ring-offset-background;
+  }
+}
+
+/* ------------------------------------------------------------------ */
+/*  Reusable component utilities                                       */
+/* ------------------------------------------------------------------ */
+@layer components {
+  .section {
+    @apply py-16 sm:py-20 lg:py-28;
+  }
+
+  .section-tight {
+    @apply py-12 sm:py-16;
+  }
+
+  /* Eyebrow / kicker label above section headings */
+  .eyebrow {
+    @apply inline-flex items-center gap-2 rounded-full border border-secondary-500/30 bg-secondary-500/10 px-3.5 py-1.5 text-xs font-semibold uppercase tracking-widest text-secondary-600 dark:text-secondary-300;
+  }
+
+  .heading-xl {
+    @apply font-heading text-4xl font-bold leading-[1.05] sm:text-5xl lg:text-6xl;
+  }
+
+  .heading-lg {
+    @apply font-heading text-3xl font-bold leading-tight sm:text-4xl lg:text-[2.75rem];
+  }
+
+  /* Glassmorphism surface */
+  .glass {
+    @apply border border-white/20 bg-white/10 backdrop-blur-xl backdrop-saturate-150;
+  }
+  .glass-card {
+    @apply rounded-3xl border border-white/15 bg-white/70 shadow-card backdrop-blur-xl dark:border-white/10 dark:bg-white/[0.06];
+  }
+
+  /* Gradient text */
+  .text-gradient {
+    @apply bg-gradient-to-r from-primary-600 via-secondary-500 to-secondary-400 bg-clip-text text-transparent dark:from-primary-300 dark:via-secondary-300 dark:to-secondary-200;
+  }
+
+  /* Animated shimmer skeleton */
+  .skeleton {
+    @apply relative overflow-hidden rounded-md bg-muted;
+  }
+  .skeleton::after {
+    @apply absolute inset-0 -translate-x-full animate-shimmer bg-gradient-to-r from-transparent via-white/40 to-transparent content-[''] dark:via-white/10;
+  }
+
+  /* Fancy underline link */
+  .link-underline {
+    @apply relative after:absolute after:bottom-0 after:left-0 after:h-px after:w-0 after:bg-current after:transition-all after:duration-300 hover:after:w-full;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+  .text-pretty {
+    text-wrap: pretty;
+  }
+  /* Hide scrollbar but keep scroll (used in horizontal rails) */
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  .mask-fade-r {
+    -webkit-mask-image: linear-gradient(to right, black 85%, transparent);
+    mask-image: linear-gradient(to right, black 85%, transparent);
+  }
+  .perspective {
+    perspective: 1200px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}
