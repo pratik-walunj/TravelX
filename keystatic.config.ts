@@ -22,18 +22,19 @@ import { config, fields, collection } from "@keystatic/core";
  * env switch never affects builds.
  */
 
+// Storage mode is decided from NEXT_PUBLIC_KEYSTATIC_GITHUB_REPO ONLY, because
+// this expression must evaluate identically on the server AND in the browser
+// bundle. The GitHub auth secrets (KEYSTATIC_SECRET, client id/secret) are
+// server-only and are `undefined` in the client — gating on them put the
+// browser in local mode while the server ran GitHub mode, which made the admin
+// call the local-only `/api/keystatic/tree` endpoint and get a 404 "Not Found".
+//
+// ⚠️ Set the GitHub env vars all together (repo + app slug + client id/secret +
+// KEYSTATIC_SECRET), or none — a repo with missing secrets will fail the build.
 const githubRepo = process.env.NEXT_PUBLIC_KEYSTATIC_GITHUB_REPO as `${string}/${string}` | undefined;
 
-// Only switch to GitHub mode once ALL required auth env vars are present, so a
-// half-configured deploy never breaks the build — it just stays in local mode.
-const githubReady =
-  !!githubRepo &&
-  !!process.env.KEYSTATIC_SECRET &&
-  !!process.env.KEYSTATIC_GITHUB_CLIENT_ID &&
-  !!process.env.KEYSTATIC_GITHUB_CLIENT_SECRET;
-
-const storage = githubReady
-  ? ({ kind: "github", repo: githubRepo! } as const)
+const storage = githubRepo
+  ? ({ kind: "github", repo: githubRepo } as const)
   : ({ kind: "local" } as const);
 
 const imageUrl = (label: string) => fields.text({ label, description: "Full image URL" });
