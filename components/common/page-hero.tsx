@@ -29,7 +29,9 @@ export function PageHero({
   const heights = { sm: "min-h-[280px]", md: "min-h-[360px]", lg: "min-h-[440px]" };
   return (
     <section className={cn("relative -mt-16 flex items-end overflow-hidden lg:-mt-[72px]", heights[size], className)}>
-      <div className="absolute inset-0">
+      {/* bg-primary-950 fallback: never show a blank white band if the remote
+          image is slow or fails to load — the dark brand colour shows instead. */}
+      <div className="absolute inset-0 bg-primary-950">
         <Image src={image} alt="" fill priority sizes="100vw" className="object-cover" />
         <div className="absolute inset-0 bg-gradient-to-t from-primary-950/90 via-primary-950/60 to-primary-950/70" />
       </div>

@@ -26,11 +26,6 @@ export default function HomePage() {
     <>
       <Hero />
 
-      {/* Spacer to clear the search widget that overlaps the hero's bottom edge.
-          Sized to the widget's overflow: taller on mobile (stacked fields),
-          tighter on desktop (single row) so there's no dead white gap. */}
-      <div className="h-32 sm:h-24 lg:h-16" />
-
       <PopularDestinations />
 
       <PackageRail

@@ -46,6 +46,14 @@ export function Navbar() {
       // lets you move down into the dropdown without it closing.
       onMouseLeave={() => setOpenMenu(null)}
     >
+      {/* Scrim: when the bar is transparent over the hero, this keeps the white
+          logo / icons / hamburger legible over light areas of the image. */}
+      {transparent && (
+        <div
+          aria-hidden
+          className="pointer-events-none absolute inset-x-0 top-0 -z-10 h-full bg-gradient-to-b from-black/45 via-black/20 to-transparent"
+        />
+      )}
       <nav className="container flex h-16 items-center justify-between gap-4 lg:h-[72px]">
         <Logo inverted={transparent} />
 

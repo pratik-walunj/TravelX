@@ -31,8 +31,10 @@ export function MobileNav({ transparent }: { transparent?: boolean }) {
         aria-label="Open menu"
         onClick={() => setOpen(true)}
         className={cn(
-          "inline-flex size-10 items-center justify-center rounded-full transition-colors lg:hidden",
-          transparent ? "text-white hover:bg-white/15" : "text-foreground hover:bg-muted",
+          "inline-flex size-10 items-center justify-center rounded-full border transition-colors lg:hidden",
+          transparent
+            ? "border-white/30 bg-white/10 text-white backdrop-blur-md hover:bg-white/20"
+            : "border-transparent text-foreground hover:bg-muted",
         )}
       >
         <Menu className="size-6" />
@@ -53,7 +55,10 @@ export function MobileNav({ transparent }: { transparent?: boolean }) {
               animate={{ x: 0 }}
               exit={{ x: "100%" }}
               transition={{ type: "spring", damping: 30, stiffness: 300 }}
-              className="fixed inset-y-0 right-0 z-[70] flex w-[86%] max-w-sm flex-col bg-background shadow-2xl lg:hidden"
+              // h-dvh gives the drawer an explicit full-screen height. Relying on
+              // inset-y-0 (top/bottom:0) alone left it without a *definite* height,
+              // which collapsed the flex-1 nav to 0 and hid the links.
+              className="fixed right-0 top-0 z-[70] flex h-dvh w-[86%] max-w-sm flex-col bg-white shadow-2xl dark:bg-slate-950 lg:hidden"
             >
               <div className="flex items-center justify-between border-b border-border px-5 py-4">
                 <Logo />

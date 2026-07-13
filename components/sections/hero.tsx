@@ -16,7 +16,9 @@ export function Hero() {
         Background: static image for now. To use a video, drop /public/hero.mp4
         and uncomment the <video> block below — the poster keeps LCP fast.
       */}
-      <div className="absolute inset-0">
+      {/* bg-primary-950 fallback: if the remote image is slow or fails, the
+          hero shows the dark brand colour instead of a blank white area. */}
+      <div className="absolute inset-0 bg-primary-950">
         <Image
           src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=2400&q=80"
           alt="Aerial view of a tropical beach with turquoise water"
