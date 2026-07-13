@@ -1,0 +1,194 @@
+title: Maldives Timeless Trail
+destination: Maldives
+destinationSlug: maldives
+country: Maldives
+type: international
+category: cultural
+summary: 11 days of cultural travel through Maldives — overwater villas & endless lagoons.
+description: Discover Maldives on this 11-day cultural journey crafted by TravelX. Maldives is one of the world's most sought-after destinations — overwater villas & endless lagoons. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Maldives at an unhurried, premium pace. This itinerary balances must-see highlights with authentic local experiences and generous downtime, all backed by our 24/7 concierge and best-price promise.
+image: https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1200&q=80
+durationDays: 11
+durationNights: 10
+price: 128538
+oldPrice: 163628
+currency: INR
+rating: '4.75'
+reviewCount: 619
+groupSizeMin: 2
+groupSizeMax: 16
+difficulty: Moderate
+seatsLeft: 9
+featured: true
+trending: true
+bestseller: true
+highlights:
+  - Bioluminescent beach
+  - Snorkeling
+  - Maafushi
+  - Sunset cruise
+inclusions:
+  - Complimentary travel kit
+  - Welcome drink on arrival
+  - 24/7 on-trip TravelX concierge
+  - All sightseeing per itinerary
+  - Entrance fees to monuments
+  - Daily breakfast & select meals
+  - Return economy airfare
+exclusions:
+  - Personal expenses & tips
+  - Early check-in / late check-out charges
+  - Optional activities & upgrades
+  - GST where applicable
+  - Camera / drone permits
+  - Meals not specified in itinerary
+tags:
+  - Maldives
+  - Maldives
+  - cultural
+  - international
+themes:
+  - Food
+  - Scenic
+  - Nature
+departureCities:
+  - Delhi
+  - Kolkata
+  - Bengaluru
+  - Chennai
+availableDates:
+  - '2026-11-08'
+  - '2026-01-06'
+  - '2026-03-19'
+  - '2026-05-10'
+  - '2026-07-26'
+  - '2026-09-06'
+hotels:
+  - name: Coral Reef Villas
+    rating: 5
+    nights: 4
+  - name: Mountain Echo Lodge
+    rating: 4
+    nights: 4
+  - name: The Grand Meridian
+    rating: 4
+    nights: 4
+itinerary:
+  - day: 1
+    title: Arrival in Maldives
+    description: Arrive in Maldives, meet your TravelX host for a private transfer to the hotel. Freshen up and enjoy a relaxed evening at leisure with a welcome briefing.
+    stay: Skyline Boutique
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 2
+    title: Signature experience
+    description: 'The trip''s showcase day: a curated flagship experience unique to Maldives, designed to be the highlight of your journey.'
+    stay: Highland Vista
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 3
+    title: Maldives city highlights
+    description: A full day of iconic sightseeing with your local guide — landmark monuments, viewpoints and hidden gems, with time for photos and local cuisine.
+    stay: Emerald Sands
+    meals:
+      - Dinner
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 4
+    title: Maldives city highlights
+    description: A full day of iconic sightseeing with your local guide — landmark monuments, viewpoints and hidden gems, with time for photos and local cuisine.
+    stay: Coral Reef Villas
+    meals:
+      - Breakfast
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 5
+    title: At leisure / optional tours
+    description: A flexible day to unwind by the pool, indulge in a spa, or choose from a menu of optional excursions.
+    stay: Aurora Retreat
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 6
+    title: Maldives city highlights
+    description: A full day of iconic sightseeing with your local guide — landmark monuments, viewpoints and hidden gems, with time for photos and local cuisine.
+    stay: The Regal Court
+    meals:
+      - Breakfast
+      - Lunch
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 7
+    title: Nature & scenic escape
+    description: Head out to the scenic countryside for panoramic landscapes, an outdoor experience and a memorable local lunch amid nature.
+    stay: Azure Bay Resort
+    meals:
+      - Dinner
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 8
+    title: Signature experience
+    description: 'The trip''s showcase day: a curated flagship experience unique to Maldives, designed to be the highlight of your journey.'
+    stay: Coral Reef Villas
+    meals:
+      - Dinner
+      - Breakfast
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 9
+    title: Culture & leisure day
+    description: Immerse in local culture — markets, artisans and heritage — followed by free time to shop, relax or add an optional experience.
+    stay: Lagoon Pearl Resort
+    meals:
+      - Dinner
+      - Breakfast
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 10
+    title: Adventure & activities
+    description: An action-packed day of activities and adventure suited to your pace, with all equipment and safety handled by our partners.
+    stay: Emerald Sands
+    meals:
+      - Dinner
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 11
+    title: Departure from Maldives
+    description: After breakfast and some last-minute souvenir shopping, transfer to the airport for your onward journey with TravelX memories to keep.
+    stay: ''
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine

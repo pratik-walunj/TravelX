@@ -1,0 +1,54 @@
+name: Peru
+country: Peru
+continent: South America
+type: international
+tagline: Inca trails to Machu Picchu
+description: Peru is one of the world's most sought-after destinations — inca trails to machu picchu. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Peru at an unhurried, premium pace.
+image: https://images.unsplash.com/photo-1526392060635-9d6019884377?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1530789253388-582c481c54b0?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80
+lat: '-9.19'
+lng: '-75.02'
+rating: '4.7'
+reviewCount: 734
+packageCount: 8
+startingPrice: 39605
+idealDuration: 8–10 days
+trending: false
+featured: false
+bestTimeToVisit:
+  - May
+  - Jun
+  - Jul
+  - Aug
+  - Sep
+activities:
+  - Inca Trail
+  - Machu Picchu
+  - Sacred Valley
+  - Rainbow Mountain
+highlights:
+  - Machu Picchu
+  - Cusco
+  - Lima
+  - Lake Titicaca
+tags:
+  - South America
+  - international
+  - Inca Trail
+  - Machu Picchu
+weather:
+  - season: Peak
+    temp: 25°C
+    note: Clear skies, ideal for sightseeing
+  - season: Shoulder
+    temp: 26°C
+    note: Fewer crowds, great value
+  - season: Off-season
+    temp: 29°C
+    note: Lush landscapes, occasional rain

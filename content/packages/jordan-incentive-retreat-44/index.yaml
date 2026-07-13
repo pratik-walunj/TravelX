@@ -1,0 +1,210 @@
+title: Jordan Incentive Retreat
+destination: Jordan
+destinationSlug: jordan
+country: Jordan
+type: international
+category: corporate
+summary: 12 days of corporate travel through Jordan — rose-red city & wadi rum deserts.
+description: Discover Jordan on this 12-day corporate journey crafted by TravelX. Jordan is one of the world's most sought-after destinations — rose-red city & wadi rum deserts. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Jordan at an unhurried, premium pace. This itinerary balances must-see highlights with authentic local experiences and generous downtime, all backed by our 24/7 concierge and best-price promise.
+image: https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1530789253388-582c481c54b0?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1200&q=80
+durationDays: 12
+durationNights: 11
+price: 74560
+oldPrice: 87755
+currency: INR
+rating: '4.65'
+reviewCount: 637
+groupSizeMin: 2
+groupSizeMax: 16
+difficulty: Moderate
+seatsLeft: 8
+featured: false
+trending: true
+bestseller: false
+highlights:
+  - Dead Sea float
+  - Wadi Rum
+  - Amman
+  - Petra tour
+inclusions:
+  - Private air-conditioned transfers
+  - Daily breakfast & select meals
+  - Expert local English-speaking guide
+  - Return economy airfare
+  - 24/7 on-trip TravelX concierge
+  - All sightseeing per itinerary
+  - Welcome drink on arrival
+exclusions:
+  - Optional activities & upgrades
+  - Visa & travel insurance fees
+  - GST where applicable
+  - Personal expenses & tips
+  - Camera / drone permits
+tags:
+  - Jordan
+  - Jordan
+  - corporate
+  - international
+themes:
+  - Culture
+  - Nature
+  - Nightlife
+departureCities:
+  - Hyderabad
+  - Bengaluru
+  - Mumbai
+  - Chennai
+availableDates:
+  - '2026-08-22'
+  - '2026-10-24'
+  - '2026-12-25'
+  - '2026-02-07'
+  - '2026-04-08'
+  - '2026-06-22'
+hotels:
+  - name: Lagoon Pearl Resort
+    rating: 5
+    nights: 4
+  - name: Heritage Haveli
+    rating: 5
+    nights: 4
+  - name: Skyline Boutique
+    rating: 5
+    nights: 4
+itinerary:
+  - day: 1
+    title: Arrival in Jordan
+    description: Arrive in Jordan, meet your TravelX host for a private transfer to the hotel. Freshen up and enjoy a relaxed evening at leisure with a welcome briefing.
+    stay: Serenity Palace
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 2
+    title: Adventure & activities
+    description: An action-packed day of activities and adventure suited to your pace, with all equipment and safety handled by our partners.
+    stay: Heritage Haveli
+    meals:
+      - Dinner
+      - Lunch
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 3
+    title: Jordan city highlights
+    description: A full day of iconic sightseeing with your local guide — landmark monuments, viewpoints and hidden gems, with time for photos and local cuisine.
+    stay: Lagoon Pearl Resort
+    meals:
+      - Breakfast
+      - Dinner
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 4
+    title: Jordan city highlights
+    description: A full day of iconic sightseeing with your local guide — landmark monuments, viewpoints and hidden gems, with time for photos and local cuisine.
+    stay: Serenity Palace
+    meals:
+      - Lunch
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 5
+    title: Jordan city highlights
+    description: A full day of iconic sightseeing with your local guide — landmark monuments, viewpoints and hidden gems, with time for photos and local cuisine.
+    stay: Aurora Retreat
+    meals:
+      - Lunch
+      - Breakfast
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 6
+    title: Jordan city highlights
+    description: A full day of iconic sightseeing with your local guide — landmark monuments, viewpoints and hidden gems, with time for photos and local cuisine.
+    stay: Azure Bay Resort
+    meals:
+      - Lunch
+      - Dinner
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 7
+    title: Signature experience
+    description: 'The trip''s showcase day: a curated flagship experience unique to Jordan, designed to be the highlight of your journey.'
+    stay: Azure Bay Resort
+    meals:
+      - Lunch
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 8
+    title: Adventure & activities
+    description: An action-packed day of activities and adventure suited to your pace, with all equipment and safety handled by our partners.
+    stay: Serenity Palace
+    meals:
+      - Breakfast
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 9
+    title: Adventure & activities
+    description: An action-packed day of activities and adventure suited to your pace, with all equipment and safety handled by our partners.
+    stay: Highland Vista
+    meals:
+      - Breakfast
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 10
+    title: Jordan city highlights
+    description: A full day of iconic sightseeing with your local guide — landmark monuments, viewpoints and hidden gems, with time for photos and local cuisine.
+    stay: The Grand Meridian
+    meals:
+      - Breakfast
+      - Lunch
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 11
+    title: Culture & leisure day
+    description: Immerse in local culture — markets, artisans and heritage — followed by free time to shop, relax or add an optional experience.
+    stay: Aurora Retreat
+    meals:
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 12
+    title: Departure from Jordan
+    description: After breakfast and some last-minute souvenir shopping, transfer to the airport for your onward journey with TravelX memories to keep.
+    stay: ''
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops

@@ -1,0 +1,206 @@
+title: Bali Luxury Cruise
+destination: Bali
+destinationSlug: bali
+country: Indonesia
+type: international
+category: cruise
+summary: 12 days of cruise travel through Bali — island of temples & rice terraces.
+description: Discover Bali on this 12-day cruise journey crafted by TravelX. Bali is one of the world's most sought-after destinations — island of temples & rice terraces. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Bali at an unhurried, premium pace. This itinerary balances must-see highlights with authentic local experiences and generous downtime, all backed by our 24/7 concierge and best-price promise.
+image: https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80
+durationDays: 12
+durationNights: 11
+price: 219441
+oldPrice: 253744
+currency: INR
+rating: '4.55'
+reviewCount: 206
+groupSizeMin: 2
+groupSizeMax: 26
+difficulty: Easy
+seatsLeft: 11
+featured: false
+trending: false
+bestseller: false
+highlights:
+  - Ubud
+  - Surfing
+  - Spa
+  - Uluwatu
+inclusions:
+  - Welcome drink on arrival
+  - Private air-conditioned transfers
+  - Airport pick-up & drop
+  - Applicable taxes & service charges
+  - Return economy airfare
+  - Daily breakfast & select meals
+  - Complimentary travel kit
+  - All sightseeing per itinerary
+  - Handpicked 4★/5★ accommodation
+  - 24/7 on-trip TravelX concierge
+exclusions:
+  - Optional activities & upgrades
+  - Meals not specified in itinerary
+  - Camera / drone permits
+  - Early check-in / late check-out charges
+  - Visa & travel insurance fees
+tags:
+  - Bali
+  - Indonesia
+  - cruise
+  - international
+themes:
+  - Culture
+  - Food
+  - Photography
+departureCities:
+  - Ahmedabad
+  - Chennai
+  - Hyderabad
+  - Bengaluru
+availableDates:
+  - '2026-12-06'
+  - '2026-02-26'
+  - '2026-04-17'
+  - '2026-06-19'
+  - '2026-08-13'
+  - '2026-10-09'
+hotels:
+  - name: Mountain Echo Lodge
+    rating: 5
+    nights: 4
+  - name: The Grand Meridian
+    rating: 5
+    nights: 4
+  - name: Azure Bay Resort
+    rating: 4
+    nights: 4
+itinerary:
+  - day: 1
+    title: Arrival in Bali
+    description: Arrive in Bali, meet your TravelX host for a private transfer to the hotel. Freshen up and enjoy a relaxed evening at leisure with a welcome briefing.
+    stay: Lagoon Pearl Resort
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 2
+    title: Adventure & activities
+    description: An action-packed day of activities and adventure suited to your pace, with all equipment and safety handled by our partners.
+    stay: Lagoon Pearl Resort
+    meals:
+      - Lunch
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 3
+    title: Adventure & activities
+    description: An action-packed day of activities and adventure suited to your pace, with all equipment and safety handled by our partners.
+    stay: Skyline Boutique
+    meals:
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 4
+    title: Adventure & activities
+    description: An action-packed day of activities and adventure suited to your pace, with all equipment and safety handled by our partners.
+    stay: Coral Reef Villas
+    meals:
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 5
+    title: Adventure & activities
+    description: An action-packed day of activities and adventure suited to your pace, with all equipment and safety handled by our partners.
+    stay: The Regal Court
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 6
+    title: Nature & scenic escape
+    description: Head out to the scenic countryside for panoramic landscapes, an outdoor experience and a memorable local lunch amid nature.
+    stay: Aurora Retreat
+    meals:
+      - Breakfast
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 7
+    title: Nature & scenic escape
+    description: Head out to the scenic countryside for panoramic landscapes, an outdoor experience and a memorable local lunch amid nature.
+    stay: The Regal Court
+    meals:
+      - Breakfast
+      - Dinner
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 8
+    title: Culture & leisure day
+    description: Immerse in local culture — markets, artisans and heritage — followed by free time to shop, relax or add an optional experience.
+    stay: Heritage Haveli
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 9
+    title: Bali city highlights
+    description: A full day of iconic sightseeing with your local guide — landmark monuments, viewpoints and hidden gems, with time for photos and local cuisine.
+    stay: Lagoon Pearl Resort
+    meals:
+      - Breakfast
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 10
+    title: At leisure / optional tours
+    description: A flexible day to unwind by the pool, indulge in a spa, or choose from a menu of optional excursions.
+    stay: Aurora Retreat
+    meals:
+      - Breakfast
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 11
+    title: Nature & scenic escape
+    description: Head out to the scenic countryside for panoramic landscapes, an outdoor experience and a memorable local lunch amid nature.
+    stay: Coral Reef Villas
+    meals:
+      - Breakfast
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 12
+    title: Departure from Bali
+    description: After breakfast and some last-minute souvenir shopping, transfer to the airport for your onward journey with TravelX memories to keep.
+    stay: ''
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops

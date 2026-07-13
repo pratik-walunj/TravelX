@@ -1,0 +1,54 @@
+name: South Africa
+country: South Africa
+continent: Africa
+type: international
+tagline: Where two oceans and the wild meet
+description: South Africa is one of the world's most sought-after destinations — where two oceans and the wild meet. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of South Africa at an unhurried, premium pace.
+image: https://images.unsplash.com/photo-1484318571209-661cf29a69c3?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1530789253388-582c481c54b0?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80
+lat: '-30.56'
+lng: '22.94'
+rating: '4.35'
+reviewCount: 1007
+packageCount: 19
+startingPrice: 124971
+idealDuration: 8–10 days
+trending: false
+featured: false
+bestTimeToVisit:
+  - May
+  - Jun
+  - Jul
+  - Aug
+  - Sep
+activities:
+  - Safari
+  - Cape tour
+  - Wine tasting
+  - Shark cage dive
+highlights:
+  - Cape Town
+  - Kruger
+  - Garden Route
+  - Table Mountain
+tags:
+  - Africa
+  - international
+  - Safari
+  - Cape tour
+weather:
+  - season: Peak
+    temp: 26°C
+    note: Clear skies, ideal for sightseeing
+  - season: Shoulder
+    temp: 31°C
+    note: Fewer crowds, great value
+  - season: Off-season
+    temp: 37°C
+    note: Lush landscapes, occasional rain

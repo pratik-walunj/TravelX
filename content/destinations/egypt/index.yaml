@@ -1,0 +1,55 @@
+name: Egypt
+country: Egypt
+continent: Africa
+type: international
+tagline: Pyramids, pharaohs & the Nile
+description: Egypt is one of the world's most sought-after destinations — pyramids, pharaohs & the nile. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Egypt at an unhurried, premium pace.
+image: https://images.unsplash.com/photo-1539768942893-daf53e448371?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&q=80
+lat: '26.82'
+lng: '30.8'
+rating: '4.55'
+reviewCount: 2051
+packageCount: 8
+startingPrice: 170524
+idealDuration: 7–9 days
+trending: false
+featured: false
+bestTimeToVisit:
+  - Oct
+  - Nov
+  - Dec
+  - Jan
+  - Feb
+  - Mar
+activities:
+  - Pyramid tour
+  - Nile cruise
+  - Temple visit
+  - Desert camp
+highlights:
+  - Giza Pyramids
+  - Luxor
+  - Aswan
+  - Cairo
+tags:
+  - Africa
+  - international
+  - Pyramid tour
+  - Nile cruise
+weather:
+  - season: Peak
+    temp: 24°C
+    note: Clear skies, ideal for sightseeing
+  - season: Shoulder
+    temp: 31°C
+    note: Fewer crowds, great value
+  - season: Off-season
+    temp: 35°C
+    note: Lush landscapes, occasional rain

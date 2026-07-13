@@ -1,0 +1,55 @@
+name: Bora Bora
+country: French Polynesia
+continent: Oceania
+type: international
+tagline: The pearl of the Pacific
+description: Bora Bora is one of the world's most sought-after destinations — the pearl of the pacific. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Bora Bora at an unhurried, premium pace.
+image: https://images.unsplash.com/photo-1589979481223-deb893043163?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80
+lat: '-16.5'
+lng: '-151.74'
+rating: '4.75'
+reviewCount: 2075
+packageCount: 12
+startingPrice: 126806
+idealDuration: 5–7 days
+trending: false
+featured: false
+bestTimeToVisit:
+  - May
+  - Jun
+  - Jul
+  - Aug
+  - Sep
+  - Oct
+activities:
+  - Lagoon tour
+  - Snorkeling
+  - Overwater bungalow
+  - Shark dive
+highlights:
+  - Mount Otemanu
+  - Matira Beach
+  - Coral gardens
+  - Lagoonarium
+tags:
+  - Oceania
+  - international
+  - Lagoon tour
+  - Snorkeling
+weather:
+  - season: Peak
+    temp: 25°C
+    note: Clear skies, ideal for sightseeing
+  - season: Shoulder
+    temp: 28°C
+    note: Fewer crowds, great value
+  - season: Off-season
+    temp: 33°C
+    note: Lush landscapes, occasional rain

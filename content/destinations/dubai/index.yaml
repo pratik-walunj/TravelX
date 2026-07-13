@@ -1,0 +1,54 @@
+name: Dubai
+country: UAE
+continent: Asia
+type: international
+tagline: Futuristic skyline meets desert gold
+description: Dubai is one of the world's most sought-after destinations — futuristic skyline meets desert gold. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Dubai at an unhurried, premium pace.
+image: https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=1200&q=80
+lat: '25.2'
+lng: '55.27'
+rating: '4.3'
+reviewCount: 617
+packageCount: 17
+startingPrice: 152020
+idealDuration: 5–7 days
+trending: true
+featured: true
+bestTimeToVisit:
+  - Nov
+  - Dec
+  - Jan
+  - Feb
+  - Mar
+activities:
+  - Desert safari
+  - Burj Khalifa
+  - Dhow cruise
+  - Shopping
+highlights:
+  - Burj Khalifa
+  - Palm Jumeirah
+  - Desert dunes
+  - Dubai Marina
+tags:
+  - Asia
+  - international
+  - Desert safari
+  - Burj Khalifa
+weather:
+  - season: Peak
+    temp: 19°C
+    note: Clear skies, ideal for sightseeing
+  - season: Shoulder
+    temp: 31°C
+    note: Fewer crowds, great value
+  - season: Off-season
+    temp: 32°C
+    note: Lush landscapes, occasional rain

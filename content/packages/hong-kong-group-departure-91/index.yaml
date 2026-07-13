@@ -1,0 +1,164 @@
+title: Hong Kong Group Departure
+destination: Hong Kong
+destinationSlug: hong-kong
+country: Hong Kong
+type: international
+category: group
+summary: 8 days of group travel through Hong Kong — skyline drama & dim sum culture.
+description: Discover Hong Kong on this 8-day group journey crafted by TravelX. Hong Kong is one of the world's most sought-after destinations — skyline drama & dim sum culture. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Hong Kong at an unhurried, premium pace. This itinerary balances must-see highlights with authentic local experiences and generous downtime, all backed by our 24/7 concierge and best-price promise.
+image: https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1200&q=80
+durationDays: 8
+durationNights: 7
+price: 46545
+oldPrice: 56873
+currency: INR
+rating: '4.75'
+reviewCount: 217
+groupSizeMin: 2
+groupSizeMax: 15
+difficulty: Easy
+seatsLeft: 6
+featured: false
+trending: false
+bestseller: false
+highlights:
+  - Tsim Sha Tsui
+  - Lantau
+  - Street food
+  - Disneyland
+inclusions:
+  - Complimentary travel kit
+  - All sightseeing per itinerary
+  - Private air-conditioned transfers
+  - Entrance fees to monuments
+  - Applicable taxes & service charges
+  - Return economy airfare
+  - Welcome drink on arrival
+  - Daily breakfast & select meals
+  - Expert local English-speaking guide
+  - Airport pick-up & drop
+exclusions:
+  - Camera / drone permits
+  - Optional activities & upgrades
+  - Early check-in / late check-out charges
+  - Personal expenses & tips
+  - Meals not specified in itinerary
+tags:
+  - Hong Kong
+  - Hong Kong
+  - group
+  - international
+themes:
+  - Culture
+  - Scenic
+  - Relaxation
+departureCities:
+  - Ahmedabad
+  - Kolkata
+  - Chennai
+  - Pune
+availableDates:
+  - '2026-07-24'
+  - '2026-09-05'
+  - '2026-11-24'
+  - '2026-01-11'
+  - '2026-03-24'
+  - '2026-05-11'
+hotels:
+  - name: Highland Vista
+    rating: 5
+    nights: 3
+  - name: Lagoon Pearl Resort
+    rating: 4
+    nights: 3
+  - name: Heritage Haveli
+    rating: 4
+    nights: 3
+itinerary:
+  - day: 1
+    title: Arrival in Hong Kong
+    description: Arrive in Hong Kong, meet your TravelX host for a private transfer to the hotel. Freshen up and enjoy a relaxed evening at leisure with a welcome briefing.
+    stay: Serenity Palace
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 2
+    title: Adventure & activities
+    description: An action-packed day of activities and adventure suited to your pace, with all equipment and safety handled by our partners.
+    stay: Lagoon Pearl Resort
+    meals:
+      - Breakfast
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 3
+    title: Culture & leisure day
+    description: Immerse in local culture — markets, artisans and heritage — followed by free time to shop, relax or add an optional experience.
+    stay: The Grand Meridian
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 4
+    title: Adventure & activities
+    description: An action-packed day of activities and adventure suited to your pace, with all equipment and safety handled by our partners.
+    stay: Mountain Echo Lodge
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 5
+    title: Culture & leisure day
+    description: Immerse in local culture — markets, artisans and heritage — followed by free time to shop, relax or add an optional experience.
+    stay: Heritage Haveli
+    meals:
+      - Breakfast
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 6
+    title: Signature experience
+    description: 'The trip''s showcase day: a curated flagship experience unique to Hong Kong, designed to be the highlight of your journey.'
+    stay: Lagoon Pearl Resort
+    meals:
+      - Breakfast
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 7
+    title: Hong Kong city highlights
+    description: A full day of iconic sightseeing with your local guide — landmark monuments, viewpoints and hidden gems, with time for photos and local cuisine.
+    stay: Skyline Boutique
+    meals:
+      - Breakfast
+      - Dinner
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 8
+    title: Departure from Hong Kong
+    description: After breakfast and some last-minute souvenir shopping, transfer to the airport for your onward journey with TravelX memories to keep.
+    stay: ''
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops

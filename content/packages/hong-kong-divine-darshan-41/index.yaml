@@ -1,0 +1,163 @@
+title: Hong Kong Divine Darshan
+destination: Hong Kong
+destinationSlug: hong-kong
+country: Hong Kong
+type: international
+category: pilgrimage
+summary: 8 days of pilgrimage travel through Hong Kong — skyline drama & dim sum culture.
+description: Discover Hong Kong on this 8-day pilgrimage journey crafted by TravelX. Hong Kong is one of the world's most sought-after destinations — skyline drama & dim sum culture. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Hong Kong at an unhurried, premium pace. This itinerary balances must-see highlights with authentic local experiences and generous downtime, all backed by our 24/7 concierge and best-price promise.
+image: https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1200&q=80
+durationDays: 8
+durationNights: 7
+price: 95820
+oldPrice: 135813
+currency: INR
+rating: '4.9'
+reviewCount: 309
+groupSizeMin: 2
+groupSizeMax: 28
+difficulty: Moderate
+seatsLeft: 16
+featured: true
+trending: false
+bestseller: false
+highlights:
+  - Victoria Peak
+  - Tsim Sha Tsui
+  - Lantau
+  - Street food
+inclusions:
+  - Welcome drink on arrival
+  - 24/7 on-trip TravelX concierge
+  - Applicable taxes & service charges
+  - Private air-conditioned transfers
+  - Expert local English-speaking guide
+  - Complimentary travel kit
+  - Airport pick-up & drop
+  - Entrance fees to monuments
+exclusions:
+  - Optional activities & upgrades
+  - Early check-in / late check-out charges
+  - Meals not specified in itinerary
+  - GST where applicable
+  - Camera / drone permits
+tags:
+  - Hong Kong
+  - Hong Kong
+  - pilgrimage
+  - international
+themes:
+  - Culture
+  - Wellness
+  - Food
+departureCities:
+  - Mumbai
+  - Ahmedabad
+  - Kolkata
+  - Bengaluru
+availableDates:
+  - '2026-05-17'
+  - '2026-07-11'
+  - '2026-09-13'
+  - '2026-11-10'
+  - '2026-01-11'
+  - '2026-03-24'
+hotels:
+  - name: The Regal Court
+    rating: 5
+    nights: 3
+  - name: Emerald Sands
+    rating: 5
+    nights: 3
+  - name: Highland Vista
+    rating: 4
+    nights: 3
+itinerary:
+  - day: 1
+    title: Arrival in Hong Kong
+    description: Arrive in Hong Kong, meet your TravelX host for a private transfer to the hotel. Freshen up and enjoy a relaxed evening at leisure with a welcome briefing.
+    stay: Skyline Boutique
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 2
+    title: Culture & leisure day
+    description: Immerse in local culture — markets, artisans and heritage — followed by free time to shop, relax or add an optional experience.
+    stay: The Grand Meridian
+    meals:
+      - Lunch
+      - Breakfast
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 3
+    title: Hong Kong city highlights
+    description: A full day of iconic sightseeing with your local guide — landmark monuments, viewpoints and hidden gems, with time for photos and local cuisine.
+    stay: Heritage Haveli
+    meals:
+      - Dinner
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 4
+    title: Hong Kong city highlights
+    description: A full day of iconic sightseeing with your local guide — landmark monuments, viewpoints and hidden gems, with time for photos and local cuisine.
+    stay: Heritage Haveli
+    meals:
+      - Breakfast
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 5
+    title: Nature & scenic escape
+    description: Head out to the scenic countryside for panoramic landscapes, an outdoor experience and a memorable local lunch amid nature.
+    stay: Azure Bay Resort
+    meals:
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 6
+    title: Hong Kong city highlights
+    description: A full day of iconic sightseeing with your local guide — landmark monuments, viewpoints and hidden gems, with time for photos and local cuisine.
+    stay: Mountain Echo Lodge
+    meals:
+      - Dinner
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 7
+    title: Culture & leisure day
+    description: Immerse in local culture — markets, artisans and heritage — followed by free time to shop, relax or add an optional experience.
+    stay: Serenity Palace
+    meals:
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 8
+    title: Departure from Hong Kong
+    description: After breakfast and some last-minute souvenir shopping, transfer to the airport for your onward journey with TravelX memories to keep.
+    stay: ''
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine

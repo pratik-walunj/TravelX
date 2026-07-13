@@ -1,0 +1,53 @@
+name: Prague
+country: Czechia
+continent: Europe
+type: international
+tagline: The hundred-spired fairytale city
+description: Prague is one of the world's most sought-after destinations — the hundred-spired fairytale city. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Prague at an unhurried, premium pace.
+image: https://images.unsplash.com/photo-1541849546-216549ae216d?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80
+lat: '50.08'
+lng: '14.44'
+rating: '4.3'
+reviewCount: 1462
+packageCount: 22
+startingPrice: 187259
+idealDuration: 4–6 days
+trending: false
+featured: false
+bestTimeToVisit:
+  - Apr
+  - May
+  - Sep
+  - Oct
+activities:
+  - Castle tour
+  - River cruise
+  - Old town walk
+  - Beer tasting
+highlights:
+  - Charles Bridge
+  - Prague Castle
+  - Old Town Square
+  - Astronomical Clock
+tags:
+  - Europe
+  - international
+  - Castle tour
+  - River cruise
+weather:
+  - season: Peak
+    temp: 20°C
+    note: Clear skies, ideal for sightseeing
+  - season: Shoulder
+    temp: 26°C
+    note: Fewer crowds, great value
+  - season: Off-season
+    temp: 29°C
+    note: Lush landscapes, occasional rain

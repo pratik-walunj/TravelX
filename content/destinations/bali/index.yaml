@@ -1,0 +1,54 @@
+name: Bali
+country: Indonesia
+continent: Asia
+type: international
+tagline: Island of temples & rice terraces
+description: Bali is one of the world's most sought-after destinations — island of temples & rice terraces. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Bali at an unhurried, premium pace.
+image: https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80
+lat: '-8.34'
+lng: '115.09'
+rating: '4.9'
+reviewCount: 1675
+packageCount: 21
+startingPrice: 160602
+idealDuration: 6–8 days
+trending: true
+featured: true
+bestTimeToVisit:
+  - Apr
+  - May
+  - Jun
+  - Sep
+  - Oct
+activities:
+  - Temple tour
+  - Surfing
+  - Rice terrace trek
+  - Spa
+highlights:
+  - Ubud
+  - Uluwatu
+  - Tegallalang
+  - Nusa Penida
+tags:
+  - Asia
+  - international
+  - Temple tour
+  - Surfing
+weather:
+  - season: Peak
+    temp: 20°C
+    note: Clear skies, ideal for sightseeing
+  - season: Shoulder
+    temp: 27°C
+    note: Fewer crowds, great value
+  - season: Off-season
+    temp: 30°C
+    note: Lush landscapes, occasional rain

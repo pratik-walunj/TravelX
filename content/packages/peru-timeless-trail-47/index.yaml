@@ -1,0 +1,161 @@
+title: Peru Timeless Trail
+destination: Peru
+destinationSlug: peru
+country: Peru
+type: international
+category: cultural
+summary: 8 days of cultural travel through Peru — inca trails to machu picchu.
+description: Discover Peru on this 8-day cultural journey crafted by TravelX. Peru is one of the world's most sought-after destinations — inca trails to machu picchu. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Peru at an unhurried, premium pace. This itinerary balances must-see highlights with authentic local experiences and generous downtime, all backed by our 24/7 concierge and best-price promise.
+image: https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=1200&q=80
+durationDays: 8
+durationNights: 7
+price: 211242
+oldPrice: 278463
+currency: INR
+rating: '4.55'
+reviewCount: 161
+groupSizeMin: 2
+groupSizeMax: 23
+difficulty: Moderate
+seatsLeft: 4
+featured: false
+trending: false
+bestseller: false
+highlights:
+  - Machu Picchu
+  - Sacred Valley
+  - Machu Picchu
+  - Lake Titicaca
+inclusions:
+  - Applicable taxes & service charges
+  - Airport pick-up & drop
+  - Entrance fees to monuments
+  - Complimentary travel kit
+  - Welcome drink on arrival
+  - Private air-conditioned transfers
+  - Return economy airfare
+  - Daily breakfast & select meals
+exclusions:
+  - Anything not mentioned in inclusions
+  - Optional activities & upgrades
+  - Early check-in / late check-out charges
+  - GST where applicable
+tags:
+  - Peru
+  - Peru
+  - cultural
+  - international
+themes:
+  - Nature
+  - Food
+  - Culture
+departureCities:
+  - Hyderabad
+  - Kolkata
+  - Delhi
+  - Mumbai
+  - Pune
+  - Bengaluru
+availableDates:
+  - '2026-11-24'
+  - '2026-01-11'
+  - '2026-03-20'
+  - '2026-05-20'
+  - '2026-07-23'
+  - '2026-09-05'
+hotels:
+  - name: Coral Reef Villas
+    rating: 4
+    nights: 3
+  - name: Mountain Echo Lodge
+    rating: 5
+    nights: 3
+  - name: The Grand Meridian
+    rating: 5
+    nights: 3
+itinerary:
+  - day: 1
+    title: Arrival in Peru
+    description: Arrive in Peru, meet your TravelX host for a private transfer to the hotel. Freshen up and enjoy a relaxed evening at leisure with a welcome briefing.
+    stay: Emerald Sands
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 2
+    title: At leisure / optional tours
+    description: A flexible day to unwind by the pool, indulge in a spa, or choose from a menu of optional excursions.
+    stay: Highland Vista
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 3
+    title: Adventure & activities
+    description: An action-packed day of activities and adventure suited to your pace, with all equipment and safety handled by our partners.
+    stay: Aurora Retreat
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 4
+    title: Peru city highlights
+    description: A full day of iconic sightseeing with your local guide — landmark monuments, viewpoints and hidden gems, with time for photos and local cuisine.
+    stay: The Regal Court
+    meals:
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 5
+    title: Peru city highlights
+    description: A full day of iconic sightseeing with your local guide — landmark monuments, viewpoints and hidden gems, with time for photos and local cuisine.
+    stay: Skyline Boutique
+    meals:
+      - Dinner
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 6
+    title: Signature experience
+    description: 'The trip''s showcase day: a curated flagship experience unique to Peru, designed to be the highlight of your journey.'
+    stay: The Regal Court
+    meals:
+      - Dinner
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 7
+    title: Peru city highlights
+    description: A full day of iconic sightseeing with your local guide — landmark monuments, viewpoints and hidden gems, with time for photos and local cuisine.
+    stay: The Grand Meridian
+    meals:
+      - Lunch
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 8
+    title: Departure from Peru
+    description: After breakfast and some last-minute souvenir shopping, transfer to the airport for your onward journey with TravelX memories to keep.
+    stay: ''
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine

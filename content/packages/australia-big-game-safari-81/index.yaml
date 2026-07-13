@@ -1,0 +1,175 @@
+title: Australia Big Game Safari
+destination: Australia
+destinationSlug: australia
+country: Australia
+type: international
+category: wildlife
+summary: 9 days of wildlife travel through Australia — reefs, outback & cosmopolitan coasts.
+description: Discover Australia on this 9-day wildlife journey crafted by TravelX. Australia is one of the world's most sought-after destinations — reefs, outback & cosmopolitan coasts. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Australia at an unhurried, premium pace. This itinerary balances must-see highlights with authentic local experiences and generous downtime, all backed by our 24/7 concierge and best-price promise.
+image: https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1200&q=80
+durationDays: 9
+durationNights: 8
+price: 192197
+oldPrice: 234729
+currency: INR
+rating: '4.7'
+reviewCount: 782
+groupSizeMin: 2
+groupSizeMax: 25
+difficulty: Moderate
+seatsLeft: 18
+featured: true
+trending: true
+bestseller: false
+highlights:
+  - Coastal drive
+  - Wildlife park
+  - Great Barrier Reef
+  - Sydney
+inclusions:
+  - Applicable taxes & service charges
+  - Expert local English-speaking guide
+  - 24/7 on-trip TravelX concierge
+  - Return economy airfare
+  - Daily breakfast & select meals
+  - Airport pick-up & drop
+  - Entrance fees to monuments
+  - Welcome drink on arrival
+exclusions:
+  - GST where applicable
+  - Camera / drone permits
+  - Meals not specified in itinerary
+  - Personal expenses & tips
+  - Visa & travel insurance fees
+tags:
+  - Australia
+  - Australia
+  - wildlife
+  - international
+themes:
+  - Food
+  - Relaxation
+  - Nature
+departureCities:
+  - Mumbai
+  - Chennai
+  - Bengaluru
+  - Pune
+  - Kolkata
+  - Hyderabad
+availableDates:
+  - '2026-09-10'
+  - '2026-11-19'
+  - '2026-01-09'
+  - '2026-03-16'
+  - '2026-05-24'
+  - '2026-07-22'
+hotels:
+  - name: Heritage Haveli
+    rating: 5
+    nights: 3
+  - name: Skyline Boutique
+    rating: 5
+    nights: 3
+  - name: Coral Reef Villas
+    rating: 4
+    nights: 3
+itinerary:
+  - day: 1
+    title: Arrival in Australia
+    description: Arrive in Australia, meet your TravelX host for a private transfer to the hotel. Freshen up and enjoy a relaxed evening at leisure with a welcome briefing.
+    stay: Aurora Retreat
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 2
+    title: Adventure & activities
+    description: An action-packed day of activities and adventure suited to your pace, with all equipment and safety handled by our partners.
+    stay: Serenity Palace
+    meals:
+      - Lunch
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 3
+    title: Australia city highlights
+    description: A full day of iconic sightseeing with your local guide — landmark monuments, viewpoints and hidden gems, with time for photos and local cuisine.
+    stay: The Grand Meridian
+    meals:
+      - Dinner
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 4
+    title: Signature experience
+    description: 'The trip''s showcase day: a curated flagship experience unique to Australia, designed to be the highlight of your journey.'
+    stay: Lagoon Pearl Resort
+    meals:
+      - Dinner
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 5
+    title: At leisure / optional tours
+    description: A flexible day to unwind by the pool, indulge in a spa, or choose from a menu of optional excursions.
+    stay: Azure Bay Resort
+    meals:
+      - Lunch
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 6
+    title: At leisure / optional tours
+    description: A flexible day to unwind by the pool, indulge in a spa, or choose from a menu of optional excursions.
+    stay: Serenity Palace
+    meals:
+      - Breakfast
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 7
+    title: Culture & leisure day
+    description: Immerse in local culture — markets, artisans and heritage — followed by free time to shop, relax or add an optional experience.
+    stay: Emerald Sands
+    meals:
+      - Breakfast
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 8
+    title: Culture & leisure day
+    description: Immerse in local culture — markets, artisans and heritage — followed by free time to shop, relax or add an optional experience.
+    stay: Heritage Haveli
+    meals:
+      - Breakfast
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 9
+    title: Departure from Australia
+    description: After breakfast and some last-minute souvenir shopping, transfer to the airport for your onward journey with TravelX memories to keep.
+    stay: ''
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine

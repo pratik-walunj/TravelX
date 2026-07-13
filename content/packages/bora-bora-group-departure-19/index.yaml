@@ -1,0 +1,147 @@
+title: Bora Bora Group Departure
+destination: Bora Bora
+destinationSlug: bora-bora
+country: French Polynesia
+type: international
+category: group
+summary: 7 days of group travel through Bora Bora — the pearl of the pacific.
+description: Discover Bora Bora on this 7-day group journey crafted by TravelX. Bora Bora is one of the world's most sought-after destinations — the pearl of the pacific. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Bora Bora at an unhurried, premium pace. This itinerary balances must-see highlights with authentic local experiences and generous downtime, all backed by our 24/7 concierge and best-price promise.
+image: https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80
+durationDays: 7
+durationNights: 6
+price: 203385
+oldPrice: 276440
+currency: INR
+rating: '4.8'
+reviewCount: 365
+groupSizeMin: 2
+groupSizeMax: 12
+difficulty: Moderate
+seatsLeft: 9
+featured: true
+trending: false
+bestseller: false
+highlights:
+  - Lagoon tour
+  - Coral gardens
+  - Mount Otemanu
+  - Overwater bungalow
+inclusions:
+  - Return economy airfare
+  - Handpicked 4★/5★ accommodation
+  - All sightseeing per itinerary
+  - Entrance fees to monuments
+  - Daily breakfast & select meals
+  - 24/7 on-trip TravelX concierge
+  - Expert local English-speaking guide
+exclusions:
+  - GST where applicable
+  - Early check-in / late check-out charges
+  - Anything not mentioned in inclusions
+  - Optional activities & upgrades
+tags:
+  - Bora Bora
+  - French Polynesia
+  - group
+  - international
+themes:
+  - Food
+  - Relaxation
+  - Nightlife
+departureCities:
+  - Chennai
+  - Hyderabad
+  - Pune
+  - Ahmedabad
+  - Delhi
+availableDates:
+  - '2026-07-24'
+  - '2026-09-12'
+  - '2026-11-25'
+  - '2026-01-04'
+  - '2026-03-07'
+  - '2026-05-21'
+hotels:
+  - name: Highland Vista
+    rating: 4
+    nights: 3
+  - name: Lagoon Pearl Resort
+    rating: 5
+    nights: 3
+itinerary:
+  - day: 1
+    title: Arrival in Bora Bora
+    description: Arrive in Bora Bora, meet your TravelX host for a private transfer to the hotel. Freshen up and enjoy a relaxed evening at leisure with a welcome briefing.
+    stay: Emerald Sands
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 2
+    title: Nature & scenic escape
+    description: Head out to the scenic countryside for panoramic landscapes, an outdoor experience and a memorable local lunch amid nature.
+    stay: Azure Bay Resort
+    meals:
+      - Breakfast
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 3
+    title: At leisure / optional tours
+    description: A flexible day to unwind by the pool, indulge in a spa, or choose from a menu of optional excursions.
+    stay: Highland Vista
+    meals:
+      - Breakfast
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 4
+    title: At leisure / optional tours
+    description: A flexible day to unwind by the pool, indulge in a spa, or choose from a menu of optional excursions.
+    stay: The Grand Meridian
+    meals:
+      - Lunch
+      - Breakfast
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 5
+    title: Nature & scenic escape
+    description: Head out to the scenic countryside for panoramic landscapes, an outdoor experience and a memorable local lunch amid nature.
+    stay: Highland Vista
+    meals:
+      - Breakfast
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 6
+    title: At leisure / optional tours
+    description: A flexible day to unwind by the pool, indulge in a spa, or choose from a menu of optional excursions.
+    stay: Lagoon Pearl Resort
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 7
+    title: Departure from Bora Bora
+    description: After breakfast and some last-minute souvenir shopping, transfer to the airport for your onward journey with TravelX memories to keep.
+    stay: ''
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine

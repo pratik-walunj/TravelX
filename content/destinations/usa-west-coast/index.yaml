@@ -1,0 +1,53 @@
+name: USA West Coast
+country: USA
+continent: North America
+type: international
+tagline: Neon cities to national parks
+description: USA West Coast is one of the world's most sought-after destinations — neon cities to national parks. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of USA West Coast at an unhurried, premium pace.
+image: https://images.unsplash.com/photo-1449034446853-66c86144b0ad?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80
+lat: '36.78'
+lng: '-119.42'
+rating: '4.45'
+reviewCount: 1501
+packageCount: 17
+startingPrice: 59653
+idealDuration: 10–14 days
+trending: false
+featured: false
+bestTimeToVisit:
+  - Apr
+  - May
+  - Sep
+  - Oct
+activities:
+  - Grand Canyon
+  - Vegas nights
+  - Coastal drive
+  - Theme parks
+highlights:
+  - Los Angeles
+  - Las Vegas
+  - San Francisco
+  - Grand Canyon
+tags:
+  - North America
+  - international
+  - Grand Canyon
+  - Vegas nights
+weather:
+  - season: Peak
+    temp: 24°C
+    note: Clear skies, ideal for sightseeing
+  - season: Shoulder
+    temp: 26°C
+    note: Fewer crowds, great value
+  - season: Off-season
+    temp: 36°C
+    note: Lush landscapes, occasional rain

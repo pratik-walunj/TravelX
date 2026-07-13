@@ -1,0 +1,136 @@
+title: Sri Lanka Luxury Cruise
+destination: Sri Lanka
+destinationSlug: sri-lanka
+country: Sri Lanka
+type: international
+category: cruise
+summary: 5 days of cruise travel through Sri Lanka — tea country, temples & tropical coasts.
+description: Discover Sri Lanka on this 5-day cruise journey crafted by TravelX. Sri Lanka is one of the world's most sought-after destinations — tea country, temples & tropical coasts. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Sri Lanka at an unhurried, premium pace. This itinerary balances must-see highlights with authentic local experiences and generous downtime, all backed by our 24/7 concierge and best-price promise.
+image: https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1530789253388-582c481c54b0?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1200&q=80
+durationDays: 5
+durationNights: 4
+price: 59182
+oldPrice: 81376
+currency: INR
+rating: '4.2'
+reviewCount: 73
+groupSizeMin: 2
+groupSizeMax: 27
+difficulty: Moderate
+seatsLeft: 4
+featured: true
+trending: true
+bestseller: true
+highlights:
+  - Ella
+  - Galle
+  - Whale watching
+  - Kandy
+inclusions:
+  - Handpicked 4★/5★ accommodation
+  - All sightseeing per itinerary
+  - 24/7 on-trip TravelX concierge
+  - Return economy airfare
+  - Expert local English-speaking guide
+  - Airport pick-up & drop
+  - Welcome drink on arrival
+  - Applicable taxes & service charges
+  - Complimentary travel kit
+  - Entrance fees to monuments
+exclusions:
+  - Early check-in / late check-out charges
+  - Anything not mentioned in inclusions
+  - Meals not specified in itinerary
+  - Optional activities & upgrades
+  - GST where applicable
+  - Personal expenses & tips
+tags:
+  - Sri Lanka
+  - Sri Lanka
+  - cruise
+  - international
+themes:
+  - Scenic
+  - Nature
+  - Photography
+departureCities:
+  - Bengaluru
+  - Delhi
+  - Ahmedabad
+  - Mumbai
+  - Kolkata
+availableDates:
+  - '2026-12-10'
+  - '2026-02-25'
+  - '2026-04-26'
+  - '2026-06-10'
+  - '2026-08-12'
+  - '2026-10-12'
+hotels:
+  - name: Mountain Echo Lodge
+    rating: 4
+    nights: 2
+  - name: The Grand Meridian
+    rating: 4
+    nights: 2
+itinerary:
+  - day: 1
+    title: Arrival in Sri Lanka
+    description: Arrive in Sri Lanka, meet your TravelX host for a private transfer to the hotel. Freshen up and enjoy a relaxed evening at leisure with a welcome briefing.
+    stay: Lagoon Pearl Resort
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 2
+    title: Nature & scenic escape
+    description: Head out to the scenic countryside for panoramic landscapes, an outdoor experience and a memorable local lunch amid nature.
+    stay: Highland Vista
+    meals:
+      - Breakfast
+      - Lunch
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 3
+    title: Signature experience
+    description: 'The trip''s showcase day: a curated flagship experience unique to Sri Lanka, designed to be the highlight of your journey.'
+    stay: Mountain Echo Lodge
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 4
+    title: Sri Lanka city highlights
+    description: A full day of iconic sightseeing with your local guide — landmark monuments, viewpoints and hidden gems, with time for photos and local cuisine.
+    stay: The Regal Court
+    meals:
+      - Breakfast
+      - Lunch
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 5
+    title: Departure from Sri Lanka
+    description: After breakfast and some last-minute souvenir shopping, transfer to the airport for your onward journey with TravelX memories to keep.
+    stay: ''
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops

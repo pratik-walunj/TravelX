@@ -1,0 +1,54 @@
+name: Thailand
+country: Thailand
+continent: Asia
+type: international
+tagline: Beaches, temples & street feasts
+description: Thailand is one of the world's most sought-after destinations — beaches, temples & street feasts. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Thailand at an unhurried, premium pace.
+image: https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80
+lat: '15.87'
+lng: '100.99'
+rating: '4.45'
+reviewCount: 2287
+packageCount: 12
+startingPrice: 157718
+idealDuration: 6–8 days
+trending: false
+featured: true
+bestTimeToVisit:
+  - Nov
+  - Dec
+  - Jan
+  - Feb
+  - Mar
+activities:
+  - Island tour
+  - Temple hop
+  - Thai massage
+  - Night market
+highlights:
+  - Bangkok
+  - Phuket
+  - Krabi
+  - Chiang Mai
+tags:
+  - Asia
+  - international
+  - Island tour
+  - Temple hop
+weather:
+  - season: Peak
+    temp: 20°C
+    note: Clear skies, ideal for sightseeing
+  - season: Shoulder
+    temp: 30°C
+    note: Fewer crowds, great value
+  - season: Off-season
+    temp: 31°C
+    note: Lush landscapes, occasional rain

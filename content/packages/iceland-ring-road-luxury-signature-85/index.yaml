@@ -1,0 +1,129 @@
+title: Iceland Ring Road Luxury Signature
+destination: Iceland Ring Road
+destinationSlug: iceland-ring-road
+country: Iceland
+type: international
+category: luxury
+summary: 5 days of luxury travel through Iceland Ring Road — waterfalls, black sands & glaciers.
+description: Discover Iceland Ring Road on this 5-day luxury journey crafted by TravelX. Iceland Ring Road is one of the world's most sought-after destinations — waterfalls, black sands & glaciers. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Iceland Ring Road at an unhurried, premium pace. This itinerary balances must-see highlights with authentic local experiences and generous downtime, all backed by our 24/7 concierge and best-price promise.
+image: https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1530789253388-582c481c54b0?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80
+durationDays: 5
+durationNights: 4
+price: 110909
+oldPrice: 143728
+currency: INR
+rating: '4.7'
+reviewCount: 488
+groupSizeMin: 2
+groupSizeMax: 16
+difficulty: Easy
+seatsLeft: 6
+featured: true
+trending: false
+bestseller: true
+highlights:
+  - Ice cave
+  - Hot springs
+  - Whale watching
+  - Waterfall tour
+inclusions:
+  - 24/7 on-trip TravelX concierge
+  - Handpicked 4★/5★ accommodation
+  - Airport pick-up & drop
+  - Applicable taxes & service charges
+  - Entrance fees to monuments
+  - All sightseeing per itinerary
+  - Expert local English-speaking guide
+  - Return economy airfare
+  - Complimentary travel kit
+exclusions:
+  - GST where applicable
+  - Meals not specified in itinerary
+  - Camera / drone permits
+  - Optional activities & upgrades
+  - Early check-in / late check-out charges
+tags:
+  - Iceland Ring Road
+  - Iceland
+  - luxury
+  - international
+themes:
+  - Scenic
+  - Wellness
+  - Photography
+departureCities:
+  - Chennai
+  - Bengaluru
+  - Pune
+  - Delhi
+availableDates:
+  - '2026-01-20'
+  - '2026-03-20'
+  - '2026-05-05'
+  - '2026-07-03'
+  - '2026-09-17'
+  - '2026-11-09'
+hotels:
+  - name: The Grand Meridian
+    rating: 4
+    nights: 2
+  - name: Azure Bay Resort
+    rating: 5
+    nights: 2
+itinerary:
+  - day: 1
+    title: Arrival in Iceland Ring Road
+    description: Arrive in Iceland Ring Road, meet your TravelX host for a private transfer to the hotel. Freshen up and enjoy a relaxed evening at leisure with a welcome briefing.
+    stay: Aurora Retreat
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 2
+    title: Nature & scenic escape
+    description: Head out to the scenic countryside for panoramic landscapes, an outdoor experience and a memorable local lunch amid nature.
+    stay: Heritage Haveli
+    meals:
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 3
+    title: Signature experience
+    description: 'The trip''s showcase day: a curated flagship experience unique to Iceland Ring Road, designed to be the highlight of your journey.'
+    stay: Emerald Sands
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 4
+    title: Iceland Ring Road city highlights
+    description: A full day of iconic sightseeing with your local guide — landmark monuments, viewpoints and hidden gems, with time for photos and local cuisine.
+    stay: The Grand Meridian
+    meals:
+      - Lunch
+      - Dinner
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 5
+    title: Departure from Iceland Ring Road
+    description: After breakfast and some last-minute souvenir shopping, transfer to the airport for your onward journey with TravelX memories to keep.
+    stay: ''
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine

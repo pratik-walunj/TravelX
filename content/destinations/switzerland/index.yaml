@@ -1,0 +1,55 @@
+name: Switzerland
+country: Switzerland
+continent: Europe
+type: international
+tagline: Alpine peaks, lakes & scenic rails
+description: Switzerland is one of the world's most sought-after destinations — alpine peaks, lakes & scenic rails. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Switzerland at an unhurried, premium pace.
+image: https://images.unsplash.com/photo-1530122037265-a5f1f91d3b99?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80
+lat: '46.82'
+lng: '8.23'
+rating: '4.5'
+reviewCount: 1398
+packageCount: 14
+startingPrice: 138772
+idealDuration: 7–9 days
+trending: true
+featured: true
+bestTimeToVisit:
+  - May
+  - Jun
+  - Jul
+  - Aug
+  - Sep
+  - Dec
+activities:
+  - Scenic train
+  - Cable car
+  - Lake cruise
+  - Skiing
+highlights:
+  - Jungfraujoch
+  - Interlaken
+  - Lucerne
+  - Zermatt
+tags:
+  - Europe
+  - international
+  - Scenic train
+  - Cable car
+weather:
+  - season: Peak
+    temp: 25°C
+    note: Clear skies, ideal for sightseeing
+  - season: Shoulder
+    temp: 27°C
+    note: Fewer crowds, great value
+  - season: Off-season
+    temp: 31°C
+    note: Lush landscapes, occasional rain

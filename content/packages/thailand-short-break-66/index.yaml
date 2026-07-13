@@ -1,0 +1,138 @@
+title: Thailand Short Break
+destination: Thailand
+destinationSlug: thailand
+country: Thailand
+type: international
+category: weekend
+summary: 6 days of weekend travel through Thailand — beaches, temples & street feasts.
+description: Discover Thailand on this 6-day weekend journey crafted by TravelX. Thailand is one of the world's most sought-after destinations — beaches, temples & street feasts. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Thailand at an unhurried, premium pace. This itinerary balances must-see highlights with authentic local experiences and generous downtime, all backed by our 24/7 concierge and best-price promise.
+image: https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&w=1200&q=80
+durationDays: 6
+durationNights: 5
+price: 109585
+oldPrice: 136437
+currency: INR
+rating: '4.75'
+reviewCount: 713
+groupSizeMin: 2
+groupSizeMax: 25
+difficulty: Easy
+seatsLeft: 3
+featured: false
+trending: false
+bestseller: false
+highlights:
+  - Chiang Mai
+  - Island tour
+  - Bangkok
+  - Temple hop
+inclusions:
+  - All sightseeing per itinerary
+  - Private air-conditioned transfers
+  - Airport pick-up & drop
+  - Return economy airfare
+  - Expert local English-speaking guide
+  - 24/7 on-trip TravelX concierge
+  - Applicable taxes & service charges
+  - Entrance fees to monuments
+exclusions:
+  - Anything not mentioned in inclusions
+  - Personal expenses & tips
+  - GST where applicable
+  - Meals not specified in itinerary
+tags:
+  - Thailand
+  - Thailand
+  - weekend
+  - international
+themes:
+  - Culture
+  - Relaxation
+  - Nightlife
+departureCities:
+  - Delhi
+  - Ahmedabad
+  - Kolkata
+  - Hyderabad
+availableDates:
+  - '2026-06-24'
+  - '2026-08-14'
+  - '2026-10-17'
+  - '2026-12-16'
+  - '2026-02-10'
+  - '2026-04-12'
+hotels:
+  - name: Emerald Sands
+    rating: 4
+    nights: 3
+  - name: Highland Vista
+    rating: 5
+    nights: 3
+itinerary:
+  - day: 1
+    title: Arrival in Thailand
+    description: Arrive in Thailand, meet your TravelX host for a private transfer to the hotel. Freshen up and enjoy a relaxed evening at leisure with a welcome briefing.
+    stay: Aurora Retreat
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 2
+    title: Culture & leisure day
+    description: Immerse in local culture — markets, artisans and heritage — followed by free time to shop, relax or add an optional experience.
+    stay: Highland Vista
+    meals:
+      - Lunch
+      - Breakfast
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 3
+    title: At leisure / optional tours
+    description: A flexible day to unwind by the pool, indulge in a spa, or choose from a menu of optional excursions.
+    stay: Coral Reef Villas
+    meals:
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 4
+    title: Thailand city highlights
+    description: A full day of iconic sightseeing with your local guide — landmark monuments, viewpoints and hidden gems, with time for photos and local cuisine.
+    stay: The Regal Court
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 5
+    title: At leisure / optional tours
+    description: A flexible day to unwind by the pool, indulge in a spa, or choose from a menu of optional excursions.
+    stay: The Regal Court
+    meals:
+      - Dinner
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 6
+    title: Departure from Thailand
+    description: After breakfast and some last-minute souvenir shopping, transfer to the airport for your onward journey with TravelX memories to keep.
+    stay: ''
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops

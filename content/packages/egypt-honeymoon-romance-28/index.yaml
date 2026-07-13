@@ -1,0 +1,176 @@
+title: Egypt Honeymoon Romance
+destination: Egypt
+destinationSlug: egypt
+country: Egypt
+type: international
+category: honeymoon
+summary: 9 days of honeymoon travel through Egypt — pyramids, pharaohs & the nile.
+description: Discover Egypt on this 9-day honeymoon journey crafted by TravelX. Egypt is one of the world's most sought-after destinations — pyramids, pharaohs & the nile. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Egypt at an unhurried, premium pace. This itinerary balances must-see highlights with authentic local experiences and generous downtime, all backed by our 24/7 concierge and best-price promise.
+image: https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80
+durationDays: 9
+durationNights: 8
+price: 221099
+oldPrice: 278490
+currency: INR
+rating: '4.8'
+reviewCount: 160
+groupSizeMin: 2
+groupSizeMax: 15
+difficulty: Moderate
+seatsLeft: 13
+featured: false
+trending: false
+bestseller: false
+highlights:
+  - Luxor
+  - Pyramid tour
+  - Nile cruise
+  - Temple visit
+inclusions:
+  - Applicable taxes & service charges
+  - Airport pick-up & drop
+  - Expert local English-speaking guide
+  - Entrance fees to monuments
+  - Return economy airfare
+  - Handpicked 4★/5★ accommodation
+  - Complimentary travel kit
+exclusions:
+  - GST where applicable
+  - Camera / drone permits
+  - Visa & travel insurance fees
+  - Personal expenses & tips
+  - Optional activities & upgrades
+  - Meals not specified in itinerary
+tags:
+  - Egypt
+  - Egypt
+  - honeymoon
+  - international
+themes:
+  - Photography
+  - Culture
+  - Food
+departureCities:
+  - Bengaluru
+  - Mumbai
+  - Chennai
+  - Pune
+  - Delhi
+  - Hyderabad
+availableDates:
+  - '2026-04-24'
+  - '2026-06-11'
+  - '2026-08-04'
+  - '2026-10-17'
+  - '2026-12-15'
+  - '2026-02-17'
+hotels:
+  - name: Aurora Retreat
+    rating: 5
+    nights: 3
+  - name: The Regal Court
+    rating: 5
+    nights: 3
+  - name: Emerald Sands
+    rating: 4
+    nights: 3
+itinerary:
+  - day: 1
+    title: Arrival in Egypt
+    description: Arrive in Egypt, meet your TravelX host for a private transfer to the hotel. Freshen up and enjoy a relaxed evening at leisure with a welcome briefing.
+    stay: Azure Bay Resort
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 2
+    title: Adventure & activities
+    description: An action-packed day of activities and adventure suited to your pace, with all equipment and safety handled by our partners.
+    stay: Azure Bay Resort
+    meals:
+      - Dinner
+      - Breakfast
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 3
+    title: Culture & leisure day
+    description: Immerse in local culture — markets, artisans and heritage — followed by free time to shop, relax or add an optional experience.
+    stay: The Grand Meridian
+    meals:
+      - Lunch
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 4
+    title: Adventure & activities
+    description: An action-packed day of activities and adventure suited to your pace, with all equipment and safety handled by our partners.
+    stay: Emerald Sands
+    meals:
+      - Lunch
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 5
+    title: Egypt city highlights
+    description: A full day of iconic sightseeing with your local guide — landmark monuments, viewpoints and hidden gems, with time for photos and local cuisine.
+    stay: Azure Bay Resort
+    meals:
+      - Dinner
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 6
+    title: Nature & scenic escape
+    description: Head out to the scenic countryside for panoramic landscapes, an outdoor experience and a memorable local lunch amid nature.
+    stay: The Regal Court
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 7
+    title: Nature & scenic escape
+    description: Head out to the scenic countryside for panoramic landscapes, an outdoor experience and a memorable local lunch amid nature.
+    stay: Azure Bay Resort
+    meals:
+      - Lunch
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 8
+    title: Signature experience
+    description: 'The trip''s showcase day: a curated flagship experience unique to Egypt, designed to be the highlight of your journey.'
+    stay: Coral Reef Villas
+    meals:
+      - Breakfast
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 9
+    title: Departure from Egypt
+    description: After breakfast and some last-minute souvenir shopping, transfer to the airport for your onward journey with TravelX memories to keep.
+    stay: ''
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine

@@ -1,0 +1,131 @@
+title: Paris Divine Darshan
+destination: Paris
+destinationSlug: paris
+country: France
+type: international
+category: pilgrimage
+summary: 5 days of pilgrimage travel through Paris — the city of light & love.
+description: Discover Paris on this 5-day pilgrimage journey crafted by TravelX. Paris is one of the world's most sought-after destinations — the city of light & love. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Paris at an unhurried, premium pace. This itinerary balances must-see highlights with authentic local experiences and generous downtime, all backed by our 24/7 concierge and best-price promise.
+image: https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=1200&q=80
+durationDays: 5
+durationNights: 4
+price: 180146
+oldPrice: 255987
+currency: INR
+rating: '4.25'
+reviewCount: 245
+groupSizeMin: 2
+groupSizeMax: 22
+difficulty: Challenging
+seatsLeft: 9
+featured: false
+trending: true
+bestseller: false
+highlights:
+  - Louvre
+  - Eiffel Tower
+  - Versailles
+  - Eiffel Tower
+inclusions:
+  - Return economy airfare
+  - Expert local English-speaking guide
+  - Private air-conditioned transfers
+  - Applicable taxes & service charges
+  - Airport pick-up & drop
+  - 24/7 on-trip TravelX concierge
+  - Daily breakfast & select meals
+  - Handpicked 4★/5★ accommodation
+  - Complimentary travel kit
+exclusions:
+  - Anything not mentioned in inclusions
+  - Camera / drone permits
+  - GST where applicable
+  - Visa & travel insurance fees
+  - Meals not specified in itinerary
+  - Early check-in / late check-out charges
+tags:
+  - Paris
+  - France
+  - pilgrimage
+  - international
+themes:
+  - Wellness
+  - Scenic
+  - Relaxation
+departureCities:
+  - Pune
+  - Delhi
+  - Chennai
+  - Kolkata
+availableDates:
+  - '2026-05-24'
+  - '2026-07-10'
+  - '2026-09-22'
+  - '2026-11-14'
+  - '2026-01-08'
+  - '2026-03-16'
+hotels:
+  - name: The Regal Court
+    rating: 5
+    nights: 2
+  - name: Emerald Sands
+    rating: 5
+    nights: 2
+itinerary:
+  - day: 1
+    title: Arrival in Paris
+    description: Arrive in Paris, meet your TravelX host for a private transfer to the hotel. Freshen up and enjoy a relaxed evening at leisure with a welcome briefing.
+    stay: The Grand Meridian
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 2
+    title: Nature & scenic escape
+    description: Head out to the scenic countryside for panoramic landscapes, an outdoor experience and a memorable local lunch amid nature.
+    stay: Highland Vista
+    meals:
+      - Lunch
+      - Breakfast
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 3
+    title: Culture & leisure day
+    description: Immerse in local culture — markets, artisans and heritage — followed by free time to shop, relax or add an optional experience.
+    stay: Serenity Palace
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 4
+    title: Adventure & activities
+    description: An action-packed day of activities and adventure suited to your pace, with all equipment and safety handled by our partners.
+    stay: The Grand Meridian
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 5
+    title: Departure from Paris
+    description: After breakfast and some last-minute souvenir shopping, transfer to the airport for your onward journey with TravelX memories to keep.
+    stay: ''
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine

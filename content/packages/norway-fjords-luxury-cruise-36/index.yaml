@@ -1,0 +1,162 @@
+title: Norway Fjords Luxury Cruise
+destination: Norway Fjords
+destinationSlug: norway-fjords
+country: Norway
+type: international
+category: cruise
+summary: 8 days of cruise travel through Norway Fjords — steep fjords & midnight sun.
+description: Discover Norway Fjords on this 8-day cruise journey crafted by TravelX. Norway Fjords is one of the world's most sought-after destinations — steep fjords & midnight sun. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Norway Fjords at an unhurried, premium pace. This itinerary balances must-see highlights with authentic local experiences and generous downtime, all backed by our 24/7 concierge and best-price promise.
+image: https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&w=1200&q=80
+durationDays: 8
+durationNights: 7
+price: 170218
+oldPrice: 202397
+currency: INR
+rating: '4.65'
+reviewCount: 80
+groupSizeMin: 2
+groupSizeMax: 25
+difficulty: Moderate
+seatsLeft: 10
+featured: false
+trending: true
+bestseller: false
+highlights:
+  - Tromsø
+  - Geirangerfjord
+  - Flåm railway
+  - Bergen
+inclusions:
+  - Private air-conditioned transfers
+  - Airport pick-up & drop
+  - Daily breakfast & select meals
+  - 24/7 on-trip TravelX concierge
+  - Complimentary travel kit
+  - Welcome drink on arrival
+  - Handpicked 4★/5★ accommodation
+exclusions:
+  - Anything not mentioned in inclusions
+  - GST where applicable
+  - Visa & travel insurance fees
+  - Camera / drone permits
+  - Early check-in / late check-out charges
+tags:
+  - Norway Fjords
+  - Norway
+  - cruise
+  - international
+themes:
+  - Wellness
+  - Food
+  - Culture
+departureCities:
+  - Mumbai
+  - Delhi
+  - Ahmedabad
+  - Pune
+  - Bengaluru
+availableDates:
+  - '2026-12-07'
+  - '2026-02-15'
+  - '2026-04-22'
+  - '2026-06-03'
+  - '2026-08-25'
+  - '2026-10-18'
+hotels:
+  - name: Mountain Echo Lodge
+    rating: 4
+    nights: 3
+  - name: The Grand Meridian
+    rating: 5
+    nights: 3
+  - name: Azure Bay Resort
+    rating: 4
+    nights: 3
+itinerary:
+  - day: 1
+    title: Arrival in Norway Fjords
+    description: Arrive in Norway Fjords, meet your TravelX host for a private transfer to the hotel. Freshen up and enjoy a relaxed evening at leisure with a welcome briefing.
+    stay: Highland Vista
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 2
+    title: Signature experience
+    description: 'The trip''s showcase day: a curated flagship experience unique to Norway Fjords, designed to be the highlight of your journey.'
+    stay: Azure Bay Resort
+    meals:
+      - Dinner
+      - Lunch
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 3
+    title: Culture & leisure day
+    description: Immerse in local culture — markets, artisans and heritage — followed by free time to shop, relax or add an optional experience.
+    stay: Mountain Echo Lodge
+    meals:
+      - Breakfast
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 4
+    title: Nature & scenic escape
+    description: Head out to the scenic countryside for panoramic landscapes, an outdoor experience and a memorable local lunch amid nature.
+    stay: Azure Bay Resort
+    meals:
+      - Dinner
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 5
+    title: Culture & leisure day
+    description: Immerse in local culture — markets, artisans and heritage — followed by free time to shop, relax or add an optional experience.
+    stay: Aurora Retreat
+    meals:
+      - Lunch
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 6
+    title: Signature experience
+    description: 'The trip''s showcase day: a curated flagship experience unique to Norway Fjords, designed to be the highlight of your journey.'
+    stay: The Grand Meridian
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 7
+    title: Nature & scenic escape
+    description: Head out to the scenic countryside for panoramic landscapes, an outdoor experience and a memorable local lunch amid nature.
+    stay: The Regal Court
+    meals:
+      - Breakfast
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 8
+    title: Departure from Norway Fjords
+    description: After breakfast and some last-minute souvenir shopping, transfer to the airport for your onward journey with TravelX memories to keep.
+    stay: ''
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops

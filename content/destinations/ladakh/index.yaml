@@ -1,0 +1,54 @@
+name: Ladakh
+country: India
+continent: Asia
+type: domestic
+tagline: Roof of the world, land of high passes
+description: Ladakh is one of India's most sought-after destinations — roof of the world, land of high passes. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Ladakh at an unhurried, premium pace.
+image: https://images.unsplash.com/photo-1581793745862-99fde7fa73d2?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1530789253388-582c481c54b0?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80
+lat: '34.15'
+lng: '77.57'
+rating: '4.5'
+reviewCount: 679
+packageCount: 21
+startingPrice: 33534
+idealDuration: 6–9 days
+trending: true
+featured: true
+bestTimeToVisit:
+  - May
+  - Jun
+  - Jul
+  - Aug
+  - Sep
+activities:
+  - Bike expedition
+  - Monastery tour
+  - River rafting
+  - Stargazing
+highlights:
+  - Pangong Lake
+  - Nubra Valley
+  - Khardung La
+  - Thiksey Monastery
+tags:
+  - Asia
+  - domestic
+  - Bike expedition
+  - Monastery tour
+weather:
+  - season: Peak
+    temp: 22°C
+    note: Clear skies, ideal for sightseeing
+  - season: Shoulder
+    temp: 31°C
+    note: Fewer crowds, great value
+  - season: Off-season
+    temp: 32°C
+    note: Lush landscapes, occasional rain

@@ -1,0 +1,54 @@
+name: Tanzania
+country: Tanzania
+continent: Africa
+type: international
+tagline: Serengeti plains & Zanzibar shores
+description: Tanzania is one of the world's most sought-after destinations — serengeti plains & zanzibar shores. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Tanzania at an unhurried, premium pace.
+image: https://images.unsplash.com/photo-1547970810-dc1eac37d174?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80
+lat: '-6.37'
+lng: '34.89'
+rating: '4.55'
+reviewCount: 632
+packageCount: 6
+startingPrice: 187404
+idealDuration: 8–10 days
+trending: false
+featured: false
+bestTimeToVisit:
+  - Jun
+  - Jul
+  - Aug
+  - Sep
+  - Oct
+activities:
+  - Serengeti safari
+  - Ngorongoro tour
+  - Kilimanjaro trek
+  - Beach day
+highlights:
+  - Serengeti
+  - Ngorongoro
+  - Zanzibar
+  - Kilimanjaro
+tags:
+  - Africa
+  - international
+  - Serengeti safari
+  - Ngorongoro tour
+weather:
+  - season: Peak
+    temp: 19°C
+    note: Clear skies, ideal for sightseeing
+  - season: Shoulder
+    temp: 27°C
+    note: Fewer crowds, great value
+  - season: Off-season
+    temp: 33°C
+    note: Lush landscapes, occasional rain

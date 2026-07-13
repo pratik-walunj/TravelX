@@ -1,0 +1,129 @@
+title: Maldives Luxury Signature
+destination: Maldives
+destinationSlug: maldives
+country: Maldives
+type: international
+category: luxury
+summary: 5 days of luxury travel through Maldives — overwater villas & endless lagoons.
+description: Discover Maldives on this 5-day luxury journey crafted by TravelX. Maldives is one of the world's most sought-after destinations — overwater villas & endless lagoons. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Maldives at an unhurried, premium pace. This itinerary balances must-see highlights with authentic local experiences and generous downtime, all backed by our 24/7 concierge and best-price promise.
+image: https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1200&q=80
+durationDays: 5
+durationNights: 4
+price: 168886
+oldPrice: 197243
+currency: INR
+rating: '4.8'
+reviewCount: 234
+groupSizeMin: 2
+groupSizeMax: 11
+difficulty: Challenging
+seatsLeft: 13
+featured: false
+trending: false
+bestseller: false
+highlights:
+  - House reefs
+  - Sunset cruise
+  - Diving
+  - Bioluminescent beach
+inclusions:
+  - Expert local English-speaking guide
+  - All sightseeing per itinerary
+  - Complimentary travel kit
+  - Entrance fees to monuments
+  - Airport pick-up & drop
+  - Daily breakfast & select meals
+  - Handpicked 4★/5★ accommodation
+  - Applicable taxes & service charges
+exclusions:
+  - Visa & travel insurance fees
+  - Camera / drone permits
+  - Early check-in / late check-out charges
+  - GST where applicable
+tags:
+  - Maldives
+  - Maldives
+  - luxury
+  - international
+themes:
+  - Culture
+  - Food
+  - Scenic
+departureCities:
+  - Delhi
+  - Chennai
+  - Bengaluru
+  - Pune
+  - Kolkata
+availableDates:
+  - '2026-01-08'
+  - '2026-03-25'
+  - '2026-05-07'
+  - '2026-07-26'
+  - '2026-09-05'
+  - '2026-11-07'
+hotels:
+  - name: The Grand Meridian
+    rating: 4
+    nights: 2
+  - name: Azure Bay Resort
+    rating: 4
+    nights: 2
+itinerary:
+  - day: 1
+    title: Arrival in Maldives
+    description: Arrive in Maldives, meet your TravelX host for a private transfer to the hotel. Freshen up and enjoy a relaxed evening at leisure with a welcome briefing.
+    stay: Serenity Palace
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 2
+    title: Culture & leisure day
+    description: Immerse in local culture — markets, artisans and heritage — followed by free time to shop, relax or add an optional experience.
+    stay: Lagoon Pearl Resort
+    meals:
+      - Breakfast
+      - Lunch
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 3
+    title: Culture & leisure day
+    description: Immerse in local culture — markets, artisans and heritage — followed by free time to shop, relax or add an optional experience.
+    stay: The Grand Meridian
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 4
+    title: Adventure & activities
+    description: An action-packed day of activities and adventure suited to your pace, with all equipment and safety handled by our partners.
+    stay: Mountain Echo Lodge
+    meals:
+      - Lunch
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 5
+    title: Departure from Maldives
+    description: After breakfast and some last-minute souvenir shopping, transfer to the airport for your onward journey with TravelX memories to keep.
+    stay: ''
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops

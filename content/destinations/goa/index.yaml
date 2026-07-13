@@ -1,0 +1,53 @@
+name: Goa
+country: India
+continent: Asia
+type: domestic
+tagline: Sun, sand & Susegad vibes
+description: Goa is one of India's most sought-after destinations — sun, sand & susegad vibes. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Goa at an unhurried, premium pace.
+image: https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=1200&q=80
+lat: '15.3'
+lng: '74.12'
+rating: '4.55'
+reviewCount: 1366
+packageCount: 13
+startingPrice: 19263
+idealDuration: 3–5 days
+trending: true
+featured: false
+bestTimeToVisit:
+  - Nov
+  - Dec
+  - Jan
+  - Feb
+activities:
+  - Beach hopping
+  - Water sports
+  - Nightlife
+  - Spice farm
+highlights:
+  - Baga & Palolem
+  - Old Goa churches
+  - Dudhsagar Falls
+  - Flea markets
+tags:
+  - Asia
+  - domestic
+  - Beach hopping
+  - Water sports
+weather:
+  - season: Peak
+    temp: 22°C
+    note: Clear skies, ideal for sightseeing
+  - season: Shoulder
+    temp: 29°C
+    note: Fewer crowds, great value
+  - season: Off-season
+    temp: 31°C
+    note: Lush landscapes, occasional rain

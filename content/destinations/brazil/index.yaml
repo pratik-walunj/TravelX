@@ -1,0 +1,53 @@
+name: Brazil
+country: Brazil
+continent: South America
+type: international
+tagline: Carnival spirit, beaches & Amazon
+description: Brazil is one of the world's most sought-after destinations — carnival spirit, beaches & amazon. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Brazil at an unhurried, premium pace.
+image: https://images.unsplash.com/photo-1483729558449-99ef09a8c325?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&q=80
+lat: '-14.24'
+lng: '-51.93'
+rating: '4.65'
+reviewCount: 1925
+packageCount: 15
+startingPrice: 171111
+idealDuration: 9–12 days
+trending: false
+featured: false
+bestTimeToVisit:
+  - Dec
+  - Jan
+  - Feb
+  - Mar
+activities:
+  - Christ the Redeemer
+  - Beach day
+  - Samba night
+  - Amazon tour
+highlights:
+  - Rio de Janeiro
+  - Iguazu Falls
+  - Amazon
+  - Salvador
+tags:
+  - South America
+  - international
+  - Christ the Redeemer
+  - Beach day
+weather:
+  - season: Peak
+    temp: 25°C
+    note: Clear skies, ideal for sightseeing
+  - season: Shoulder
+    temp: 26°C
+    note: Fewer crowds, great value
+  - season: Off-season
+    temp: 29°C
+    note: Lush landscapes, occasional rain

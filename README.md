@@ -105,6 +105,63 @@ Mock data is generated with a fixed seed (`data/seed.ts`) so server and client r
 
 ---
 
+## Content management (Keystatic CMS)
+
+The site's content is managed through **[Keystatic](https://keystatic.com)** — a git/file-based CMS with a full admin UI. No database or external account required.
+
+### Editing content
+1. Run the dev server: `npm run dev`
+2. Open the admin panel: **http://localhost:3000/keystatic**
+3. Edit any of the six collections — **Blog Posts, Tour Packages, Destinations, Reviews, FAQs, Offers**. Changes are saved as files in `content/`.
+4. Apply the changes to the site: **`npm run cms:sync`** (also runs automatically before `dev` and `build`), then refresh.
+
+### How it flows
+```
+Edit at /keystatic  ──►  content/<collection>/<slug>/index.yaml   (source of truth, git-tracked)
+                              │  npm run cms:sync  (auto on predev / prebuild)
+                              ▼
+                         data/cms/*.json   ──►  data/*.ts  ──►  every page & component
+```
+Content files are the single source of truth. `cms:sync` reads them via the Keystatic reader and regenerates the typed JSON in `data/cms/` that the app consumes — which keeps all pages/components (server **and** client) working unchanged, with no async/hydration issues.
+
+### Key files
+| File | Purpose |
+| --- | --- |
+| `keystatic.config.ts` | CMS schema — collections & fields |
+| `app/keystatic/…`, `app/api/keystatic/…` | Admin UI + API route |
+| `components/layout/chrome-gate.tsx` | Hides site header/footer on `/keystatic` |
+| `content/` | The editable content (YAML files) |
+| `scripts/cms-sync.mts` | Generates `data/cms/*.json` from content |
+| `scripts/migrate-all.mts` | One-time seed → content migration (already run) |
+
+### Editing content on the live (Vercel) site
+
+The storage mode is **env-driven** (`keystatic.config.ts`): with no env vars it's local mode; once the GitHub vars below are all set it switches to **GitHub mode**, where edits at `/keystatic` commit to your repo and Vercel auto-redeploys. A half-configured deploy safely stays in local mode, so **the build never breaks**.
+
+**One-time setup:**
+
+1. **Create a GitHub App** — GitHub → Settings → Developer settings → **GitHub Apps** → *New GitHub App*:
+   - **Homepage URL:** `https://<your-app>.vercel.app`
+   - **Callback URL:** `https://<your-app>.vercel.app/api/keystatic/github/oauth/callback` (add `http://localhost:3000/api/keystatic/github/oauth/callback` too, for local editing)
+   - **Request user authorization (OAuth) during installation:** ✅ on
+   - **Webhook:** uncheck *Active*
+   - **Permissions → Repository:** *Contents* = **Read and write**, *Metadata* = **Read-only**
+   - Create it, then **Generate a client secret** and **Install** the app on your repo.
+2. **Collect four values:** the App **slug** (from its URL), **Client ID**, **Client secret**, and a random **`KEYSTATIC_SECRET`** (`openssl rand -hex 32`).
+3. **Add env vars** in Vercel (Project → Settings → Environment Variables) — all five from `.env.example`:
+   ```
+   NEXT_PUBLIC_KEYSTATIC_GITHUB_REPO      = owner/travelx
+   NEXT_PUBLIC_KEYSTATIC_GITHUB_APP_SLUG  = <app-slug>
+   KEYSTATIC_GITHUB_CLIENT_ID             = <client-id>
+   KEYSTATIC_GITHUB_CLIENT_SECRET         = <client-secret>
+   KEYSTATIC_SECRET                       = <random-string>
+   ```
+4. **Redeploy.** Now open `https://<your-app>.vercel.app/keystatic`, sign in with GitHub, and edit — each save commits to your repo and triggers a redeploy. (Add the same vars to `.env.local` to edit against GitHub locally too.)
+
+> Prefer a hosted option with no GitHub App? Keystatic Cloud (`storage: { kind: "cloud" }`) is an alternative — see [keystatic.com/docs/cloud](https://keystatic.com/docs/cloud).
+
+---
+
 ## Notes
 - Images use Unsplash source URLs for the demo; replace with your own optimised CDN assets for production.
 - The hero uses a static image; drop `/public/hero.mp4` and uncomment the `<video>` block in `components/sections/hero.tsx` for a video background.

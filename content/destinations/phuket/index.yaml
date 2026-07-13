@@ -1,0 +1,54 @@
+name: Phuket
+country: Thailand
+continent: Asia
+type: international
+tagline: Andaman beaches & island escapes
+description: Phuket is one of the world's most sought-after destinations — andaman beaches & island escapes. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Phuket at an unhurried, premium pace.
+image: https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=80
+lat: '7.88'
+lng: '98.39'
+rating: '4.65'
+reviewCount: 1246
+packageCount: 18
+startingPrice: 142710
+idealDuration: 5–7 days
+trending: false
+featured: false
+bestTimeToVisit:
+  - Nov
+  - Dec
+  - Jan
+  - Feb
+  - Mar
+activities:
+  - Phi Phi tour
+  - Snorkeling
+  - Big Buddha
+  - Beach clubs
+highlights:
+  - Patong
+  - Phi Phi Islands
+  - Old Town
+  - James Bond Island
+tags:
+  - Asia
+  - international
+  - Phi Phi tour
+  - Snorkeling
+weather:
+  - season: Peak
+    temp: 25°C
+    note: Clear skies, ideal for sightseeing
+  - season: Shoulder
+    temp: 26°C
+    note: Fewer crowds, great value
+  - season: Off-season
+    temp: 34°C
+    note: Lush landscapes, occasional rain

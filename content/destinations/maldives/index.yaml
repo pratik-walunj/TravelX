@@ -1,0 +1,55 @@
+name: Maldives
+country: Maldives
+continent: Asia
+type: international
+tagline: Overwater villas & endless lagoons
+description: Maldives is one of the world's most sought-after destinations — overwater villas & endless lagoons. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Maldives at an unhurried, premium pace.
+image: https://images.unsplash.com/photo-1514282401047-d79a71a590e8?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1200&q=80
+lat: '3.2'
+lng: '73.22'
+rating: '4.55'
+reviewCount: 1960
+packageCount: 20
+startingPrice: 88775
+idealDuration: 4–6 days
+trending: true
+featured: true
+bestTimeToVisit:
+  - Nov
+  - Dec
+  - Jan
+  - Feb
+  - Mar
+  - Apr
+activities:
+  - Snorkeling
+  - Sunset cruise
+  - Overwater spa
+  - Diving
+highlights:
+  - Private island resorts
+  - House reefs
+  - Bioluminescent beach
+  - Maafushi
+tags:
+  - Asia
+  - international
+  - Snorkeling
+  - Sunset cruise
+weather:
+  - season: Peak
+    temp: 20°C
+    note: Clear skies, ideal for sightseeing
+  - season: Shoulder
+    temp: 27°C
+    note: Fewer crowds, great value
+  - season: Off-season
+    temp: 29°C
+    note: Lush landscapes, occasional rain

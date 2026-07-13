@@ -1,0 +1,179 @@
+title: Uttarakhand Beach Bliss
+destination: Uttarakhand
+destinationSlug: uttarakhand
+country: India
+type: domestic
+category: beach
+summary: 9 days of beach travel through Uttarakhand — land of the gods & yoga capitals.
+description: Discover Uttarakhand on this 9-day beach journey crafted by TravelX. Uttarakhand is one of India's most sought-after destinations — land of the gods & yoga capitals. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Uttarakhand at an unhurried, premium pace. This itinerary balances must-see highlights with authentic local experiences and generous downtime, all backed by our 24/7 concierge and best-price promise.
+image: https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80
+durationDays: 9
+durationNights: 8
+price: 44274
+oldPrice: 60319
+currency: INR
+rating: '4.8'
+reviewCount: 609
+groupSizeMin: 2
+groupSizeMax: 26
+difficulty: Easy
+seatsLeft: 16
+featured: false
+trending: false
+bestseller: false
+highlights:
+  - Nainital
+  - River rafting
+  - Jim Corbett
+  - Rishikesh
+inclusions:
+  - All sightseeing per itinerary
+  - 24/7 on-trip TravelX concierge
+  - Return economy airfare
+  - Applicable taxes & service charges
+  - Expert local English-speaking guide
+  - Daily breakfast & select meals
+  - Welcome drink on arrival
+  - Airport pick-up & drop
+  - Entrance fees to monuments
+exclusions:
+  - Personal expenses & tips
+  - Optional activities & upgrades
+  - Anything not mentioned in inclusions
+  - GST where applicable
+  - Visa & travel insurance fees
+  - Camera / drone permits
+tags:
+  - Uttarakhand
+  - India
+  - beach
+  - domestic
+themes:
+  - Wellness
+  - Culture
+  - Nature
+departureCities:
+  - Delhi
+  - Pune
+  - Bengaluru
+  - Ahmedabad
+  - Kolkata
+availableDates:
+  - '2026-10-04'
+  - '2026-12-18'
+  - '2026-02-13'
+  - '2026-04-09'
+  - '2026-06-08'
+  - '2026-08-17'
+hotels:
+  - name: Skyline Boutique
+    rating: 5
+    nights: 3
+  - name: Coral Reef Villas
+    rating: 5
+    nights: 3
+  - name: Mountain Echo Lodge
+    rating: 4
+    nights: 3
+itinerary:
+  - day: 1
+    title: Arrival in Uttarakhand
+    description: Arrive in Uttarakhand, meet your TravelX host for a private transfer to the hotel. Freshen up and enjoy a relaxed evening at leisure with a welcome briefing.
+    stay: Heritage Haveli
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 2
+    title: At leisure / optional tours
+    description: A flexible day to unwind by the pool, indulge in a spa, or choose from a menu of optional excursions.
+    stay: Coral Reef Villas
+    meals:
+      - Dinner
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 3
+    title: Signature experience
+    description: 'The trip''s showcase day: a curated flagship experience unique to Uttarakhand, designed to be the highlight of your journey.'
+    stay: The Regal Court
+    meals:
+      - Breakfast
+      - Dinner
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 4
+    title: Signature experience
+    description: 'The trip''s showcase day: a curated flagship experience unique to Uttarakhand, designed to be the highlight of your journey.'
+    stay: Mountain Echo Lodge
+    meals:
+      - Breakfast
+      - Lunch
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 5
+    title: Uttarakhand city highlights
+    description: A full day of iconic sightseeing with your local guide — landmark monuments, viewpoints and hidden gems, with time for photos and local cuisine.
+    stay: Coral Reef Villas
+    meals:
+      - Lunch
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 6
+    title: At leisure / optional tours
+    description: A flexible day to unwind by the pool, indulge in a spa, or choose from a menu of optional excursions.
+    stay: The Grand Meridian
+    meals:
+      - Dinner
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 7
+    title: Uttarakhand city highlights
+    description: A full day of iconic sightseeing with your local guide — landmark monuments, viewpoints and hidden gems, with time for photos and local cuisine.
+    stay: Skyline Boutique
+    meals:
+      - Breakfast
+      - Dinner
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 8
+    title: Culture & leisure day
+    description: Immerse in local culture — markets, artisans and heritage — followed by free time to shop, relax or add an optional experience.
+    stay: Mountain Echo Lodge
+    meals:
+      - Lunch
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 9
+    title: Departure from Uttarakhand
+    description: After breakfast and some last-minute souvenir shopping, transfer to the airport for your onward journey with TravelX memories to keep.
+    stay: ''
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops

@@ -1,0 +1,150 @@
+title: Iceland Incentive Retreat
+destination: Iceland
+destinationSlug: iceland
+country: Iceland
+type: international
+category: corporate
+summary: 7 days of corporate travel through Iceland — fire, ice & northern lights.
+description: Discover Iceland on this 7-day corporate journey crafted by TravelX. Iceland is one of the world's most sought-after destinations — fire, ice & northern lights. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Iceland at an unhurried, premium pace. This itinerary balances must-see highlights with authentic local experiences and generous downtime, all backed by our 24/7 concierge and best-price promise.
+image: https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80
+durationDays: 7
+durationNights: 6
+price: 219190
+oldPrice: 280760
+currency: INR
+rating: '4.65'
+reviewCount: 265
+groupSizeMin: 2
+groupSizeMax: 13
+difficulty: Easy
+seatsLeft: 8
+featured: true
+trending: false
+bestseller: false
+highlights:
+  - Jökulsárlón
+  - Blue Lagoon
+  - Northern lights
+  - Blue Lagoon
+inclusions:
+  - Expert local English-speaking guide
+  - Complimentary travel kit
+  - Applicable taxes & service charges
+  - Welcome drink on arrival
+  - Handpicked 4★/5★ accommodation
+  - Return economy airfare
+  - All sightseeing per itinerary
+  - Daily breakfast & select meals
+exclusions:
+  - Visa & travel insurance fees
+  - Optional activities & upgrades
+  - Anything not mentioned in inclusions
+  - Camera / drone permits
+  - GST where applicable
+tags:
+  - Iceland
+  - Iceland
+  - corporate
+  - international
+themes:
+  - Food
+  - Nightlife
+  - Scenic
+departureCities:
+  - Mumbai
+  - Bengaluru
+  - Ahmedabad
+  - Kolkata
+  - Hyderabad
+availableDates:
+  - '2026-08-15'
+  - '2026-10-04'
+  - '2026-12-05'
+  - '2026-02-20'
+  - '2026-04-21'
+  - '2026-06-23'
+hotels:
+  - name: Lagoon Pearl Resort
+    rating: 4
+    nights: 3
+  - name: Heritage Haveli
+    rating: 5
+    nights: 3
+itinerary:
+  - day: 1
+    title: Arrival in Iceland
+    description: Arrive in Iceland, meet your TravelX host for a private transfer to the hotel. Freshen up and enjoy a relaxed evening at leisure with a welcome briefing.
+    stay: Coral Reef Villas
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 2
+    title: At leisure / optional tours
+    description: A flexible day to unwind by the pool, indulge in a spa, or choose from a menu of optional excursions.
+    stay: The Grand Meridian
+    meals:
+      - Breakfast
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 3
+    title: Signature experience
+    description: 'The trip''s showcase day: a curated flagship experience unique to Iceland, designed to be the highlight of your journey.'
+    stay: Aurora Retreat
+    meals:
+      - Dinner
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 4
+    title: Signature experience
+    description: 'The trip''s showcase day: a curated flagship experience unique to Iceland, designed to be the highlight of your journey.'
+    stay: Aurora Retreat
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 5
+    title: Iceland city highlights
+    description: A full day of iconic sightseeing with your local guide — landmark monuments, viewpoints and hidden gems, with time for photos and local cuisine.
+    stay: Skyline Boutique
+    meals:
+      - Dinner
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 6
+    title: Culture & leisure day
+    description: Immerse in local culture — markets, artisans and heritage — followed by free time to shop, relax or add an optional experience.
+    stay: Emerald Sands
+    meals:
+      - Lunch
+      - Breakfast
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 7
+    title: Departure from Iceland
+    description: After breakfast and some last-minute souvenir shopping, transfer to the airport for your onward journey with TravelX memories to keep.
+    stay: ''
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine

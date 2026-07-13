@@ -1,0 +1,147 @@
+title: South Africa Short Break
+destination: South Africa
+destinationSlug: south-africa
+country: South Africa
+type: international
+category: weekend
+summary: 7 days of weekend travel through South Africa — where two oceans and the wild meet.
+description: Discover South Africa on this 7-day weekend journey crafted by TravelX. South Africa is one of the world's most sought-after destinations — where two oceans and the wild meet. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of South Africa at an unhurried, premium pace. This itinerary balances must-see highlights with authentic local experiences and generous downtime, all backed by our 24/7 concierge and best-price promise.
+image: https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80
+durationDays: 7
+durationNights: 6
+price: 235842
+oldPrice: 269542
+currency: INR
+rating: '4.55'
+reviewCount: 240
+groupSizeMin: 2
+groupSizeMax: 20
+difficulty: Easy
+seatsLeft: 14
+featured: false
+trending: true
+bestseller: false
+highlights:
+  - Table Mountain
+  - Kruger
+  - Garden Route
+  - Cape tour
+inclusions:
+  - All sightseeing per itinerary
+  - Return economy airfare
+  - Daily breakfast & select meals
+  - Airport pick-up & drop
+  - Applicable taxes & service charges
+  - 24/7 on-trip TravelX concierge
+  - Welcome drink on arrival
+  - Expert local English-speaking guide
+exclusions:
+  - Early check-in / late check-out charges
+  - Meals not specified in itinerary
+  - GST where applicable
+  - Camera / drone permits
+tags:
+  - South Africa
+  - South Africa
+  - weekend
+  - international
+themes:
+  - Nature
+  - Nightlife
+  - Culture
+departureCities:
+  - Ahmedabad
+  - Bengaluru
+  - Chennai
+availableDates:
+  - '2026-06-12'
+  - '2026-08-19'
+  - '2026-10-18'
+  - '2026-12-12'
+  - '2026-02-21'
+  - '2026-04-23'
+hotels:
+  - name: Emerald Sands
+    rating: 4
+    nights: 3
+  - name: Highland Vista
+    rating: 4
+    nights: 3
+itinerary:
+  - day: 1
+    title: Arrival in South Africa
+    description: Arrive in South Africa, meet your TravelX host for a private transfer to the hotel. Freshen up and enjoy a relaxed evening at leisure with a welcome briefing.
+    stay: Heritage Haveli
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 2
+    title: At leisure / optional tours
+    description: A flexible day to unwind by the pool, indulge in a spa, or choose from a menu of optional excursions.
+    stay: Aurora Retreat
+    meals:
+      - Breakfast
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 3
+    title: Adventure & activities
+    description: An action-packed day of activities and adventure suited to your pace, with all equipment and safety handled by our partners.
+    stay: Emerald Sands
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 4
+    title: Signature experience
+    description: 'The trip''s showcase day: a curated flagship experience unique to South Africa, designed to be the highlight of your journey.'
+    stay: Skyline Boutique
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 5
+    title: At leisure / optional tours
+    description: A flexible day to unwind by the pool, indulge in a spa, or choose from a menu of optional excursions.
+    stay: Emerald Sands
+    meals:
+      - Breakfast
+      - Dinner
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 6
+    title: South Africa city highlights
+    description: A full day of iconic sightseeing with your local guide — landmark monuments, viewpoints and hidden gems, with time for photos and local cuisine.
+    stay: The Regal Court
+    meals:
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 7
+    title: Departure from South Africa
+    description: After breakfast and some last-minute souvenir shopping, transfer to the airport for your onward journey with TravelX memories to keep.
+    stay: ''
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops

@@ -1,0 +1,55 @@
+name: Iceland
+country: Iceland
+continent: Europe
+type: international
+tagline: Fire, ice & northern lights
+description: Iceland is one of the world's most sought-after destinations — fire, ice & northern lights. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Iceland at an unhurried, premium pace.
+image: https://images.unsplash.com/photo-1504829857797-ddff29c27927?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=80
+lat: '64.96'
+lng: '-19.02'
+rating: '4.35'
+reviewCount: 2352
+packageCount: 18
+startingPrice: 80811
+idealDuration: 6–8 days
+trending: true
+featured: false
+bestTimeToVisit:
+  - Jun
+  - Jul
+  - Aug
+  - Sep
+  - Feb
+  - Mar
+activities:
+  - Northern lights
+  - Glacier hike
+  - Blue Lagoon
+  - Golden Circle
+highlights:
+  - Reykjavik
+  - Blue Lagoon
+  - Golden Circle
+  - Jökulsárlón
+tags:
+  - Europe
+  - international
+  - Northern lights
+  - Glacier hike
+weather:
+  - season: Peak
+    temp: 19°C
+    note: Clear skies, ideal for sightseeing
+  - season: Shoulder
+    temp: 31°C
+    note: Fewer crowds, great value
+  - season: Off-season
+    temp: 30°C
+    note: Lush landscapes, occasional rain

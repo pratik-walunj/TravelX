@@ -1,0 +1,141 @@
+title: Peru Luxury Signature
+destination: Peru
+destinationSlug: peru
+country: Peru
+type: international
+category: luxury
+summary: 6 days of luxury travel through Peru — inca trails to machu picchu.
+description: Discover Peru on this 6-day luxury journey crafted by TravelX. Peru is one of the world's most sought-after destinations — inca trails to machu picchu. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Peru at an unhurried, premium pace. This itinerary balances must-see highlights with authentic local experiences and generous downtime, all backed by our 24/7 concierge and best-price promise.
+image: https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=1200&q=80
+durationDays: 6
+durationNights: 5
+price: 42704
+oldPrice: 50830
+currency: INR
+rating: '4.4'
+reviewCount: 238
+groupSizeMin: 2
+groupSizeMax: 26
+difficulty: Moderate
+seatsLeft: 4
+featured: false
+trending: false
+bestseller: true
+highlights:
+  - Inca Trail
+  - Lima
+  - Machu Picchu
+  - Machu Picchu
+inclusions:
+  - Welcome drink on arrival
+  - Applicable taxes & service charges
+  - Complimentary travel kit
+  - Entrance fees to monuments
+  - All sightseeing per itinerary
+  - Private air-conditioned transfers
+  - Daily breakfast & select meals
+  - Expert local English-speaking guide
+exclusions:
+  - Optional activities & upgrades
+  - Meals not specified in itinerary
+  - Early check-in / late check-out charges
+  - Camera / drone permits
+tags:
+  - Peru
+  - Peru
+  - luxury
+  - international
+themes:
+  - Wellness
+  - Scenic
+  - Food
+departureCities:
+  - Kolkata
+  - Hyderabad
+  - Mumbai
+  - Delhi
+availableDates:
+  - '2026-01-09'
+  - '2026-03-09'
+  - '2026-05-08'
+  - '2026-07-05'
+  - '2026-09-12'
+  - '2026-11-07'
+hotels:
+  - name: The Grand Meridian
+    rating: 5
+    nights: 3
+  - name: Azure Bay Resort
+    rating: 4
+    nights: 3
+itinerary:
+  - day: 1
+    title: Arrival in Peru
+    description: Arrive in Peru, meet your TravelX host for a private transfer to the hotel. Freshen up and enjoy a relaxed evening at leisure with a welcome briefing.
+    stay: Heritage Haveli
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 2
+    title: Adventure & activities
+    description: An action-packed day of activities and adventure suited to your pace, with all equipment and safety handled by our partners.
+    stay: Skyline Boutique
+    meals:
+      - Lunch
+      - Breakfast
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 3
+    title: At leisure / optional tours
+    description: A flexible day to unwind by the pool, indulge in a spa, or choose from a menu of optional excursions.
+    stay: Aurora Retreat
+    meals:
+      - Breakfast
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 4
+    title: At leisure / optional tours
+    description: A flexible day to unwind by the pool, indulge in a spa, or choose from a menu of optional excursions.
+    stay: Coral Reef Villas
+    meals:
+      - Breakfast
+      - Lunch
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 5
+    title: Peru city highlights
+    description: A full day of iconic sightseeing with your local guide — landmark monuments, viewpoints and hidden gems, with time for photos and local cuisine.
+    stay: Lagoon Pearl Resort
+    meals:
+      - Breakfast
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 6
+    title: Departure from Peru
+    description: After breakfast and some last-minute souvenir shopping, transfer to the airport for your onward journey with TravelX memories to keep.
+    stay: ''
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine

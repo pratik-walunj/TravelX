@@ -1,0 +1,104 @@
+title: Ladakh Short Break
+destination: Ladakh
+destinationSlug: ladakh
+country: India
+type: domestic
+category: weekend
+summary: 3 days of weekend travel through Ladakh — roof of the world, land of high passes.
+description: Discover Ladakh on this 3-day weekend journey crafted by TravelX. Ladakh is one of India's most sought-after destinations — roof of the world, land of high passes. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Ladakh at an unhurried, premium pace. This itinerary balances must-see highlights with authentic local experiences and generous downtime, all backed by our 24/7 concierge and best-price promise.
+image: https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1530789253388-582c481c54b0?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1200&q=80
+durationDays: 3
+durationNights: 2
+price: 33128
+oldPrice: 42907
+currency: INR
+rating: '4.85'
+reviewCount: 270
+groupSizeMin: 2
+groupSizeMax: 24
+difficulty: Easy
+seatsLeft: 14
+featured: true
+trending: false
+bestseller: false
+highlights:
+  - Thiksey Monastery
+  - Khardung La
+  - Nubra Valley
+  - Pangong Lake
+inclusions:
+  - Daily breakfast & select meals
+  - 24/7 on-trip TravelX concierge
+  - Entrance fees to monuments
+  - All sightseeing per itinerary
+  - Expert local English-speaking guide
+  - Welcome drink on arrival
+  - Airport pick-up & drop
+  - Return economy airfare
+exclusions:
+  - Anything not mentioned in inclusions
+  - Camera / drone permits
+  - Early check-in / late check-out charges
+  - GST where applicable
+tags:
+  - Ladakh
+  - India
+  - weekend
+  - domestic
+themes:
+  - Scenic
+  - Relaxation
+  - Culture
+departureCities:
+  - Delhi
+  - Mumbai
+  - Chennai
+availableDates:
+  - '2026-06-05'
+  - '2026-08-04'
+  - '2026-10-15'
+  - '2026-12-25'
+  - '2026-02-16'
+  - '2026-04-15'
+hotels:
+  - name: Emerald Sands
+    rating: 5
+    nights: 2
+itinerary:
+  - day: 1
+    title: Arrival in Ladakh
+    description: Arrive in Ladakh, meet your TravelX host for a private transfer to the hotel. Freshen up and enjoy a relaxed evening at leisure with a welcome briefing.
+    stay: Coral Reef Villas
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 2
+    title: Culture & leisure day
+    description: Immerse in local culture — markets, artisans and heritage — followed by free time to shop, relax or add an optional experience.
+    stay: The Grand Meridian
+    meals:
+      - Dinner
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 3
+    title: Departure from Ladakh
+    description: After breakfast and some last-minute souvenir shopping, transfer to the airport for your onward journey with TravelX memories to keep.
+    stay: ''
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops

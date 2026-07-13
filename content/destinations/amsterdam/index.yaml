@@ -1,0 +1,53 @@
+name: Amsterdam
+country: Netherlands
+continent: Europe
+type: international
+tagline: Canals, bikes & golden-age charm
+description: Amsterdam is one of the world's most sought-after destinations — canals, bikes & golden-age charm. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Amsterdam at an unhurried, premium pace.
+image: https://images.unsplash.com/photo-1534351590666-13e3e96b5017?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1200&q=80
+lat: '52.37'
+lng: '4.9'
+rating: '4.85'
+reviewCount: 2092
+packageCount: 15
+startingPrice: 153284
+idealDuration: 4–6 days
+trending: false
+featured: false
+bestTimeToVisit:
+  - Apr
+  - May
+  - Jun
+  - Sep
+activities:
+  - Canal cruise
+  - Museum tour
+  - Bike ride
+  - Tulip fields
+highlights:
+  - Canal belt
+  - Van Gogh Museum
+  - Keukenhof
+  - Jordaan
+tags:
+  - Europe
+  - international
+  - Canal cruise
+  - Museum tour
+weather:
+  - season: Peak
+    temp: 23°C
+    note: Clear skies, ideal for sightseeing
+  - season: Shoulder
+    temp: 32°C
+    note: Fewer crowds, great value
+  - season: Off-season
+    temp: 28°C
+    note: Lush landscapes, occasional rain

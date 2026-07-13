@@ -1,0 +1,167 @@
+title: Nepal Happy Families
+destination: Nepal
+destinationSlug: nepal
+country: Nepal
+type: international
+category: family
+summary: 8 days of family travel through Nepal — himalayan trails & living heritage.
+description: Discover Nepal on this 8-day family journey crafted by TravelX. Nepal is one of the world's most sought-after destinations — himalayan trails & living heritage. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Nepal at an unhurried, premium pace. This itinerary balances must-see highlights with authentic local experiences and generous downtime, all backed by our 24/7 concierge and best-price promise.
+image: https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1530789253388-582c481c54b0?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80
+durationDays: 8
+durationNights: 7
+price: 52975
+oldPrice: 74379
+currency: INR
+rating: '4.35'
+reviewCount: 696
+groupSizeMin: 2
+groupSizeMax: 13
+difficulty: Moderate
+seatsLeft: 11
+featured: true
+trending: true
+bestseller: false
+highlights:
+  - Paragliding
+  - Jungle safari
+  - Chitwan
+  - Temple tour
+inclusions:
+  - Welcome drink on arrival
+  - Airport pick-up & drop
+  - 24/7 on-trip TravelX concierge
+  - Daily breakfast & select meals
+  - Handpicked 4★/5★ accommodation
+  - Expert local English-speaking guide
+  - Private air-conditioned transfers
+  - All sightseeing per itinerary
+  - Entrance fees to monuments
+exclusions:
+  - Meals not specified in itinerary
+  - Camera / drone permits
+  - GST where applicable
+  - Personal expenses & tips
+  - Visa & travel insurance fees
+  - Anything not mentioned in inclusions
+tags:
+  - Nepal
+  - Nepal
+  - family
+  - international
+themes:
+  - Wellness
+  - Scenic
+  - Nature
+departureCities:
+  - Mumbai
+  - Bengaluru
+  - Chennai
+  - Ahmedabad
+  - Hyderabad
+availableDates:
+  - '2026-03-11'
+  - '2026-05-14'
+  - '2026-07-21'
+  - '2026-09-24'
+  - '2026-11-11'
+  - '2026-01-05'
+hotels:
+  - name: Serenity Palace
+    rating: 5
+    nights: 3
+  - name: Aurora Retreat
+    rating: 4
+    nights: 3
+  - name: The Regal Court
+    rating: 4
+    nights: 3
+itinerary:
+  - day: 1
+    title: Arrival in Nepal
+    description: Arrive in Nepal, meet your TravelX host for a private transfer to the hotel. Freshen up and enjoy a relaxed evening at leisure with a welcome briefing.
+    stay: Emerald Sands
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 2
+    title: Culture & leisure day
+    description: Immerse in local culture — markets, artisans and heritage — followed by free time to shop, relax or add an optional experience.
+    stay: Azure Bay Resort
+    meals:
+      - Breakfast
+      - Lunch
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 3
+    title: At leisure / optional tours
+    description: A flexible day to unwind by the pool, indulge in a spa, or choose from a menu of optional excursions.
+    stay: Highland Vista
+    meals:
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 4
+    title: Nature & scenic escape
+    description: Head out to the scenic countryside for panoramic landscapes, an outdoor experience and a memorable local lunch amid nature.
+    stay: Heritage Haveli
+    meals:
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 5
+    title: Adventure & activities
+    description: An action-packed day of activities and adventure suited to your pace, with all equipment and safety handled by our partners.
+    stay: The Grand Meridian
+    meals:
+      - Lunch
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 6
+    title: Nepal city highlights
+    description: A full day of iconic sightseeing with your local guide — landmark monuments, viewpoints and hidden gems, with time for photos and local cuisine.
+    stay: Highland Vista
+    meals:
+      - Lunch
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 7
+    title: Signature experience
+    description: 'The trip''s showcase day: a curated flagship experience unique to Nepal, designed to be the highlight of your journey.'
+    stay: Heritage Haveli
+    meals:
+      - Breakfast
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 8
+    title: Departure from Nepal
+    description: After breakfast and some last-minute souvenir shopping, transfer to the airport for your onward journey with TravelX memories to keep.
+    stay: ''
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops

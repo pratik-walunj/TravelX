@@ -1,0 +1,195 @@
+title: Brazil Wild Expedition
+destination: Brazil
+destinationSlug: brazil
+country: Brazil
+type: international
+category: adventure
+summary: 11 days of adventure travel through Brazil — carnival spirit, beaches & amazon.
+description: Discover Brazil on this 11-day adventure journey crafted by TravelX. Brazil is one of the world's most sought-after destinations — carnival spirit, beaches & amazon. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Brazil at an unhurried, premium pace. This itinerary balances must-see highlights with authentic local experiences and generous downtime, all backed by our 24/7 concierge and best-price promise.
+image: https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80
+durationDays: 11
+durationNights: 10
+price: 64320
+oldPrice: 78603
+currency: INR
+rating: '4.25'
+reviewCount: 450
+groupSizeMin: 2
+groupSizeMax: 21
+difficulty: Easy
+seatsLeft: 18
+featured: false
+trending: false
+bestseller: false
+highlights:
+  - Amazon tour
+  - Rio de Janeiro
+  - Iguazu Falls
+  - Christ the Redeemer
+inclusions:
+  - Applicable taxes & service charges
+  - Entrance fees to monuments
+  - Welcome drink on arrival
+  - Return economy airfare
+  - All sightseeing per itinerary
+  - 24/7 on-trip TravelX concierge
+  - Private air-conditioned transfers
+  - Daily breakfast & select meals
+  - Handpicked 4★/5★ accommodation
+exclusions:
+  - Visa & travel insurance fees
+  - Optional activities & upgrades
+  - GST where applicable
+  - Early check-in / late check-out charges
+tags:
+  - Brazil
+  - Brazil
+  - adventure
+  - international
+themes:
+  - Scenic
+  - Culture
+  - Wellness
+departureCities:
+  - Ahmedabad
+  - Hyderabad
+  - Chennai
+  - Pune
+availableDates:
+  - '2026-02-10'
+  - '2026-04-12'
+  - '2026-06-16'
+  - '2026-08-22'
+  - '2026-10-20'
+  - '2026-12-06'
+hotels:
+  - name: Azure Bay Resort
+    rating: 5
+    nights: 4
+  - name: Serenity Palace
+    rating: 5
+    nights: 4
+  - name: Aurora Retreat
+    rating: 4
+    nights: 4
+itinerary:
+  - day: 1
+    title: Arrival in Brazil
+    description: Arrive in Brazil, meet your TravelX host for a private transfer to the hotel. Freshen up and enjoy a relaxed evening at leisure with a welcome briefing.
+    stay: Highland Vista
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 2
+    title: Signature experience
+    description: 'The trip''s showcase day: a curated flagship experience unique to Brazil, designed to be the highlight of your journey.'
+    stay: Mountain Echo Lodge
+    meals:
+      - Breakfast
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 3
+    title: Culture & leisure day
+    description: Immerse in local culture — markets, artisans and heritage — followed by free time to shop, relax or add an optional experience.
+    stay: Coral Reef Villas
+    meals:
+      - Lunch
+      - Dinner
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 4
+    title: Brazil city highlights
+    description: A full day of iconic sightseeing with your local guide — landmark monuments, viewpoints and hidden gems, with time for photos and local cuisine.
+    stay: Highland Vista
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 5
+    title: Brazil city highlights
+    description: A full day of iconic sightseeing with your local guide — landmark monuments, viewpoints and hidden gems, with time for photos and local cuisine.
+    stay: Highland Vista
+    meals:
+      - Dinner
+      - Lunch
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 6
+    title: At leisure / optional tours
+    description: A flexible day to unwind by the pool, indulge in a spa, or choose from a menu of optional excursions.
+    stay: Aurora Retreat
+    meals:
+      - Dinner
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 7
+    title: Signature experience
+    description: 'The trip''s showcase day: a curated flagship experience unique to Brazil, designed to be the highlight of your journey.'
+    stay: Mountain Echo Lodge
+    meals:
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 8
+    title: Nature & scenic escape
+    description: Head out to the scenic countryside for panoramic landscapes, an outdoor experience and a memorable local lunch amid nature.
+    stay: Skyline Boutique
+    meals:
+      - Dinner
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 9
+    title: Signature experience
+    description: 'The trip''s showcase day: a curated flagship experience unique to Brazil, designed to be the highlight of your journey.'
+    stay: Mountain Echo Lodge
+    meals:
+      - Breakfast
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 10
+    title: Nature & scenic escape
+    description: Head out to the scenic countryside for panoramic landscapes, an outdoor experience and a memorable local lunch amid nature.
+    stay: Serenity Palace
+    meals:
+      - Lunch
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 11
+    title: Departure from Brazil
+    description: After breakfast and some last-minute souvenir shopping, transfer to the airport for your onward journey with TravelX memories to keep.
+    stay: ''
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine

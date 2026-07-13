@@ -1,0 +1,54 @@
+name: New Zealand
+country: New Zealand
+continent: Oceania
+type: international
+tagline: Middle-earth of fjords & adventure
+description: New Zealand is one of the world's most sought-after destinations — middle-earth of fjords & adventure. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of New Zealand at an unhurried, premium pace.
+image: https://images.unsplash.com/photo-1469521669194-babb45599def?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80
+lat: '-40.9'
+lng: '174.89'
+rating: '4.85'
+reviewCount: 1987
+packageCount: 15
+startingPrice: 176892
+idealDuration: 9–12 days
+trending: false
+featured: false
+bestTimeToVisit:
+  - Dec
+  - Jan
+  - Feb
+  - Mar
+  - Nov
+activities:
+  - Bungee jump
+  - Milford cruise
+  - Glowworm caves
+  - Jet boat
+highlights:
+  - Queenstown
+  - Milford Sound
+  - Rotorua
+  - Auckland
+tags:
+  - Oceania
+  - international
+  - Bungee jump
+  - Milford cruise
+weather:
+  - season: Peak
+    temp: 19°C
+    note: Clear skies, ideal for sightseeing
+  - season: Shoulder
+    temp: 28°C
+    note: Fewer crowds, great value
+  - season: Off-season
+    temp: 38°C
+    note: Lush landscapes, occasional rain

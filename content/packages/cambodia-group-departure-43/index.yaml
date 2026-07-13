@@ -1,0 +1,167 @@
+title: Cambodia Group Departure
+destination: Cambodia
+destinationSlug: cambodia
+country: Cambodia
+type: international
+category: group
+summary: 8 days of group travel through Cambodia — ancient temples lost in the jungle.
+description: Discover Cambodia on this 8-day group journey crafted by TravelX. Cambodia is one of the world's most sought-after destinations — ancient temples lost in the jungle. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Cambodia at an unhurried, premium pace. This itinerary balances must-see highlights with authentic local experiences and generous downtime, all backed by our 24/7 concierge and best-price promise.
+image: https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1530789253388-582c481c54b0?auto=format&fit=crop&w=1200&q=80
+durationDays: 8
+durationNights: 7
+price: 62708
+oldPrice: 87147
+currency: INR
+rating: '4.65'
+reviewCount: 370
+groupSizeMin: 2
+groupSizeMax: 24
+difficulty: Easy
+seatsLeft: 13
+featured: false
+trending: false
+bestseller: false
+highlights:
+  - Tuk-tuk ride
+  - Tonlé Sap
+  - Floating village
+  - Angkor tour
+inclusions:
+  - Airport pick-up & drop
+  - Expert local English-speaking guide
+  - Private air-conditioned transfers
+  - All sightseeing per itinerary
+  - Applicable taxes & service charges
+  - Return economy airfare
+  - Welcome drink on arrival
+  - 24/7 on-trip TravelX concierge
+  - Handpicked 4★/5★ accommodation
+exclusions:
+  - GST where applicable
+  - Early check-in / late check-out charges
+  - Anything not mentioned in inclusions
+  - Meals not specified in itinerary
+tags:
+  - Cambodia
+  - Cambodia
+  - group
+  - international
+themes:
+  - Culture
+  - Scenic
+  - Wellness
+departureCities:
+  - Pune
+  - Bengaluru
+  - Mumbai
+  - Kolkata
+  - Hyderabad
+availableDates:
+  - '2026-07-23'
+  - '2026-09-25'
+  - '2026-11-08'
+  - '2026-01-25'
+  - '2026-03-13'
+  - '2026-05-12'
+hotels:
+  - name: Highland Vista
+    rating: 4
+    nights: 3
+  - name: Lagoon Pearl Resort
+    rating: 5
+    nights: 3
+  - name: Heritage Haveli
+    rating: 5
+    nights: 3
+itinerary:
+  - day: 1
+    title: Arrival in Cambodia
+    description: Arrive in Cambodia, meet your TravelX host for a private transfer to the hotel. Freshen up and enjoy a relaxed evening at leisure with a welcome briefing.
+    stay: Emerald Sands
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 2
+    title: Signature experience
+    description: 'The trip''s showcase day: a curated flagship experience unique to Cambodia, designed to be the highlight of your journey.'
+    stay: The Regal Court
+    meals:
+      - Breakfast
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 3
+    title: Culture & leisure day
+    description: Immerse in local culture — markets, artisans and heritage — followed by free time to shop, relax or add an optional experience.
+    stay: Emerald Sands
+    meals:
+      - Dinner
+      - Breakfast
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 4
+    title: Cambodia city highlights
+    description: A full day of iconic sightseeing with your local guide — landmark monuments, viewpoints and hidden gems, with time for photos and local cuisine.
+    stay: Emerald Sands
+    meals:
+      - Breakfast
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 5
+    title: At leisure / optional tours
+    description: A flexible day to unwind by the pool, indulge in a spa, or choose from a menu of optional excursions.
+    stay: Emerald Sands
+    meals:
+      - Dinner
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 6
+    title: Culture & leisure day
+    description: Immerse in local culture — markets, artisans and heritage — followed by free time to shop, relax or add an optional experience.
+    stay: Skyline Boutique
+    meals:
+      - Dinner
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 7
+    title: Signature experience
+    description: 'The trip''s showcase day: a curated flagship experience unique to Cambodia, designed to be the highlight of your journey.'
+    stay: Emerald Sands
+    meals:
+      - Lunch
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 8
+    title: Departure from Cambodia
+    description: After breakfast and some last-minute souvenir shopping, transfer to the airport for your onward journey with TravelX memories to keep.
+    stay: ''
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops

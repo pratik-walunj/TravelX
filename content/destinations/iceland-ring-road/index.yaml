@@ -1,0 +1,53 @@
+name: Iceland Ring Road
+country: Iceland
+continent: Europe
+type: international
+tagline: Waterfalls, black sands & glaciers
+description: Iceland Ring Road is one of the world's most sought-after destinations — waterfalls, black sands & glaciers. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Iceland Ring Road at an unhurried, premium pace.
+image: https://images.unsplash.com/photo-1490080886466-6ea044b2ee9c?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1530789253388-582c481c54b0?auto=format&fit=crop&w=1200&q=80
+lat: '65'
+lng: '-18'
+rating: '4.75'
+reviewCount: 1867
+packageCount: 19
+startingPrice: 189870
+idealDuration: 8–10 days
+trending: false
+featured: false
+bestTimeToVisit:
+  - Jun
+  - Jul
+  - Aug
+  - Sep
+activities:
+  - Waterfall tour
+  - Ice cave
+  - Whale watching
+  - Hot springs
+highlights:
+  - Vik
+  - Skaftafell
+  - Akureyri
+  - Diamond Beach
+tags:
+  - Europe
+  - international
+  - Waterfall tour
+  - Ice cave
+weather:
+  - season: Peak
+    temp: 23°C
+    note: Clear skies, ideal for sightseeing
+  - season: Shoulder
+    temp: 28°C
+    note: Fewer crowds, great value
+  - season: Off-season
+    temp: 30°C
+    note: Lush landscapes, occasional rain

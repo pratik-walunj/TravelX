@@ -1,0 +1,54 @@
+name: Sri Lanka
+country: Sri Lanka
+continent: Asia
+type: international
+tagline: Tea country, temples & tropical coasts
+description: Sri Lanka is one of the world's most sought-after destinations — tea country, temples & tropical coasts. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Sri Lanka at an unhurried, premium pace.
+image: https://images.unsplash.com/photo-1546708973-b339540b5162?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1530789253388-582c481c54b0?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80
+lat: '7.87'
+lng: '80.77'
+rating: '4.65'
+reviewCount: 2275
+packageCount: 10
+startingPrice: 104485
+idealDuration: 6–8 days
+trending: false
+featured: false
+bestTimeToVisit:
+  - Dec
+  - Jan
+  - Feb
+  - Mar
+  - Apr
+activities:
+  - Train to Ella
+  - Safari
+  - Temple visit
+  - Whale watching
+highlights:
+  - Kandy
+  - Ella
+  - Sigiriya
+  - Galle
+tags:
+  - Asia
+  - international
+  - Train to Ella
+  - Safari
+weather:
+  - season: Peak
+    temp: 23°C
+    note: Clear skies, ideal for sightseeing
+  - season: Shoulder
+    temp: 30°C
+    note: Fewer crowds, great value
+  - season: Off-season
+    temp: 30°C
+    note: Lush landscapes, occasional rain

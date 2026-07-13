@@ -1,0 +1,199 @@
+title: Paris Group Departure
+destination: Paris
+destinationSlug: paris
+country: France
+type: international
+category: group
+summary: 11 days of group travel through Paris — the city of light & love.
+description: Discover Paris on this 11-day group journey crafted by TravelX. Paris is one of the world's most sought-after destinations — the city of light & love. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Paris at an unhurried, premium pace. This itinerary balances must-see highlights with authentic local experiences and generous downtime, all backed by our 24/7 concierge and best-price promise.
+image: https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=1200&q=80
+durationDays: 11
+durationNights: 10
+price: 145833
+oldPrice: 186289
+currency: INR
+rating: '4.8'
+reviewCount: 85
+groupSizeMin: 2
+groupSizeMax: 16
+difficulty: Moderate
+seatsLeft: 4
+featured: false
+trending: true
+bestseller: false
+highlights:
+  - Louvre
+  - Café hopping
+  - Versailles
+  - Montmartre
+inclusions:
+  - Expert local English-speaking guide
+  - 24/7 on-trip TravelX concierge
+  - Applicable taxes & service charges
+  - Airport pick-up & drop
+  - Handpicked 4★/5★ accommodation
+  - Complimentary travel kit
+  - Private air-conditioned transfers
+  - All sightseeing per itinerary
+  - Daily breakfast & select meals
+  - Entrance fees to monuments
+exclusions:
+  - Optional activities & upgrades
+  - Camera / drone permits
+  - Personal expenses & tips
+  - Visa & travel insurance fees
+  - Early check-in / late check-out charges
+tags:
+  - Paris
+  - France
+  - group
+  - international
+themes:
+  - Relaxation
+  - Culture
+  - Nightlife
+departureCities:
+  - Bengaluru
+  - Chennai
+  - Mumbai
+  - Pune
+  - Hyderabad
+availableDates:
+  - '2026-07-10'
+  - '2026-09-04'
+  - '2026-11-05'
+  - '2026-01-14'
+  - '2026-03-24'
+  - '2026-05-08'
+hotels:
+  - name: Highland Vista
+    rating: 4
+    nights: 4
+  - name: Lagoon Pearl Resort
+    rating: 4
+    nights: 4
+  - name: Heritage Haveli
+    rating: 5
+    nights: 4
+itinerary:
+  - day: 1
+    title: Arrival in Paris
+    description: Arrive in Paris, meet your TravelX host for a private transfer to the hotel. Freshen up and enjoy a relaxed evening at leisure with a welcome briefing.
+    stay: The Grand Meridian
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 2
+    title: Culture & leisure day
+    description: Immerse in local culture — markets, artisans and heritage — followed by free time to shop, relax or add an optional experience.
+    stay: Emerald Sands
+    meals:
+      - Breakfast
+      - Lunch
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 3
+    title: At leisure / optional tours
+    description: A flexible day to unwind by the pool, indulge in a spa, or choose from a menu of optional excursions.
+    stay: Emerald Sands
+    meals:
+      - Breakfast
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 4
+    title: Signature experience
+    description: 'The trip''s showcase day: a curated flagship experience unique to Paris, designed to be the highlight of your journey.'
+    stay: Heritage Haveli
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 5
+    title: At leisure / optional tours
+    description: A flexible day to unwind by the pool, indulge in a spa, or choose from a menu of optional excursions.
+    stay: Lagoon Pearl Resort
+    meals:
+      - Breakfast
+      - Dinner
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 6
+    title: Signature experience
+    description: 'The trip''s showcase day: a curated flagship experience unique to Paris, designed to be the highlight of your journey.'
+    stay: Serenity Palace
+    meals:
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 7
+    title: Nature & scenic escape
+    description: Head out to the scenic countryside for panoramic landscapes, an outdoor experience and a memorable local lunch amid nature.
+    stay: Skyline Boutique
+    meals:
+      - Breakfast
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 8
+    title: Culture & leisure day
+    description: Immerse in local culture — markets, artisans and heritage — followed by free time to shop, relax or add an optional experience.
+    stay: Emerald Sands
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 9
+    title: Adventure & activities
+    description: An action-packed day of activities and adventure suited to your pace, with all equipment and safety handled by our partners.
+    stay: Azure Bay Resort
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 10
+    title: At leisure / optional tours
+    description: A flexible day to unwind by the pool, indulge in a spa, or choose from a menu of optional excursions.
+    stay: Coral Reef Villas
+    meals:
+      - Lunch
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 11
+    title: Departure from Paris
+    description: After breakfast and some last-minute souvenir shopping, transfer to the airport for your onward journey with TravelX memories to keep.
+    stay: ''
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine

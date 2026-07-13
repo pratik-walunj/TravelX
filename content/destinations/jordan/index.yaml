@@ -1,0 +1,54 @@
+name: Jordan
+country: Jordan
+continent: Asia
+type: international
+tagline: Rose-red city & Wadi Rum deserts
+description: Jordan is one of the world's most sought-after destinations — rose-red city & wadi rum deserts. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Jordan at an unhurried, premium pace.
+image: https://images.unsplash.com/photo-1548786811-dd6e453ccca7?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1530789253388-582c481c54b0?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80
+lat: '30.59'
+lng: '36.24'
+rating: '4.55'
+reviewCount: 1516
+packageCount: 22
+startingPrice: 108518
+idealDuration: 6–8 days
+trending: false
+featured: false
+bestTimeToVisit:
+  - Mar
+  - Apr
+  - May
+  - Oct
+  - Nov
+activities:
+  - Petra tour
+  - Desert camp
+  - Dead Sea float
+  - Jeep safari
+highlights:
+  - Petra
+  - Wadi Rum
+  - Dead Sea
+  - Amman
+tags:
+  - Asia
+  - international
+  - Petra tour
+  - Desert camp
+weather:
+  - season: Peak
+    temp: 26°C
+    note: Clear skies, ideal for sightseeing
+  - season: Shoulder
+    temp: 28°C
+    note: Fewer crowds, great value
+  - season: Off-season
+    temp: 37°C
+    note: Lush landscapes, occasional rain

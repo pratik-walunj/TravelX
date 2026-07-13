@@ -1,0 +1,206 @@
+title: Morocco Big Game Safari
+destination: Morocco
+destinationSlug: morocco
+country: Morocco
+type: international
+category: wildlife
+summary: 12 days of wildlife travel through Morocco — medinas, dunes & mountain kasbahs.
+description: Discover Morocco on this 12-day wildlife journey crafted by TravelX. Morocco is one of the world's most sought-after destinations — medinas, dunes & mountain kasbahs. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Morocco at an unhurried, premium pace. This itinerary balances must-see highlights with authentic local experiences and generous downtime, all backed by our 24/7 concierge and best-price promise.
+image: https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1530789253388-582c481c54b0?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80
+durationDays: 12
+durationNights: 11
+price: 77162
+oldPrice: 104208
+currency: INR
+rating: '4.5'
+reviewCount: 651
+groupSizeMin: 2
+groupSizeMax: 23
+difficulty: Moderate
+seatsLeft: 10
+featured: false
+trending: false
+bestseller: true
+highlights:
+  - Riad stay
+  - Sahara
+  - Medina tour
+  - Camel trek
+inclusions:
+  - 24/7 on-trip TravelX concierge
+  - Complimentary travel kit
+  - Handpicked 4★/5★ accommodation
+  - Return economy airfare
+  - Private air-conditioned transfers
+  - Expert local English-speaking guide
+  - Entrance fees to monuments
+  - All sightseeing per itinerary
+exclusions:
+  - GST where applicable
+  - Camera / drone permits
+  - Meals not specified in itinerary
+  - Visa & travel insurance fees
+tags:
+  - Morocco
+  - Morocco
+  - wildlife
+  - international
+themes:
+  - Culture
+  - Nature
+  - Scenic
+departureCities:
+  - Chennai
+  - Hyderabad
+  - Bengaluru
+  - Ahmedabad
+availableDates:
+  - '2026-09-04'
+  - '2026-11-17'
+  - '2026-01-20'
+  - '2026-03-06'
+  - '2026-05-08'
+  - '2026-07-18'
+hotels:
+  - name: Heritage Haveli
+    rating: 5
+    nights: 4
+  - name: Skyline Boutique
+    rating: 4
+    nights: 4
+  - name: Coral Reef Villas
+    rating: 5
+    nights: 4
+itinerary:
+  - day: 1
+    title: Arrival in Morocco
+    description: Arrive in Morocco, meet your TravelX host for a private transfer to the hotel. Freshen up and enjoy a relaxed evening at leisure with a welcome briefing.
+    stay: The Regal Court
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 2
+    title: At leisure / optional tours
+    description: A flexible day to unwind by the pool, indulge in a spa, or choose from a menu of optional excursions.
+    stay: Heritage Haveli
+    meals:
+      - Breakfast
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 3
+    title: Morocco city highlights
+    description: A full day of iconic sightseeing with your local guide — landmark monuments, viewpoints and hidden gems, with time for photos and local cuisine.
+    stay: The Regal Court
+    meals:
+      - Lunch
+      - Dinner
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 4
+    title: Morocco city highlights
+    description: A full day of iconic sightseeing with your local guide — landmark monuments, viewpoints and hidden gems, with time for photos and local cuisine.
+    stay: Mountain Echo Lodge
+    meals:
+      - Lunch
+      - Dinner
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 5
+    title: Morocco city highlights
+    description: A full day of iconic sightseeing with your local guide — landmark monuments, viewpoints and hidden gems, with time for photos and local cuisine.
+    stay: Emerald Sands
+    meals:
+      - Breakfast
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 6
+    title: Signature experience
+    description: 'The trip''s showcase day: a curated flagship experience unique to Morocco, designed to be the highlight of your journey.'
+    stay: Serenity Palace
+    meals:
+      - Dinner
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 7
+    title: Morocco city highlights
+    description: A full day of iconic sightseeing with your local guide — landmark monuments, viewpoints and hidden gems, with time for photos and local cuisine.
+    stay: Coral Reef Villas
+    meals:
+      - Dinner
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 8
+    title: Culture & leisure day
+    description: Immerse in local culture — markets, artisans and heritage — followed by free time to shop, relax or add an optional experience.
+    stay: Heritage Haveli
+    meals:
+      - Dinner
+      - Breakfast
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 9
+    title: Adventure & activities
+    description: An action-packed day of activities and adventure suited to your pace, with all equipment and safety handled by our partners.
+    stay: Skyline Boutique
+    meals:
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 10
+    title: Nature & scenic escape
+    description: Head out to the scenic countryside for panoramic landscapes, an outdoor experience and a memorable local lunch amid nature.
+    stay: Highland Vista
+    meals:
+      - Dinner
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 11
+    title: Nature & scenic escape
+    description: Head out to the scenic countryside for panoramic landscapes, an outdoor experience and a memorable local lunch amid nature.
+    stay: The Grand Meridian
+    meals:
+      - Dinner
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 12
+    title: Departure from Morocco
+    description: After breakfast and some last-minute souvenir shopping, transfer to the airport for your onward journey with TravelX memories to keep.
+    stay: ''
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops

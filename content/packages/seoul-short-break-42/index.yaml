@@ -1,0 +1,187 @@
+title: Seoul Short Break
+destination: Seoul
+destinationSlug: seoul
+country: South Korea
+type: international
+category: weekend
+summary: 10 days of weekend travel through Seoul — k-culture, palaces & neon nights.
+description: Discover Seoul on this 10-day weekend journey crafted by TravelX. Seoul is one of the world's most sought-after destinations — k-culture, palaces & neon nights. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Seoul at an unhurried, premium pace. This itinerary balances must-see highlights with authentic local experiences and generous downtime, all backed by our 24/7 concierge and best-price promise.
+image: https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80
+durationDays: 10
+durationNights: 9
+price: 73844
+oldPrice: 88248
+currency: INR
+rating: '4.4'
+reviewCount: 615
+groupSizeMin: 2
+groupSizeMax: 21
+difficulty: Moderate
+seatsLeft: 13
+featured: true
+trending: false
+bestseller: false
+highlights:
+  - Han river cruise
+  - Myeongdong
+  - Namsan Tower
+  - Gyeongbokgung
+inclusions:
+  - Return economy airfare
+  - Daily breakfast & select meals
+  - 24/7 on-trip TravelX concierge
+  - Applicable taxes & service charges
+  - Complimentary travel kit
+  - Airport pick-up & drop
+  - Private air-conditioned transfers
+exclusions:
+  - Personal expenses & tips
+  - Anything not mentioned in inclusions
+  - GST where applicable
+  - Early check-in / late check-out charges
+  - Camera / drone permits
+tags:
+  - Seoul
+  - South Korea
+  - weekend
+  - international
+themes:
+  - Nature
+  - Food
+  - Relaxation
+departureCities:
+  - Ahmedabad
+  - Pune
+  - Delhi
+  - Chennai
+  - Mumbai
+availableDates:
+  - '2026-06-21'
+  - '2026-08-23'
+  - '2026-10-05'
+  - '2026-12-15'
+  - '2026-02-22'
+  - '2026-04-25'
+hotels:
+  - name: Emerald Sands
+    rating: 4
+    nights: 3
+  - name: Highland Vista
+    rating: 5
+    nights: 3
+  - name: Lagoon Pearl Resort
+    rating: 5
+    nights: 3
+itinerary:
+  - day: 1
+    title: Arrival in Seoul
+    description: Arrive in Seoul, meet your TravelX host for a private transfer to the hotel. Freshen up and enjoy a relaxed evening at leisure with a welcome briefing.
+    stay: The Grand Meridian
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 2
+    title: Nature & scenic escape
+    description: Head out to the scenic countryside for panoramic landscapes, an outdoor experience and a memorable local lunch amid nature.
+    stay: Lagoon Pearl Resort
+    meals:
+      - Dinner
+      - Lunch
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 3
+    title: Culture & leisure day
+    description: Immerse in local culture — markets, artisans and heritage — followed by free time to shop, relax or add an optional experience.
+    stay: Highland Vista
+    meals:
+      - Dinner
+      - Lunch
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 4
+    title: Signature experience
+    description: 'The trip''s showcase day: a curated flagship experience unique to Seoul, designed to be the highlight of your journey.'
+    stay: Lagoon Pearl Resort
+    meals:
+      - Lunch
+      - Breakfast
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 5
+    title: At leisure / optional tours
+    description: A flexible day to unwind by the pool, indulge in a spa, or choose from a menu of optional excursions.
+    stay: Mountain Echo Lodge
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 6
+    title: At leisure / optional tours
+    description: A flexible day to unwind by the pool, indulge in a spa, or choose from a menu of optional excursions.
+    stay: Highland Vista
+    meals:
+      - Breakfast
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 7
+    title: Adventure & activities
+    description: An action-packed day of activities and adventure suited to your pace, with all equipment and safety handled by our partners.
+    stay: The Regal Court
+    meals:
+      - Lunch
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 8
+    title: Signature experience
+    description: 'The trip''s showcase day: a curated flagship experience unique to Seoul, designed to be the highlight of your journey.'
+    stay: Lagoon Pearl Resort
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 9
+    title: Culture & leisure day
+    description: Immerse in local culture — markets, artisans and heritage — followed by free time to shop, relax or add an optional experience.
+    stay: The Grand Meridian
+    meals:
+      - Breakfast
+      - Lunch
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 10
+    title: Departure from Seoul
+    description: After breakfast and some last-minute souvenir shopping, transfer to the airport for your onward journey with TravelX memories to keep.
+    stay: ''
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops

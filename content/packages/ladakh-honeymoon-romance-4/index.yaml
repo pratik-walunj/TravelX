@@ -1,0 +1,163 @@
+title: Ladakh Honeymoon Romance
+destination: Ladakh
+destinationSlug: ladakh
+country: India
+type: domestic
+category: honeymoon
+summary: 8 days of honeymoon travel through Ladakh — roof of the world, land of high passes.
+description: Discover Ladakh on this 8-day honeymoon journey crafted by TravelX. Ladakh is one of India's most sought-after destinations — roof of the world, land of high passes. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Ladakh at an unhurried, premium pace. This itinerary balances must-see highlights with authentic local experiences and generous downtime, all backed by our 24/7 concierge and best-price promise.
+image: https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1530789253388-582c481c54b0?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1200&q=80
+durationDays: 8
+durationNights: 7
+price: 17937
+oldPrice: 22405
+currency: INR
+rating: '4.4'
+reviewCount: 634
+groupSizeMin: 2
+groupSizeMax: 20
+difficulty: Challenging
+seatsLeft: 4
+featured: false
+trending: true
+bestseller: false
+highlights:
+  - Bike expedition
+  - Khardung La
+  - Pangong Lake
+  - Stargazing
+inclusions:
+  - Daily breakfast & select meals
+  - Applicable taxes & service charges
+  - All sightseeing per itinerary
+  - 24/7 on-trip TravelX concierge
+  - Entrance fees to monuments
+  - Private air-conditioned transfers
+  - Airport pick-up & drop
+exclusions:
+  - Camera / drone permits
+  - Early check-in / late check-out charges
+  - Anything not mentioned in inclusions
+  - GST where applicable
+  - Visa & travel insurance fees
+  - Optional activities & upgrades
+tags:
+  - Ladakh
+  - India
+  - honeymoon
+  - domestic
+themes:
+  - Photography
+  - Culture
+  - Food
+departureCities:
+  - Hyderabad
+  - Pune
+  - Bengaluru
+  - Chennai
+availableDates:
+  - '2026-04-23'
+  - '2026-06-18'
+  - '2026-08-12'
+  - '2026-10-16'
+  - '2026-12-17'
+  - '2026-02-03'
+hotels:
+  - name: Aurora Retreat
+    rating: 5
+    nights: 3
+  - name: The Regal Court
+    rating: 5
+    nights: 3
+  - name: Emerald Sands
+    rating: 4
+    nights: 3
+itinerary:
+  - day: 1
+    title: Arrival in Ladakh
+    description: Arrive in Ladakh, meet your TravelX host for a private transfer to the hotel. Freshen up and enjoy a relaxed evening at leisure with a welcome briefing.
+    stay: Mountain Echo Lodge
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 2
+    title: Nature & scenic escape
+    description: Head out to the scenic countryside for panoramic landscapes, an outdoor experience and a memorable local lunch amid nature.
+    stay: Lagoon Pearl Resort
+    meals:
+      - Lunch
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 3
+    title: Culture & leisure day
+    description: Immerse in local culture — markets, artisans and heritage — followed by free time to shop, relax or add an optional experience.
+    stay: Skyline Boutique
+    meals:
+      - Lunch
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 4
+    title: Signature experience
+    description: 'The trip''s showcase day: a curated flagship experience unique to Ladakh, designed to be the highlight of your journey.'
+    stay: The Regal Court
+    meals:
+      - Breakfast
+      - Dinner
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 5
+    title: At leisure / optional tours
+    description: A flexible day to unwind by the pool, indulge in a spa, or choose from a menu of optional excursions.
+    stay: Highland Vista
+    meals:
+      - Dinner
+      - Lunch
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 6
+    title: Nature & scenic escape
+    description: Head out to the scenic countryside for panoramic landscapes, an outdoor experience and a memorable local lunch amid nature.
+    stay: Azure Bay Resort
+    meals:
+      - Dinner
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 7
+    title: Signature experience
+    description: 'The trip''s showcase day: a curated flagship experience unique to Ladakh, designed to be the highlight of your journey.'
+    stay: Lagoon Pearl Resort
+    meals:
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 8
+    title: Departure from Ladakh
+    description: After breakfast and some last-minute souvenir shopping, transfer to the airport for your onward journey with TravelX memories to keep.
+    stay: ''
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine

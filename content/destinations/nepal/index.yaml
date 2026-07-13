@@ -1,0 +1,54 @@
+name: Nepal
+country: Nepal
+continent: Asia
+type: international
+tagline: Himalayan trails & living heritage
+description: Nepal is one of the world's most sought-after destinations — himalayan trails & living heritage. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Nepal at an unhurried, premium pace.
+image: https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80
+lat: '28.39'
+lng: '84.12'
+rating: '4.5'
+reviewCount: 820
+packageCount: 19
+startingPrice: 94360
+idealDuration: 7–10 days
+trending: false
+featured: false
+bestTimeToVisit:
+  - Mar
+  - Apr
+  - May
+  - Oct
+  - Nov
+activities:
+  - Everest trek
+  - Paragliding
+  - Temple tour
+  - Jungle safari
+highlights:
+  - Kathmandu
+  - Pokhara
+  - Annapurna
+  - Chitwan
+tags:
+  - Asia
+  - international
+  - Everest trek
+  - Paragliding
+weather:
+  - season: Peak
+    temp: 24°C
+    note: Clear skies, ideal for sightseeing
+  - season: Shoulder
+    temp: 26°C
+    note: Fewer crowds, great value
+  - season: Off-season
+    temp: 32°C
+    note: Lush landscapes, occasional rain

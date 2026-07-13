@@ -1,21 +1,26 @@
 import type { Review, Testimonial } from "@/types";
 import { packages } from "./packages";
-import { rng, between, round2, pick } from "./seed";
+import { rng, pick } from "./seed";
 import { avatars } from "./images";
+import reviewsJson from "./cms/reviews.json";
 
+/**
+ * Reviews — sourced from the CMS (content/reviews/*, edited at /keystatic).
+ * Regenerate this data after editing content with `npm run cms:sync`.
+ */
+export const reviews = reviewsJson as unknown as Review[];
+
+export const getReviewsForPackage = (slug: string) =>
+  reviews.filter((rv) => rv.packageSlug === slug);
+export const getReviewsForDestination = (slug: string) =>
+  reviews.filter((rv) => rv.destinationSlug === slug);
+
+// Author names + testimonial bodies used to synthesise the curated homepage
+// testimonials below (these are marketing highlights, not CMS-managed reviews).
 const authors = [
   ["Aarav Sharma", "Mumbai, India"], ["Priya Nair", "Kochi, India"], ["Rohan Mehta", "Delhi, India"],
   ["Sneha Reddy", "Hyderabad, India"], ["Vikram Singh", "Jaipur, India"], ["Ananya Iyer", "Chennai, India"],
   ["Karan Kapoor", "Pune, India"], ["Meera Joshi", "Ahmedabad, India"], ["Arjun Das", "Kolkata, India"],
-  ["Ishita Gupta", "Lucknow, India"], ["James Wilson", "London, UK"], ["Emily Clarke", "Sydney, AU"],
-  ["Daniel Kim", "Singapore"], ["Sara Ahmed", "Dubai, UAE"], ["Lucas Müller", "Berlin, DE"],
-  ["Olivia Brown", "Toronto, CA"],
-];
-
-const titles = [
-  "Trip of a lifetime!", "Flawless from start to finish", "Exceeded all expectations",
-  "Best travel agency we've used", "Seamless and stress-free", "Absolutely magical experience",
-  "Worth every rupee", "Our family loved it", "Perfectly curated itinerary", "Highly recommend TravelX",
 ];
 const bodies = [
   "From the first enquiry to the final drop-off, everything was handled with incredible care. Our guide was knowledgeable, the hotels were stunning, and the pacing was just right. We never had to worry about a thing.",
@@ -25,40 +30,8 @@ const bodies = [
   "We travelled as a group of ten and TravelX made the logistics effortless. Everyone had a wonderful time and the memories will last forever. Thank you for an unforgettable holiday.",
   "Booking was simple, the pricing was transparent, and there were no hidden surprises. The team was responsive on WhatsApp and answered all our questions quickly. Truly professional.",
 ];
-const sources: Review["source"][] = ["Google", "TripAdvisor", "TravelX", "Facebook"];
 
-/** 100 realistic reviews attached to random packages. */
-export const reviews: Review[] = Array.from({ length: 100 }, (_, i) => {
-  const r = rng(9000 + i);
-  const [name, location] = authors[i % authors.length];
-  const pkg = packages[i % packages.length];
-  const daysAgo = between(r(), 3, 420);
-  const date = new Date(2026, 6, 11);
-  date.setDate(date.getDate() - daysAgo);
-  return {
-    id: `rev-${i + 1}`,
-    author: name,
-    avatar: avatars[i % avatars.length],
-    location,
-    rating: round2(4 + r() * 1),
-    date: date.toISOString(),
-    title: pick(titles, r()),
-    content: pick(bodies, r()),
-    source: sources[i % sources.length],
-    packageSlug: pkg.slug,
-    destinationSlug: pkg.destinationSlug,
-    verified: r() > 0.15,
-    helpfulCount: between(r(), 0, 240),
-    tripType: pick(["Family", "Couple", "Solo", "Friends", "Business"], r()),
-  };
-});
-
-export const getReviewsForPackage = (slug: string) =>
-  reviews.filter((rv) => rv.packageSlug === slug);
-export const getReviewsForDestination = (slug: string) =>
-  reviews.filter((rv) => rv.destinationSlug === slug);
-
-/** Curated homepage testimonials. */
+/** Curated homepage testimonials (not CMS-managed). */
 export const testimonials: Testimonial[] = Array.from({ length: 9 }, (_, i) => {
   const r = rng(3300 + i);
   const [name, location] = authors[i % authors.length];
@@ -70,7 +43,7 @@ export const testimonials: Testimonial[] = Array.from({ length: 9 }, (_, i) => {
     location,
     rating: 5,
     quote: pick(bodies, r()),
-    trip: packages[(i * 7) % packages.length].title,
+    trip: packages[(i * 7) % packages.length]?.title ?? "TravelX Tour",
   };
 });
 

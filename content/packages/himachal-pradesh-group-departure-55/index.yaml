@@ -1,0 +1,166 @@
+title: Himachal Pradesh Group Departure
+destination: Himachal Pradesh
+destinationSlug: himachal-pradesh
+country: India
+type: domestic
+category: group
+summary: 8 days of group travel through Himachal Pradesh — pine forests & himalayan hamlets.
+description: Discover Himachal Pradesh on this 8-day group journey crafted by TravelX. Himachal Pradesh is one of India's most sought-after destinations — pine forests & himalayan hamlets. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Himachal Pradesh at an unhurried, premium pace. This itinerary balances must-see highlights with authentic local experiences and generous downtime, all backed by our 24/7 concierge and best-price promise.
+image: https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1530789253388-582c481c54b0?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80
+durationDays: 8
+durationNights: 7
+price: 35484
+oldPrice: 48361
+currency: INR
+rating: '4.6'
+reviewCount: 477
+groupSizeMin: 2
+groupSizeMax: 21
+difficulty: Challenging
+seatsLeft: 8
+featured: false
+trending: true
+bestseller: false
+highlights:
+  - Camping
+  - Spiti Valley
+  - Shimla ridge
+  - Manali
+inclusions:
+  - Entrance fees to monuments
+  - All sightseeing per itinerary
+  - 24/7 on-trip TravelX concierge
+  - Complimentary travel kit
+  - Expert local English-speaking guide
+  - Handpicked 4★/5★ accommodation
+  - Daily breakfast & select meals
+  - Applicable taxes & service charges
+  - Airport pick-up & drop
+  - Welcome drink on arrival
+exclusions:
+  - Early check-in / late check-out charges
+  - Optional activities & upgrades
+  - GST where applicable
+  - Camera / drone permits
+tags:
+  - Himachal Pradesh
+  - India
+  - group
+  - domestic
+themes:
+  - Culture
+  - Scenic
+  - Food
+departureCities:
+  - Hyderabad
+  - Chennai
+  - Pune
+  - Delhi
+availableDates:
+  - '2026-07-07'
+  - '2026-09-16'
+  - '2026-11-05'
+  - '2026-01-07'
+  - '2026-03-12'
+  - '2026-05-23'
+hotels:
+  - name: Highland Vista
+    rating: 5
+    nights: 3
+  - name: Lagoon Pearl Resort
+    rating: 5
+    nights: 3
+  - name: Heritage Haveli
+    rating: 4
+    nights: 3
+itinerary:
+  - day: 1
+    title: Arrival in Himachal Pradesh
+    description: Arrive in Himachal Pradesh, meet your TravelX host for a private transfer to the hotel. Freshen up and enjoy a relaxed evening at leisure with a welcome briefing.
+    stay: Skyline Boutique
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 2
+    title: Culture & leisure day
+    description: Immerse in local culture — markets, artisans and heritage — followed by free time to shop, relax or add an optional experience.
+    stay: Highland Vista
+    meals:
+      - Dinner
+      - Lunch
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 3
+    title: Culture & leisure day
+    description: Immerse in local culture — markets, artisans and heritage — followed by free time to shop, relax or add an optional experience.
+    stay: Aurora Retreat
+    meals:
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 4
+    title: Nature & scenic escape
+    description: Head out to the scenic countryside for panoramic landscapes, an outdoor experience and a memorable local lunch amid nature.
+    stay: The Regal Court
+    meals:
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 5
+    title: At leisure / optional tours
+    description: A flexible day to unwind by the pool, indulge in a spa, or choose from a menu of optional excursions.
+    stay: Azure Bay Resort
+    meals:
+      - Lunch
+      - Dinner
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 6
+    title: Nature & scenic escape
+    description: Head out to the scenic countryside for panoramic landscapes, an outdoor experience and a memorable local lunch amid nature.
+    stay: Mountain Echo Lodge
+    meals:
+      - Dinner
+      - Lunch
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 7
+    title: Himachal Pradesh city highlights
+    description: A full day of iconic sightseeing with your local guide — landmark monuments, viewpoints and hidden gems, with time for photos and local cuisine.
+    stay: Skyline Boutique
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 8
+    title: Departure from Himachal Pradesh
+    description: After breakfast and some last-minute souvenir shopping, transfer to the airport for your onward journey with TravelX memories to keep.
+    stay: ''
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine

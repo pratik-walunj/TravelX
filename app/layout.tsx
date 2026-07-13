@@ -9,6 +9,7 @@ import { AnnouncementBar } from "@/components/layout/announcement-bar";
 import { FloatingActions } from "@/components/layout/floating-actions";
 import { CompareBar } from "@/components/layout/compare-bar";
 import { CookieConsent } from "@/components/common/cookie-consent";
+import { ChromeGate } from "@/components/layout/chrome-gate";
 import { JsonLd, organizationSchema, websiteSchema } from "@/components/common/json-ld";
 
 const inter = Inter({
@@ -78,20 +79,32 @@ export default function RootLayout({
       <body className="min-h-dvh bg-background font-sans text-foreground">
         <JsonLd data={[organizationSchema(), websiteSchema()]} />
         <AppProviders>
-          {/* Skip link for keyboard/screen-reader users */}
-          <a
-            href="#main"
-            className="sr-only focus:not-sr-only focus:absolute focus:left-4 focus:top-4 focus:z-[100] focus:rounded-lg focus:bg-primary-600 focus:px-4 focus:py-2 focus:text-white"
+          <ChromeGate
+            skipLink={
+              <a
+                href="#main"
+                className="sr-only focus:not-sr-only focus:absolute focus:left-4 focus:top-4 focus:z-[100] focus:rounded-lg focus:bg-primary-600 focus:px-4 focus:py-2 focus:text-white"
+              >
+                Skip to content
+              </a>
+            }
+            header={
+              <>
+                <AnnouncementBar />
+                <Navbar />
+              </>
+            }
+            footer={
+              <>
+                <Footer />
+                <FloatingActions />
+                <CompareBar />
+                <CookieConsent />
+              </>
+            }
           >
-            Skip to content
-          </a>
-          <AnnouncementBar />
-          <Navbar />
-          <main id="main">{children}</main>
-          <Footer />
-          <FloatingActions />
-          <CompareBar />
-          <CookieConsent />
+            <main id="main">{children}</main>
+          </ChromeGate>
         </AppProviders>
       </body>
     </html>

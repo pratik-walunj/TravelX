@@ -1,0 +1,143 @@
+title: Turkey Luxury Cruise
+destination: Turkey
+destinationSlug: turkey
+country: Turkey
+type: international
+category: cruise
+summary: 6 days of cruise travel through Turkey — bazaars, balloons & byzantine wonders.
+description: Discover Turkey on this 6-day cruise journey crafted by TravelX. Turkey is one of the world's most sought-after destinations — bazaars, balloons & byzantine wonders. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Turkey at an unhurried, premium pace. This itinerary balances must-see highlights with authentic local experiences and generous downtime, all backed by our 24/7 concierge and best-price promise.
+image: https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80
+durationDays: 6
+durationNights: 5
+price: 123365
+oldPrice: 145791
+currency: INR
+rating: '4.8'
+reviewCount: 753
+groupSizeMin: 2
+groupSizeMax: 14
+difficulty: Moderate
+seatsLeft: 13
+featured: true
+trending: false
+bestseller: false
+highlights:
+  - Cappadocia
+  - Hot air balloon
+  - Istanbul
+  - Pamukkale
+inclusions:
+  - Private air-conditioned transfers
+  - Complimentary travel kit
+  - Handpicked 4★/5★ accommodation
+  - Expert local English-speaking guide
+  - Daily breakfast & select meals
+  - Welcome drink on arrival
+  - Airport pick-up & drop
+  - 24/7 on-trip TravelX concierge
+  - Entrance fees to monuments
+exclusions:
+  - Visa & travel insurance fees
+  - Early check-in / late check-out charges
+  - GST where applicable
+  - Personal expenses & tips
+  - Camera / drone permits
+tags:
+  - Turkey
+  - Turkey
+  - cruise
+  - international
+themes:
+  - Photography
+  - Culture
+  - Scenic
+departureCities:
+  - Bengaluru
+  - Kolkata
+  - Chennai
+  - Delhi
+  - Hyderabad
+availableDates:
+  - '2026-12-06'
+  - '2026-02-22'
+  - '2026-04-17'
+  - '2026-06-16'
+  - '2026-08-13'
+  - '2026-10-08'
+hotels:
+  - name: Mountain Echo Lodge
+    rating: 5
+    nights: 3
+  - name: The Grand Meridian
+    rating: 4
+    nights: 3
+itinerary:
+  - day: 1
+    title: Arrival in Turkey
+    description: Arrive in Turkey, meet your TravelX host for a private transfer to the hotel. Freshen up and enjoy a relaxed evening at leisure with a welcome briefing.
+    stay: Azure Bay Resort
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 2
+    title: At leisure / optional tours
+    description: A flexible day to unwind by the pool, indulge in a spa, or choose from a menu of optional excursions.
+    stay: Coral Reef Villas
+    meals:
+      - Lunch
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 3
+    title: Signature experience
+    description: 'The trip''s showcase day: a curated flagship experience unique to Turkey, designed to be the highlight of your journey.'
+    stay: The Grand Meridian
+    meals:
+      - Lunch
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 4
+    title: Signature experience
+    description: 'The trip''s showcase day: a curated flagship experience unique to Turkey, designed to be the highlight of your journey.'
+    stay: Mountain Echo Lodge
+    meals:
+      - Dinner
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 5
+    title: Adventure & activities
+    description: An action-packed day of activities and adventure suited to your pace, with all equipment and safety handled by our partners.
+    stay: Serenity Palace
+    meals:
+      - Lunch
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 6
+    title: Departure from Turkey
+    description: After breakfast and some last-minute souvenir shopping, transfer to the airport for your onward journey with TravelX memories to keep.
+    stay: ''
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops

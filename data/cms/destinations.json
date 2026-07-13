@@ -1,0 +1,3608 @@
+[
+  {
+    "id": "amsterdam",
+    "slug": "amsterdam",
+    "name": "Amsterdam",
+    "country": "Netherlands",
+    "continent": "Europe",
+    "type": "international",
+    "tagline": "Canals, bikes & golden-age charm",
+    "description": "Amsterdam is one of the world's most sought-after destinations — canals, bikes & golden-age charm. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Amsterdam at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": 52.37,
+      "lng": 4.9
+    },
+    "rating": 4.85,
+    "reviewCount": 2092,
+    "packageCount": 15,
+    "startingPrice": 153284,
+    "bestTimeToVisit": [
+      "Apr",
+      "May",
+      "Jun",
+      "Sep"
+    ],
+    "idealDuration": "4–6 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "23°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "32°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "28°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "Canal cruise",
+      "Museum tour",
+      "Bike ride",
+      "Tulip fields"
+    ],
+    "highlights": [
+      "Canal belt",
+      "Van Gogh Museum",
+      "Keukenhof",
+      "Jordaan"
+    ],
+    "trending": false,
+    "featured": false,
+    "tags": [
+      "Europe",
+      "international",
+      "Canal cruise",
+      "Museum tour"
+    ]
+  },
+  {
+    "id": "andaman-islands",
+    "slug": "andaman-islands",
+    "name": "Andaman Islands",
+    "country": "India",
+    "continent": "Asia",
+    "type": "domestic",
+    "tagline": "Turquoise waters & coral reefs",
+    "description": "Andaman Islands is one of India's most sought-after destinations — turquoise waters & coral reefs. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Andaman Islands at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1589979481223-deb893043163?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": 11.74,
+      "lng": 92.65
+    },
+    "rating": 4.55,
+    "reviewCount": 1717,
+    "packageCount": 15,
+    "startingPrice": 23740,
+    "bestTimeToVisit": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr"
+    ],
+    "idealDuration": "5–6 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "24°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "27°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "30°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "Scuba diving",
+      "Snorkeling",
+      "Island hopping",
+      "Sea walk"
+    ],
+    "highlights": [
+      "Radhanagar Beach",
+      "Havelock",
+      "Cellular Jail",
+      "Neil Island"
+    ],
+    "trending": false,
+    "featured": true,
+    "tags": [
+      "Asia",
+      "domestic",
+      "Scuba diving",
+      "Snorkeling"
+    ]
+  },
+  {
+    "id": "australia",
+    "slug": "australia",
+    "name": "Australia",
+    "country": "Australia",
+    "continent": "Oceania",
+    "type": "international",
+    "tagline": "Reefs, outback & cosmopolitan coasts",
+    "description": "Australia is one of the world's most sought-after destinations — reefs, outback & cosmopolitan coasts. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Australia at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": -25.27,
+      "lng": 133.77
+    },
+    "rating": 4.7,
+    "reviewCount": 760,
+    "packageCount": 22,
+    "startingPrice": 55070,
+    "bestTimeToVisit": [
+      "Mar",
+      "Apr",
+      "May",
+      "Sep",
+      "Oct",
+      "Nov"
+    ],
+    "idealDuration": "9–12 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "26°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "31°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "30°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "Reef snorkeling",
+      "Opera House tour",
+      "Coastal drive",
+      "Wildlife park"
+    ],
+    "highlights": [
+      "Sydney",
+      "Great Barrier Reef",
+      "Melbourne",
+      "Gold Coast"
+    ],
+    "trending": false,
+    "featured": false,
+    "tags": [
+      "Oceania",
+      "international",
+      "Reef snorkeling",
+      "Opera House tour"
+    ]
+  },
+  {
+    "id": "bali",
+    "slug": "bali",
+    "name": "Bali",
+    "country": "Indonesia",
+    "continent": "Asia",
+    "type": "international",
+    "tagline": "Island of temples & rice terraces",
+    "description": "Bali is one of the world's most sought-after destinations — island of temples & rice terraces. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Bali at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": -8.34,
+      "lng": 115.09
+    },
+    "rating": 4.9,
+    "reviewCount": 1675,
+    "packageCount": 21,
+    "startingPrice": 160602,
+    "bestTimeToVisit": [
+      "Apr",
+      "May",
+      "Jun",
+      "Sep",
+      "Oct"
+    ],
+    "idealDuration": "6–8 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "20°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "27°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "30°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "Temple tour",
+      "Surfing",
+      "Rice terrace trek",
+      "Spa"
+    ],
+    "highlights": [
+      "Ubud",
+      "Uluwatu",
+      "Tegallalang",
+      "Nusa Penida"
+    ],
+    "trending": true,
+    "featured": true,
+    "tags": [
+      "Asia",
+      "international",
+      "Temple tour",
+      "Surfing"
+    ]
+  },
+  {
+    "id": "bhutan",
+    "slug": "bhutan",
+    "name": "Bhutan",
+    "country": "Bhutan",
+    "continent": "Asia",
+    "type": "international",
+    "tagline": "The last Himalayan kingdom of happiness",
+    "description": "Bhutan is one of the world's most sought-after destinations — the last himalayan kingdom of happiness. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Bhutan at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1553856622-d1b352e9a211?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": 27.51,
+      "lng": 90.43
+    },
+    "rating": 4.9,
+    "reviewCount": 1457,
+    "packageCount": 12,
+    "startingPrice": 134721,
+    "bestTimeToVisit": [
+      "Mar",
+      "Apr",
+      "May",
+      "Sep",
+      "Oct",
+      "Nov"
+    ],
+    "idealDuration": "6–8 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "19°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "26°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "33°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "Tiger's Nest trek",
+      "Dzong tour",
+      "Archery",
+      "Hot stone bath"
+    ],
+    "highlights": [
+      "Paro",
+      "Thimphu",
+      "Punakha",
+      "Tiger's Nest"
+    ],
+    "trending": false,
+    "featured": false,
+    "tags": [
+      "Asia",
+      "international",
+      "Tiger's Nest trek",
+      "Dzong tour"
+    ]
+  },
+  {
+    "id": "bora-bora",
+    "slug": "bora-bora",
+    "name": "Bora Bora",
+    "country": "French Polynesia",
+    "continent": "Oceania",
+    "type": "international",
+    "tagline": "The pearl of the Pacific",
+    "description": "Bora Bora is one of the world's most sought-after destinations — the pearl of the pacific. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Bora Bora at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1589979481223-deb893043163?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": -16.5,
+      "lng": -151.74
+    },
+    "rating": 4.75,
+    "reviewCount": 2075,
+    "packageCount": 12,
+    "startingPrice": 126806,
+    "bestTimeToVisit": [
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct"
+    ],
+    "idealDuration": "5–7 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "25°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "28°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "33°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "Lagoon tour",
+      "Snorkeling",
+      "Overwater bungalow",
+      "Shark dive"
+    ],
+    "highlights": [
+      "Mount Otemanu",
+      "Matira Beach",
+      "Coral gardens",
+      "Lagoonarium"
+    ],
+    "trending": false,
+    "featured": false,
+    "tags": [
+      "Oceania",
+      "international",
+      "Lagoon tour",
+      "Snorkeling"
+    ]
+  },
+  {
+    "id": "brazil",
+    "slug": "brazil",
+    "name": "Brazil",
+    "country": "Brazil",
+    "continent": "South America",
+    "type": "international",
+    "tagline": "Carnival spirit, beaches & Amazon",
+    "description": "Brazil is one of the world's most sought-after destinations — carnival spirit, beaches & amazon. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Brazil at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": -14.24,
+      "lng": -51.93
+    },
+    "rating": 4.65,
+    "reviewCount": 1925,
+    "packageCount": 15,
+    "startingPrice": 171111,
+    "bestTimeToVisit": [
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "idealDuration": "9–12 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "25°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "26°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "29°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "Christ the Redeemer",
+      "Beach day",
+      "Samba night",
+      "Amazon tour"
+    ],
+    "highlights": [
+      "Rio de Janeiro",
+      "Iguazu Falls",
+      "Amazon",
+      "Salvador"
+    ],
+    "trending": false,
+    "featured": false,
+    "tags": [
+      "South America",
+      "international",
+      "Christ the Redeemer",
+      "Beach day"
+    ]
+  },
+  {
+    "id": "cambodia",
+    "slug": "cambodia",
+    "name": "Cambodia",
+    "country": "Cambodia",
+    "continent": "Asia",
+    "type": "international",
+    "tagline": "Ancient temples lost in the jungle",
+    "description": "Cambodia is one of the world's most sought-after destinations — ancient temples lost in the jungle. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Cambodia at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1563492065599-3520f775eeed?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": 12.57,
+      "lng": 104.99
+    },
+    "rating": 4.5,
+    "reviewCount": 1161,
+    "packageCount": 15,
+    "startingPrice": 52349,
+    "bestTimeToVisit": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "idealDuration": "5–7 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "25°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "31°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "36°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "Angkor tour",
+      "Floating village",
+      "Cooking class",
+      "Tuk-tuk ride"
+    ],
+    "highlights": [
+      "Angkor Wat",
+      "Siem Reap",
+      "Phnom Penh",
+      "Tonlé Sap"
+    ],
+    "trending": false,
+    "featured": false,
+    "tags": [
+      "Asia",
+      "international",
+      "Angkor tour",
+      "Floating village"
+    ]
+  },
+  {
+    "id": "canada-rockies",
+    "slug": "canada-rockies",
+    "name": "Canada Rockies",
+    "country": "Canada",
+    "continent": "North America",
+    "type": "international",
+    "tagline": "Turquoise lakes & alpine giants",
+    "description": "Canada Rockies is one of the world's most sought-after destinations — turquoise lakes & alpine giants. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Canada Rockies at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1609825488888-3a766db05542?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1530789253388-582c481c54b0?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": 51.18,
+      "lng": -115.57
+    },
+    "rating": 4.85,
+    "reviewCount": 2108,
+    "packageCount": 19,
+    "startingPrice": 166095,
+    "bestTimeToVisit": [
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ],
+    "idealDuration": "8–10 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "19°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "25°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "30°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "Lake cruise",
+      "Gondola ride",
+      "Wildlife tour",
+      "Glacier walk"
+    ],
+    "highlights": [
+      "Banff",
+      "Lake Louise",
+      "Jasper",
+      "Vancouver"
+    ],
+    "trending": false,
+    "featured": false,
+    "tags": [
+      "North America",
+      "international",
+      "Lake cruise",
+      "Gondola ride"
+    ]
+  },
+  {
+    "id": "dubai",
+    "slug": "dubai",
+    "name": "Dubai",
+    "country": "UAE",
+    "continent": "Asia",
+    "type": "international",
+    "tagline": "Futuristic skyline meets desert gold",
+    "description": "Dubai is one of the world's most sought-after destinations — futuristic skyline meets desert gold. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Dubai at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": 25.2,
+      "lng": 55.27
+    },
+    "rating": 4.3,
+    "reviewCount": 617,
+    "packageCount": 17,
+    "startingPrice": 152020,
+    "bestTimeToVisit": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "idealDuration": "5–7 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "19°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "31°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "32°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "Desert safari",
+      "Burj Khalifa",
+      "Dhow cruise",
+      "Shopping"
+    ],
+    "highlights": [
+      "Burj Khalifa",
+      "Palm Jumeirah",
+      "Desert dunes",
+      "Dubai Marina"
+    ],
+    "trending": true,
+    "featured": true,
+    "tags": [
+      "Asia",
+      "international",
+      "Desert safari",
+      "Burj Khalifa"
+    ]
+  },
+  {
+    "id": "egypt",
+    "slug": "egypt",
+    "name": "Egypt",
+    "country": "Egypt",
+    "continent": "Africa",
+    "type": "international",
+    "tagline": "Pyramids, pharaohs & the Nile",
+    "description": "Egypt is one of the world's most sought-after destinations — pyramids, pharaohs & the nile. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Egypt at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1539768942893-daf53e448371?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": 26.82,
+      "lng": 30.8
+    },
+    "rating": 4.55,
+    "reviewCount": 2051,
+    "packageCount": 8,
+    "startingPrice": 170524,
+    "bestTimeToVisit": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "idealDuration": "7–9 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "24°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "31°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "35°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "Pyramid tour",
+      "Nile cruise",
+      "Temple visit",
+      "Desert camp"
+    ],
+    "highlights": [
+      "Giza Pyramids",
+      "Luxor",
+      "Aswan",
+      "Cairo"
+    ],
+    "trending": false,
+    "featured": false,
+    "tags": [
+      "Africa",
+      "international",
+      "Pyramid tour",
+      "Nile cruise"
+    ]
+  },
+  {
+    "id": "goa",
+    "slug": "goa",
+    "name": "Goa",
+    "country": "India",
+    "continent": "Asia",
+    "type": "domestic",
+    "tagline": "Sun, sand & Susegad vibes",
+    "description": "Goa is one of India's most sought-after destinations — sun, sand & susegad vibes. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Goa at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": 15.3,
+      "lng": 74.12
+    },
+    "rating": 4.55,
+    "reviewCount": 1366,
+    "packageCount": 13,
+    "startingPrice": 19263,
+    "bestTimeToVisit": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "idealDuration": "3–5 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "22°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "29°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "31°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "Beach hopping",
+      "Water sports",
+      "Nightlife",
+      "Spice farm"
+    ],
+    "highlights": [
+      "Baga & Palolem",
+      "Old Goa churches",
+      "Dudhsagar Falls",
+      "Flea markets"
+    ],
+    "trending": true,
+    "featured": false,
+    "tags": [
+      "Asia",
+      "domestic",
+      "Beach hopping",
+      "Water sports"
+    ]
+  },
+  {
+    "id": "himachal-pradesh",
+    "slug": "himachal-pradesh",
+    "name": "Himachal Pradesh",
+    "country": "India",
+    "continent": "Asia",
+    "type": "domestic",
+    "tagline": "Pine forests & Himalayan hamlets",
+    "description": "Himachal Pradesh is one of India's most sought-after destinations — pine forests & himalayan hamlets. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Himachal Pradesh at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": 31.1,
+      "lng": 77.17
+    },
+    "rating": 4.4,
+    "reviewCount": 791,
+    "packageCount": 13,
+    "startingPrice": 25533,
+    "bestTimeToVisit": [
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Oct"
+    ],
+    "idealDuration": "5–7 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "22°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "24°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "34°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "Trekking",
+      "Paragliding",
+      "Camping",
+      "Apple orchards"
+    ],
+    "highlights": [
+      "Manali",
+      "Shimla ridge",
+      "Spiti Valley",
+      "Kasol"
+    ],
+    "trending": true,
+    "featured": false,
+    "tags": [
+      "Asia",
+      "domestic",
+      "Trekking",
+      "Paragliding"
+    ]
+  },
+  {
+    "id": "hong-kong",
+    "slug": "hong-kong",
+    "name": "Hong Kong",
+    "country": "Hong Kong",
+    "continent": "Asia",
+    "type": "international",
+    "tagline": "Skyline drama & dim sum culture",
+    "description": "Hong Kong is one of the world's most sought-after destinations — skyline drama & dim sum culture. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Hong Kong at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1536599018102-9f803c140fc1?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1530789253388-582c481c54b0?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": 22.32,
+      "lng": 114.17
+    },
+    "rating": 4.35,
+    "reviewCount": 1620,
+    "packageCount": 11,
+    "startingPrice": 67547,
+    "bestTimeToVisit": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Mar",
+      "Apr"
+    ],
+    "idealDuration": "4–6 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "25°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "24°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "35°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "Peak Tram",
+      "Disneyland",
+      "Star Ferry",
+      "Street food"
+    ],
+    "highlights": [
+      "Victoria Peak",
+      "Tsim Sha Tsui",
+      "Lantau",
+      "Mong Kok"
+    ],
+    "trending": false,
+    "featured": false,
+    "tags": [
+      "Asia",
+      "international",
+      "Peak Tram",
+      "Disneyland"
+    ]
+  },
+  {
+    "id": "iceland",
+    "slug": "iceland",
+    "name": "Iceland",
+    "country": "Iceland",
+    "continent": "Europe",
+    "type": "international",
+    "tagline": "Fire, ice & northern lights",
+    "description": "Iceland is one of the world's most sought-after destinations — fire, ice & northern lights. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Iceland at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1504829857797-ddff29c27927?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": 64.96,
+      "lng": -19.02
+    },
+    "rating": 4.35,
+    "reviewCount": 2352,
+    "packageCount": 18,
+    "startingPrice": 80811,
+    "bestTimeToVisit": [
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Feb",
+      "Mar"
+    ],
+    "idealDuration": "6–8 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "19°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "31°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "30°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "Northern lights",
+      "Glacier hike",
+      "Blue Lagoon",
+      "Golden Circle"
+    ],
+    "highlights": [
+      "Reykjavik",
+      "Blue Lagoon",
+      "Golden Circle",
+      "Jökulsárlón"
+    ],
+    "trending": true,
+    "featured": false,
+    "tags": [
+      "Europe",
+      "international",
+      "Northern lights",
+      "Glacier hike"
+    ]
+  },
+  {
+    "id": "iceland-ring-road",
+    "slug": "iceland-ring-road",
+    "name": "Iceland Ring Road",
+    "country": "Iceland",
+    "continent": "Europe",
+    "type": "international",
+    "tagline": "Waterfalls, black sands & glaciers",
+    "description": "Iceland Ring Road is one of the world's most sought-after destinations — waterfalls, black sands & glaciers. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Iceland Ring Road at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1490080886466-6ea044b2ee9c?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1530789253388-582c481c54b0?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": 65,
+      "lng": -18
+    },
+    "rating": 4.75,
+    "reviewCount": 1867,
+    "packageCount": 19,
+    "startingPrice": 189870,
+    "bestTimeToVisit": [
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ],
+    "idealDuration": "8–10 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "23°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "28°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "30°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "Waterfall tour",
+      "Ice cave",
+      "Whale watching",
+      "Hot springs"
+    ],
+    "highlights": [
+      "Vik",
+      "Skaftafell",
+      "Akureyri",
+      "Diamond Beach"
+    ],
+    "trending": false,
+    "featured": false,
+    "tags": [
+      "Europe",
+      "international",
+      "Waterfall tour",
+      "Ice cave"
+    ]
+  },
+  {
+    "id": "italy",
+    "slug": "italy",
+    "name": "Italy",
+    "country": "Italy",
+    "continent": "Europe",
+    "type": "international",
+    "tagline": "Art, ruins & la dolce vita",
+    "description": "Italy is one of the world's most sought-after destinations — art, ruins & la dolce vita. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Italy at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": 41.87,
+      "lng": 12.57
+    },
+    "rating": 4.75,
+    "reviewCount": 1482,
+    "packageCount": 10,
+    "startingPrice": 157912,
+    "bestTimeToVisit": [
+      "Apr",
+      "May",
+      "Jun",
+      "Sep",
+      "Oct"
+    ],
+    "idealDuration": "8–10 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "21°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "25°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "28°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "Colosseum tour",
+      "Gondola ride",
+      "Wine tour",
+      "Vatican visit"
+    ],
+    "highlights": [
+      "Rome",
+      "Venice",
+      "Florence",
+      "Amalfi Coast"
+    ],
+    "trending": true,
+    "featured": false,
+    "tags": [
+      "Europe",
+      "international",
+      "Colosseum tour",
+      "Gondola ride"
+    ]
+  },
+  {
+    "id": "japan",
+    "slug": "japan",
+    "name": "Japan",
+    "country": "Japan",
+    "continent": "Asia",
+    "type": "international",
+    "tagline": "Where tradition meets neon future",
+    "description": "Japan is one of the world's most sought-after destinations — where tradition meets neon future. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Japan at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1530789253388-582c481c54b0?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": 36.2,
+      "lng": 138.25
+    },
+    "rating": 4.35,
+    "reviewCount": 2267,
+    "packageCount": 15,
+    "startingPrice": 42582,
+    "bestTimeToVisit": [
+      "Mar",
+      "Apr",
+      "May",
+      "Oct",
+      "Nov"
+    ],
+    "idealDuration": "8–10 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "19°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "30°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "29°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "Bullet train",
+      "Temple tour",
+      "Cherry blossom",
+      "Sushi crawl"
+    ],
+    "highlights": [
+      "Tokyo",
+      "Kyoto",
+      "Mt Fuji",
+      "Osaka"
+    ],
+    "trending": true,
+    "featured": true,
+    "tags": [
+      "Asia",
+      "international",
+      "Bullet train",
+      "Temple tour"
+    ]
+  },
+  {
+    "id": "jordan",
+    "slug": "jordan",
+    "name": "Jordan",
+    "country": "Jordan",
+    "continent": "Asia",
+    "type": "international",
+    "tagline": "Rose-red city & Wadi Rum deserts",
+    "description": "Jordan is one of the world's most sought-after destinations — rose-red city & wadi rum deserts. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Jordan at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1548786811-dd6e453ccca7?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1530789253388-582c481c54b0?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": 30.59,
+      "lng": 36.24
+    },
+    "rating": 4.55,
+    "reviewCount": 1516,
+    "packageCount": 22,
+    "startingPrice": 108518,
+    "bestTimeToVisit": [
+      "Mar",
+      "Apr",
+      "May",
+      "Oct",
+      "Nov"
+    ],
+    "idealDuration": "6–8 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "26°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "28°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "37°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "Petra tour",
+      "Desert camp",
+      "Dead Sea float",
+      "Jeep safari"
+    ],
+    "highlights": [
+      "Petra",
+      "Wadi Rum",
+      "Dead Sea",
+      "Amman"
+    ],
+    "trending": false,
+    "featured": false,
+    "tags": [
+      "Asia",
+      "international",
+      "Petra tour",
+      "Desert camp"
+    ]
+  },
+  {
+    "id": "kashmir",
+    "slug": "kashmir",
+    "name": "Kashmir",
+    "country": "India",
+    "continent": "Asia",
+    "type": "domestic",
+    "tagline": "Paradise on earth",
+    "description": "Kashmir is one of India's most sought-after destinations — paradise on earth. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Kashmir at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1566837497312-7be7a1b3b3c2?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1530789253388-582c481c54b0?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": 34.08,
+      "lng": 74.8
+    },
+    "rating": 4.5,
+    "reviewCount": 670,
+    "packageCount": 21,
+    "startingPrice": 34117,
+    "bestTimeToVisit": [
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Sep",
+      "Oct"
+    ],
+    "idealDuration": "5–7 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "25°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "32°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "30°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "Shikara ride",
+      "Gondola cable car",
+      "Gardens tour",
+      "Skiing"
+    ],
+    "highlights": [
+      "Dal Lake",
+      "Gulmarg",
+      "Pahalgam",
+      "Sonamarg"
+    ],
+    "trending": true,
+    "featured": false,
+    "tags": [
+      "Asia",
+      "domestic",
+      "Shikara ride",
+      "Gondola cable car"
+    ]
+  },
+  {
+    "id": "kenya",
+    "slug": "kenya",
+    "name": "Kenya",
+    "country": "Kenya",
+    "continent": "Africa",
+    "type": "international",
+    "tagline": "The great migration & endless savanna",
+    "description": "Kenya is one of the world's most sought-after destinations — the great migration & endless savanna. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Kenya at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": -0.02,
+      "lng": 37.9
+    },
+    "rating": 4.35,
+    "reviewCount": 566,
+    "packageCount": 21,
+    "startingPrice": 101213,
+    "bestTimeToVisit": [
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Jan",
+      "Feb"
+    ],
+    "idealDuration": "6–8 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "20°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "29°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "37°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "Big Five safari",
+      "Balloon safari",
+      "Masai village",
+      "Lake cruise"
+    ],
+    "highlights": [
+      "Masai Mara",
+      "Amboseli",
+      "Nairobi",
+      "Lake Nakuru"
+    ],
+    "trending": false,
+    "featured": false,
+    "tags": [
+      "Africa",
+      "international",
+      "Big Five safari",
+      "Balloon safari"
+    ]
+  },
+  {
+    "id": "kerala",
+    "slug": "kerala",
+    "name": "Kerala",
+    "country": "India",
+    "continent": "Asia",
+    "type": "domestic",
+    "tagline": "God's own backwaters & misty hills",
+    "description": "Kerala is one of India's most sought-after destinations — god's own backwaters & misty hills. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Kerala at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1530789253388-582c481c54b0?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": 10.85,
+      "lng": 76.27
+    },
+    "rating": 4.8,
+    "reviewCount": 2017,
+    "packageCount": 17,
+    "startingPrice": 31894,
+    "bestTimeToVisit": [
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "idealDuration": "5–7 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "18°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "27°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "31°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "Houseboat cruise",
+      "Ayurveda spa",
+      "Tea plantation walk",
+      "Kathakali show"
+    ],
+    "highlights": [
+      "Alleppey backwaters",
+      "Munnar tea gardens",
+      "Fort Kochi",
+      "Periyar wildlife"
+    ],
+    "trending": true,
+    "featured": true,
+    "tags": [
+      "Asia",
+      "domestic",
+      "Houseboat cruise",
+      "Ayurveda spa"
+    ]
+  },
+  {
+    "id": "ladakh",
+    "slug": "ladakh",
+    "name": "Ladakh",
+    "country": "India",
+    "continent": "Asia",
+    "type": "domestic",
+    "tagline": "Roof of the world, land of high passes",
+    "description": "Ladakh is one of India's most sought-after destinations — roof of the world, land of high passes. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Ladakh at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1581793745862-99fde7fa73d2?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1530789253388-582c481c54b0?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": 34.15,
+      "lng": 77.57
+    },
+    "rating": 4.5,
+    "reviewCount": 679,
+    "packageCount": 21,
+    "startingPrice": 33534,
+    "bestTimeToVisit": [
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ],
+    "idealDuration": "6–9 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "22°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "31°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "32°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "Bike expedition",
+      "Monastery tour",
+      "River rafting",
+      "Stargazing"
+    ],
+    "highlights": [
+      "Pangong Lake",
+      "Nubra Valley",
+      "Khardung La",
+      "Thiksey Monastery"
+    ],
+    "trending": true,
+    "featured": true,
+    "tags": [
+      "Asia",
+      "domestic",
+      "Bike expedition",
+      "Monastery tour"
+    ]
+  },
+  {
+    "id": "london",
+    "slug": "london",
+    "name": "London",
+    "country": "United Kingdom",
+    "continent": "Europe",
+    "type": "international",
+    "tagline": "Royal history & modern buzz",
+    "description": "London is one of the world's most sought-after destinations — royal history & modern buzz. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of London at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1530789253388-582c481c54b0?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": 51.51,
+      "lng": -0.13
+    },
+    "rating": 4.65,
+    "reviewCount": 1066,
+    "packageCount": 12,
+    "startingPrice": 173213,
+    "bestTimeToVisit": [
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ],
+    "idealDuration": "5–7 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "21°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "25°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "32°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "London Eye",
+      "Palace tour",
+      "West End show",
+      "Thames cruise"
+    ],
+    "highlights": [
+      "Big Ben",
+      "Tower of London",
+      "Buckingham Palace",
+      "Soho"
+    ],
+    "trending": false,
+    "featured": false,
+    "tags": [
+      "Europe",
+      "international",
+      "London Eye",
+      "Palace tour"
+    ]
+  },
+  {
+    "id": "maldives",
+    "slug": "maldives",
+    "name": "Maldives",
+    "country": "Maldives",
+    "continent": "Asia",
+    "type": "international",
+    "tagline": "Overwater villas & endless lagoons",
+    "description": "Maldives is one of the world's most sought-after destinations — overwater villas & endless lagoons. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Maldives at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": 3.2,
+      "lng": 73.22
+    },
+    "rating": 4.55,
+    "reviewCount": 1960,
+    "packageCount": 20,
+    "startingPrice": 88775,
+    "bestTimeToVisit": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr"
+    ],
+    "idealDuration": "4–6 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "20°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "27°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "29°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "Snorkeling",
+      "Sunset cruise",
+      "Overwater spa",
+      "Diving"
+    ],
+    "highlights": [
+      "Private island resorts",
+      "House reefs",
+      "Bioluminescent beach",
+      "Maafushi"
+    ],
+    "trending": true,
+    "featured": true,
+    "tags": [
+      "Asia",
+      "international",
+      "Snorkeling",
+      "Sunset cruise"
+    ]
+  },
+  {
+    "id": "mauritius",
+    "slug": "mauritius",
+    "name": "Mauritius",
+    "country": "Mauritius",
+    "continent": "Africa",
+    "type": "international",
+    "tagline": "Volcanic peaks & sugar-white beaches",
+    "description": "Mauritius is one of the world's most sought-after destinations — volcanic peaks & sugar-white beaches. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Mauritius at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1530789253388-582c481c54b0?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": -20.35,
+      "lng": 57.55
+    },
+    "rating": 4.4,
+    "reviewCount": 1540,
+    "packageCount": 17,
+    "startingPrice": 146681,
+    "bestTimeToVisit": [
+      "May",
+      "Jun",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ],
+    "idealDuration": "5–7 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "19°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "25°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "30°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "Catamaran cruise",
+      "Underwater walk",
+      "Waterfall tour",
+      "Golf"
+    ],
+    "highlights": [
+      "Le Morne",
+      "Chamarel",
+      "Ile aux Cerfs",
+      "Port Louis"
+    ],
+    "trending": false,
+    "featured": true,
+    "tags": [
+      "Africa",
+      "international",
+      "Catamaran cruise",
+      "Underwater walk"
+    ]
+  },
+  {
+    "id": "meghalaya",
+    "slug": "meghalaya",
+    "name": "Meghalaya",
+    "country": "India",
+    "continent": "Asia",
+    "type": "domestic",
+    "tagline": "Abode of clouds & living root bridges",
+    "description": "Meghalaya is one of India's most sought-after destinations — abode of clouds & living root bridges. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Meghalaya at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1627920768047-7c1f31f0f9b3?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": 25.47,
+      "lng": 91.37
+    },
+    "rating": 4.8,
+    "reviewCount": 719,
+    "packageCount": 8,
+    "startingPrice": 20085,
+    "bestTimeToVisit": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Mar",
+      "Apr"
+    ],
+    "idealDuration": "5–6 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "19°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "24°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "28°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "Root bridge trek",
+      "Cave exploration",
+      "Waterfall chasing",
+      "Kayaking"
+    ],
+    "highlights": [
+      "Cherrapunji",
+      "Dawki river",
+      "Double-decker bridge",
+      "Shillong"
+    ],
+    "trending": false,
+    "featured": false,
+    "tags": [
+      "Asia",
+      "domestic",
+      "Root bridge trek",
+      "Cave exploration"
+    ]
+  },
+  {
+    "id": "morocco",
+    "slug": "morocco",
+    "name": "Morocco",
+    "country": "Morocco",
+    "continent": "Africa",
+    "type": "international",
+    "tagline": "Medinas, dunes & mountain kasbahs",
+    "description": "Morocco is one of the world's most sought-after destinations — medinas, dunes & mountain kasbahs. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Morocco at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1489749798305-4fea3ae63d43?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": 31.79,
+      "lng": -7.09
+    },
+    "rating": 4.5,
+    "reviewCount": 513,
+    "packageCount": 7,
+    "startingPrice": 127747,
+    "bestTimeToVisit": [
+      "Mar",
+      "Apr",
+      "May",
+      "Oct",
+      "Nov"
+    ],
+    "idealDuration": "7–9 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "24°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "25°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "29°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "Sahara camp",
+      "Medina tour",
+      "Camel trek",
+      "Riad stay"
+    ],
+    "highlights": [
+      "Marrakech",
+      "Fes",
+      "Sahara",
+      "Chefchaouen"
+    ],
+    "trending": false,
+    "featured": false,
+    "tags": [
+      "Africa",
+      "international",
+      "Sahara camp",
+      "Medina tour"
+    ]
+  },
+  {
+    "id": "nepal",
+    "slug": "nepal",
+    "name": "Nepal",
+    "country": "Nepal",
+    "continent": "Asia",
+    "type": "international",
+    "tagline": "Himalayan trails & living heritage",
+    "description": "Nepal is one of the world's most sought-after destinations — himalayan trails & living heritage. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Nepal at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": 28.39,
+      "lng": 84.12
+    },
+    "rating": 4.5,
+    "reviewCount": 820,
+    "packageCount": 19,
+    "startingPrice": 94360,
+    "bestTimeToVisit": [
+      "Mar",
+      "Apr",
+      "May",
+      "Oct",
+      "Nov"
+    ],
+    "idealDuration": "7–10 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "24°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "26°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "32°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "Everest trek",
+      "Paragliding",
+      "Temple tour",
+      "Jungle safari"
+    ],
+    "highlights": [
+      "Kathmandu",
+      "Pokhara",
+      "Annapurna",
+      "Chitwan"
+    ],
+    "trending": false,
+    "featured": false,
+    "tags": [
+      "Asia",
+      "international",
+      "Everest trek",
+      "Paragliding"
+    ]
+  },
+  {
+    "id": "new-zealand",
+    "slug": "new-zealand",
+    "name": "New Zealand",
+    "country": "New Zealand",
+    "continent": "Oceania",
+    "type": "international",
+    "tagline": "Middle-earth of fjords & adventure",
+    "description": "New Zealand is one of the world's most sought-after destinations — middle-earth of fjords & adventure. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of New Zealand at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1469521669194-babb45599def?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": -40.9,
+      "lng": 174.89
+    },
+    "rating": 4.85,
+    "reviewCount": 1987,
+    "packageCount": 15,
+    "startingPrice": 176892,
+    "bestTimeToVisit": [
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar",
+      "Nov"
+    ],
+    "idealDuration": "9–12 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "19°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "28°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "38°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "Bungee jump",
+      "Milford cruise",
+      "Glowworm caves",
+      "Jet boat"
+    ],
+    "highlights": [
+      "Queenstown",
+      "Milford Sound",
+      "Rotorua",
+      "Auckland"
+    ],
+    "trending": false,
+    "featured": false,
+    "tags": [
+      "Oceania",
+      "international",
+      "Bungee jump",
+      "Milford cruise"
+    ]
+  },
+  {
+    "id": "norway-fjords",
+    "slug": "norway-fjords",
+    "name": "Norway Fjords",
+    "country": "Norway",
+    "continent": "Europe",
+    "type": "international",
+    "tagline": "Steep fjords & midnight sun",
+    "description": "Norway Fjords is one of the world's most sought-after destinations — steep fjords & midnight sun. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Norway Fjords at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1516546453174-5e1098a4b4af?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": 60.47,
+      "lng": 8.47
+    },
+    "rating": 4.65,
+    "reviewCount": 2367,
+    "packageCount": 11,
+    "startingPrice": 57588,
+    "bestTimeToVisit": [
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ],
+    "idealDuration": "8–10 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "22°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "30°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "31°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "Fjord cruise",
+      "Flåm railway",
+      "Hiking",
+      "Aurora hunt"
+    ],
+    "highlights": [
+      "Bergen",
+      "Geirangerfjord",
+      "Tromsø",
+      "Lofoten"
+    ],
+    "trending": false,
+    "featured": false,
+    "tags": [
+      "Europe",
+      "international",
+      "Fjord cruise",
+      "Flåm railway"
+    ]
+  },
+  {
+    "id": "paris",
+    "slug": "paris",
+    "name": "Paris",
+    "country": "France",
+    "continent": "Europe",
+    "type": "international",
+    "tagline": "The city of light & love",
+    "description": "Paris is one of the world's most sought-after destinations — the city of light & love. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Paris at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": 48.86,
+      "lng": 2.35
+    },
+    "rating": 4.9,
+    "reviewCount": 2387,
+    "packageCount": 10,
+    "startingPrice": 75766,
+    "bestTimeToVisit": [
+      "Apr",
+      "May",
+      "Jun",
+      "Sep",
+      "Oct"
+    ],
+    "idealDuration": "5–7 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "20°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "32°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "35°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "Eiffel Tower",
+      "Seine cruise",
+      "Louvre",
+      "Café hopping"
+    ],
+    "highlights": [
+      "Eiffel Tower",
+      "Louvre",
+      "Montmartre",
+      "Versailles"
+    ],
+    "trending": true,
+    "featured": false,
+    "tags": [
+      "Europe",
+      "international",
+      "Eiffel Tower",
+      "Seine cruise"
+    ]
+  },
+  {
+    "id": "peru",
+    "slug": "peru",
+    "name": "Peru",
+    "country": "Peru",
+    "continent": "South America",
+    "type": "international",
+    "tagline": "Inca trails to Machu Picchu",
+    "description": "Peru is one of the world's most sought-after destinations — inca trails to machu picchu. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Peru at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1526392060635-9d6019884377?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1530789253388-582c481c54b0?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": -9.19,
+      "lng": -75.02
+    },
+    "rating": 4.7,
+    "reviewCount": 734,
+    "packageCount": 8,
+    "startingPrice": 39605,
+    "bestTimeToVisit": [
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ],
+    "idealDuration": "8–10 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "25°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "26°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "29°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "Inca Trail",
+      "Machu Picchu",
+      "Sacred Valley",
+      "Rainbow Mountain"
+    ],
+    "highlights": [
+      "Machu Picchu",
+      "Cusco",
+      "Lima",
+      "Lake Titicaca"
+    ],
+    "trending": false,
+    "featured": false,
+    "tags": [
+      "South America",
+      "international",
+      "Inca Trail",
+      "Machu Picchu"
+    ]
+  },
+  {
+    "id": "phuket",
+    "slug": "phuket",
+    "name": "Phuket",
+    "country": "Thailand",
+    "continent": "Asia",
+    "type": "international",
+    "tagline": "Andaman beaches & island escapes",
+    "description": "Phuket is one of the world's most sought-after destinations — andaman beaches & island escapes. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Phuket at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": 7.88,
+      "lng": 98.39
+    },
+    "rating": 4.65,
+    "reviewCount": 1246,
+    "packageCount": 18,
+    "startingPrice": 142710,
+    "bestTimeToVisit": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "idealDuration": "5–7 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "25°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "26°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "34°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "Phi Phi tour",
+      "Snorkeling",
+      "Big Buddha",
+      "Beach clubs"
+    ],
+    "highlights": [
+      "Patong",
+      "Phi Phi Islands",
+      "Old Town",
+      "James Bond Island"
+    ],
+    "trending": false,
+    "featured": false,
+    "tags": [
+      "Asia",
+      "international",
+      "Phi Phi tour",
+      "Snorkeling"
+    ]
+  },
+  {
+    "id": "prague",
+    "slug": "prague",
+    "name": "Prague",
+    "country": "Czechia",
+    "continent": "Europe",
+    "type": "international",
+    "tagline": "The hundred-spired fairytale city",
+    "description": "Prague is one of the world's most sought-after destinations — the hundred-spired fairytale city. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Prague at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1541849546-216549ae216d?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": 50.08,
+      "lng": 14.44
+    },
+    "rating": 4.3,
+    "reviewCount": 1462,
+    "packageCount": 22,
+    "startingPrice": 187259,
+    "bestTimeToVisit": [
+      "Apr",
+      "May",
+      "Sep",
+      "Oct"
+    ],
+    "idealDuration": "4–6 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "20°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "26°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "29°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "Castle tour",
+      "River cruise",
+      "Old town walk",
+      "Beer tasting"
+    ],
+    "highlights": [
+      "Charles Bridge",
+      "Prague Castle",
+      "Old Town Square",
+      "Astronomical Clock"
+    ],
+    "trending": false,
+    "featured": false,
+    "tags": [
+      "Europe",
+      "international",
+      "Castle tour",
+      "River cruise"
+    ]
+  },
+  {
+    "id": "rajasthan",
+    "slug": "rajasthan",
+    "name": "Rajasthan",
+    "country": "India",
+    "continent": "Asia",
+    "type": "domestic",
+    "tagline": "Land of kings, palaces & golden dunes",
+    "description": "Rajasthan is one of India's most sought-after destinations — land of kings, palaces & golden dunes. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Rajasthan at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1477587458883-47145ed94245?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": 27.02,
+      "lng": 74.21
+    },
+    "rating": 4.4,
+    "reviewCount": 774,
+    "packageCount": 8,
+    "startingPrice": 17654,
+    "bestTimeToVisit": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "idealDuration": "6–8 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "23°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "32°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "34°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "Desert safari",
+      "Palace tour",
+      "Camel ride",
+      "Folk dinner"
+    ],
+    "highlights": [
+      "Amber Fort",
+      "Udaipur lakes",
+      "Jaisalmer dunes",
+      "Jodhpur blue city"
+    ],
+    "trending": false,
+    "featured": true,
+    "tags": [
+      "Asia",
+      "domestic",
+      "Desert safari",
+      "Palace tour"
+    ]
+  },
+  {
+    "id": "santorini",
+    "slug": "santorini",
+    "name": "Santorini",
+    "country": "Greece",
+    "continent": "Europe",
+    "type": "international",
+    "tagline": "Whitewashed cliffs over the Aegean",
+    "description": "Santorini is one of the world's most sought-after destinations — whitewashed cliffs over the aegean. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Santorini at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1530789253388-582c481c54b0?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": 36.39,
+      "lng": 25.46
+    },
+    "rating": 4.45,
+    "reviewCount": 598,
+    "packageCount": 7,
+    "startingPrice": 177483,
+    "bestTimeToVisit": [
+      "May",
+      "Jun",
+      "Sep",
+      "Oct"
+    ],
+    "idealDuration": "5–7 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "21°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "32°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "32°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "Caldera cruise",
+      "Wine tasting",
+      "Sunset at Oia",
+      "Beach day"
+    ],
+    "highlights": [
+      "Oia sunset",
+      "Fira",
+      "Red Beach",
+      "Ancient Thera"
+    ],
+    "trending": false,
+    "featured": true,
+    "tags": [
+      "Europe",
+      "international",
+      "Caldera cruise",
+      "Wine tasting"
+    ]
+  },
+  {
+    "id": "seoul",
+    "slug": "seoul",
+    "name": "Seoul",
+    "country": "South Korea",
+    "continent": "Asia",
+    "type": "international",
+    "tagline": "K-culture, palaces & neon nights",
+    "description": "Seoul is one of the world's most sought-after destinations — k-culture, palaces & neon nights. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Seoul at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1538485399081-7191377e8241?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": 37.57,
+      "lng": 126.98
+    },
+    "rating": 4.55,
+    "reviewCount": 1025,
+    "packageCount": 13,
+    "startingPrice": 76635,
+    "bestTimeToVisit": [
+      "Apr",
+      "May",
+      "Sep",
+      "Oct",
+      "Nov"
+    ],
+    "idealDuration": "5–7 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "19°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "30°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "32°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "Palace tour",
+      "K-pop experience",
+      "Han river cruise",
+      "Shopping"
+    ],
+    "highlights": [
+      "Gyeongbokgung",
+      "Myeongdong",
+      "Bukchon",
+      "Namsan Tower"
+    ],
+    "trending": false,
+    "featured": false,
+    "tags": [
+      "Asia",
+      "international",
+      "Palace tour",
+      "K-pop experience"
+    ]
+  },
+  {
+    "id": "sikkim",
+    "slug": "sikkim",
+    "name": "Sikkim",
+    "country": "India",
+    "continent": "Asia",
+    "type": "domestic",
+    "tagline": "Himalayan serenity below Kanchenjunga",
+    "description": "Sikkim is one of India's most sought-after destinations — himalayan serenity below kanchenjunga. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Sikkim at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": 27.53,
+      "lng": 88.51
+    },
+    "rating": 4.75,
+    "reviewCount": 1792,
+    "packageCount": 14,
+    "startingPrice": 31177,
+    "bestTimeToVisit": [
+      "Mar",
+      "Apr",
+      "May",
+      "Oct",
+      "Nov"
+    ],
+    "idealDuration": "5–7 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "22°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "29°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "29°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "Monastery visit",
+      "Yak ride",
+      "Trekking",
+      "Tea tasting"
+    ],
+    "highlights": [
+      "Gangtok",
+      "Tsomgo Lake",
+      "Nathula Pass",
+      "Pelling"
+    ],
+    "trending": false,
+    "featured": false,
+    "tags": [
+      "Asia",
+      "domestic",
+      "Monastery visit",
+      "Yak ride"
+    ]
+  },
+  {
+    "id": "singapore",
+    "slug": "singapore",
+    "name": "Singapore",
+    "country": "Singapore",
+    "continent": "Asia",
+    "type": "international",
+    "tagline": "The Lion City of gardens & lights",
+    "description": "Singapore is one of the world's most sought-after destinations — the lion city of gardens & lights. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Singapore at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1525625293386-3f8f99389edd?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1530789253388-582c481c54b0?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": 1.35,
+      "lng": 103.82
+    },
+    "rating": 4.4,
+    "reviewCount": 1986,
+    "packageCount": 20,
+    "startingPrice": 178791,
+    "bestTimeToVisit": [
+      "Feb",
+      "Mar",
+      "Apr",
+      "Jul",
+      "Aug"
+    ],
+    "idealDuration": "4–6 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "23°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "32°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "32°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "Universal Studios",
+      "Gardens by the Bay",
+      "River cruise",
+      "Sentosa"
+    ],
+    "highlights": [
+      "Marina Bay Sands",
+      "Merlion",
+      "Sentosa",
+      "Chinatown"
+    ],
+    "trending": true,
+    "featured": false,
+    "tags": [
+      "Asia",
+      "international",
+      "Universal Studios",
+      "Gardens by the Bay"
+    ]
+  },
+  {
+    "id": "south-africa",
+    "slug": "south-africa",
+    "name": "South Africa",
+    "country": "South Africa",
+    "continent": "Africa",
+    "type": "international",
+    "tagline": "Where two oceans and the wild meet",
+    "description": "South Africa is one of the world's most sought-after destinations — where two oceans and the wild meet. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of South Africa at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1484318571209-661cf29a69c3?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1530789253388-582c481c54b0?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": -30.56,
+      "lng": 22.94
+    },
+    "rating": 4.35,
+    "reviewCount": 1007,
+    "packageCount": 19,
+    "startingPrice": 124971,
+    "bestTimeToVisit": [
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ],
+    "idealDuration": "8–10 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "26°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "31°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "37°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "Safari",
+      "Cape tour",
+      "Wine tasting",
+      "Shark cage dive"
+    ],
+    "highlights": [
+      "Cape Town",
+      "Kruger",
+      "Garden Route",
+      "Table Mountain"
+    ],
+    "trending": false,
+    "featured": false,
+    "tags": [
+      "Africa",
+      "international",
+      "Safari",
+      "Cape tour"
+    ]
+  },
+  {
+    "id": "spain",
+    "slug": "spain",
+    "name": "Spain",
+    "country": "Spain",
+    "continent": "Europe",
+    "type": "international",
+    "tagline": "Flamenco, tapas & Gaudí dreams",
+    "description": "Spain is one of the world's most sought-after destinations — flamenco, tapas & gaudí dreams. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Spain at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1583422409516-2895a77efded?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": 40.46,
+      "lng": -3.75
+    },
+    "rating": 4.75,
+    "reviewCount": 1945,
+    "packageCount": 21,
+    "startingPrice": 77226,
+    "bestTimeToVisit": [
+      "Apr",
+      "May",
+      "Jun",
+      "Sep",
+      "Oct"
+    ],
+    "idealDuration": "7–9 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "19°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "31°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "30°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "Sagrada tour",
+      "Flamenco show",
+      "Tapas crawl",
+      "Beach day"
+    ],
+    "highlights": [
+      "Barcelona",
+      "Madrid",
+      "Seville",
+      "Granada"
+    ],
+    "trending": false,
+    "featured": false,
+    "tags": [
+      "Europe",
+      "international",
+      "Sagrada tour",
+      "Flamenco show"
+    ]
+  },
+  {
+    "id": "sri-lanka",
+    "slug": "sri-lanka",
+    "name": "Sri Lanka",
+    "country": "Sri Lanka",
+    "continent": "Asia",
+    "type": "international",
+    "tagline": "Tea country, temples & tropical coasts",
+    "description": "Sri Lanka is one of the world's most sought-after destinations — tea country, temples & tropical coasts. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Sri Lanka at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1546708973-b339540b5162?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1530789253388-582c481c54b0?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": 7.87,
+      "lng": 80.77
+    },
+    "rating": 4.65,
+    "reviewCount": 2275,
+    "packageCount": 10,
+    "startingPrice": 104485,
+    "bestTimeToVisit": [
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr"
+    ],
+    "idealDuration": "6–8 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "23°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "30°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "30°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "Train to Ella",
+      "Safari",
+      "Temple visit",
+      "Whale watching"
+    ],
+    "highlights": [
+      "Kandy",
+      "Ella",
+      "Sigiriya",
+      "Galle"
+    ],
+    "trending": false,
+    "featured": false,
+    "tags": [
+      "Asia",
+      "international",
+      "Train to Ella",
+      "Safari"
+    ]
+  },
+  {
+    "id": "switzerland",
+    "slug": "switzerland",
+    "name": "Switzerland",
+    "country": "Switzerland",
+    "continent": "Europe",
+    "type": "international",
+    "tagline": "Alpine peaks, lakes & scenic rails",
+    "description": "Switzerland is one of the world's most sought-after destinations — alpine peaks, lakes & scenic rails. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Switzerland at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1530122037265-a5f1f91d3b99?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": 46.82,
+      "lng": 8.23
+    },
+    "rating": 4.5,
+    "reviewCount": 1398,
+    "packageCount": 14,
+    "startingPrice": 138772,
+    "bestTimeToVisit": [
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Dec"
+    ],
+    "idealDuration": "7–9 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "25°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "27°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "31°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "Scenic train",
+      "Cable car",
+      "Lake cruise",
+      "Skiing"
+    ],
+    "highlights": [
+      "Jungfraujoch",
+      "Interlaken",
+      "Lucerne",
+      "Zermatt"
+    ],
+    "trending": true,
+    "featured": true,
+    "tags": [
+      "Europe",
+      "international",
+      "Scenic train",
+      "Cable car"
+    ]
+  },
+  {
+    "id": "tanzania",
+    "slug": "tanzania",
+    "name": "Tanzania",
+    "country": "Tanzania",
+    "continent": "Africa",
+    "type": "international",
+    "tagline": "Serengeti plains & Zanzibar shores",
+    "description": "Tanzania is one of the world's most sought-after destinations — serengeti plains & zanzibar shores. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Tanzania at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1547970810-dc1eac37d174?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": -6.37,
+      "lng": 34.89
+    },
+    "rating": 4.55,
+    "reviewCount": 632,
+    "packageCount": 6,
+    "startingPrice": 187404,
+    "bestTimeToVisit": [
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct"
+    ],
+    "idealDuration": "8–10 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "19°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "27°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "33°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "Serengeti safari",
+      "Ngorongoro tour",
+      "Kilimanjaro trek",
+      "Beach day"
+    ],
+    "highlights": [
+      "Serengeti",
+      "Ngorongoro",
+      "Zanzibar",
+      "Kilimanjaro"
+    ],
+    "trending": false,
+    "featured": false,
+    "tags": [
+      "Africa",
+      "international",
+      "Serengeti safari",
+      "Ngorongoro tour"
+    ]
+  },
+  {
+    "id": "thailand",
+    "slug": "thailand",
+    "name": "Thailand",
+    "country": "Thailand",
+    "continent": "Asia",
+    "type": "international",
+    "tagline": "Beaches, temples & street feasts",
+    "description": "Thailand is one of the world's most sought-after destinations — beaches, temples & street feasts. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Thailand at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": 15.87,
+      "lng": 100.99
+    },
+    "rating": 4.45,
+    "reviewCount": 2287,
+    "packageCount": 12,
+    "startingPrice": 157718,
+    "bestTimeToVisit": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "idealDuration": "6–8 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "20°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "30°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "31°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "Island tour",
+      "Temple hop",
+      "Thai massage",
+      "Night market"
+    ],
+    "highlights": [
+      "Bangkok",
+      "Phuket",
+      "Krabi",
+      "Chiang Mai"
+    ],
+    "trending": false,
+    "featured": true,
+    "tags": [
+      "Asia",
+      "international",
+      "Island tour",
+      "Temple hop"
+    ]
+  },
+  {
+    "id": "turkey",
+    "slug": "turkey",
+    "name": "Turkey",
+    "country": "Turkey",
+    "continent": "Asia",
+    "type": "international",
+    "tagline": "Bazaars, balloons & Byzantine wonders",
+    "description": "Turkey is one of the world's most sought-after destinations — bazaars, balloons & byzantine wonders. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Turkey at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": 38.96,
+      "lng": 35.24
+    },
+    "rating": 4.85,
+    "reviewCount": 2135,
+    "packageCount": 10,
+    "startingPrice": 164905,
+    "bestTimeToVisit": [
+      "Apr",
+      "May",
+      "Jun",
+      "Sep",
+      "Oct"
+    ],
+    "idealDuration": "7–9 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "25°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "29°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "35°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "Hot air balloon",
+      "Cave hotel",
+      "Bosphorus cruise",
+      "Bazaar shopping"
+    ],
+    "highlights": [
+      "Cappadocia",
+      "Istanbul",
+      "Pamukkale",
+      "Ephesus"
+    ],
+    "trending": true,
+    "featured": false,
+    "tags": [
+      "Asia",
+      "international",
+      "Hot air balloon",
+      "Cave hotel"
+    ]
+  },
+  {
+    "id": "usa-west-coast",
+    "slug": "usa-west-coast",
+    "name": "USA West Coast",
+    "country": "USA",
+    "continent": "North America",
+    "type": "international",
+    "tagline": "Neon cities to national parks",
+    "description": "USA West Coast is one of the world's most sought-after destinations — neon cities to national parks. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of USA West Coast at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1449034446853-66c86144b0ad?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": 36.78,
+      "lng": -119.42
+    },
+    "rating": 4.45,
+    "reviewCount": 1501,
+    "packageCount": 17,
+    "startingPrice": 59653,
+    "bestTimeToVisit": [
+      "Apr",
+      "May",
+      "Sep",
+      "Oct"
+    ],
+    "idealDuration": "10–14 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "24°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "26°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "36°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "Grand Canyon",
+      "Vegas nights",
+      "Coastal drive",
+      "Theme parks"
+    ],
+    "highlights": [
+      "Los Angeles",
+      "Las Vegas",
+      "San Francisco",
+      "Grand Canyon"
+    ],
+    "trending": false,
+    "featured": false,
+    "tags": [
+      "North America",
+      "international",
+      "Grand Canyon",
+      "Vegas nights"
+    ]
+  },
+  {
+    "id": "uttarakhand",
+    "slug": "uttarakhand",
+    "name": "Uttarakhand",
+    "country": "India",
+    "continent": "Asia",
+    "type": "domestic",
+    "tagline": "Land of the gods & yoga capitals",
+    "description": "Uttarakhand is one of India's most sought-after destinations — land of the gods & yoga capitals. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Uttarakhand at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1571536802807-30451e3955d8?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1530789253388-582c481c54b0?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": 30.07,
+      "lng": 79.09
+    },
+    "rating": 4.7,
+    "reviewCount": 1578,
+    "packageCount": 13,
+    "startingPrice": 20057,
+    "bestTimeToVisit": [
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Sep",
+      "Oct"
+    ],
+    "idealDuration": "5–7 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "24°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "26°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "34°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "River rafting",
+      "Yoga retreat",
+      "Wildlife safari",
+      "Char Dham"
+    ],
+    "highlights": [
+      "Rishikesh",
+      "Nainital",
+      "Jim Corbett",
+      "Valley of Flowers"
+    ],
+    "trending": false,
+    "featured": false,
+    "tags": [
+      "Asia",
+      "domestic",
+      "River rafting",
+      "Yoga retreat"
+    ]
+  },
+  {
+    "id": "vietnam",
+    "slug": "vietnam",
+    "name": "Vietnam",
+    "country": "Vietnam",
+    "continent": "Asia",
+    "type": "international",
+    "tagline": "Emerald bays & lantern-lit towns",
+    "description": "Vietnam is one of the world's most sought-after destinations — emerald bays & lantern-lit towns. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Vietnam at an unhurried, premium pace.",
+    "image": "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": {
+      "lat": 14.06,
+      "lng": 108.28
+    },
+    "rating": 4.85,
+    "reviewCount": 1023,
+    "packageCount": 17,
+    "startingPrice": 176821,
+    "bestTimeToVisit": [
+      "Feb",
+      "Mar",
+      "Apr",
+      "Oct",
+      "Nov"
+    ],
+    "idealDuration": "7–9 days",
+    "weather": [
+      {
+        "season": "Peak",
+        "temp": "24°C",
+        "note": "Clear skies, ideal for sightseeing"
+      },
+      {
+        "season": "Shoulder",
+        "temp": "29°C",
+        "note": "Fewer crowds, great value"
+      },
+      {
+        "season": "Off-season",
+        "temp": "35°C",
+        "note": "Lush landscapes, occasional rain"
+      }
+    ],
+    "activities": [
+      "Ha Long cruise",
+      "Street food tour",
+      "Cave kayaking",
+      "Cyclo ride"
+    ],
+    "highlights": [
+      "Ha Long Bay",
+      "Hoi An",
+      "Hanoi",
+      "Sapa"
+    ],
+    "trending": false,
+    "featured": false,
+    "tags": [
+      "Asia",
+      "international",
+      "Ha Long cruise",
+      "Street food tour"
+    ]
+  }
+]

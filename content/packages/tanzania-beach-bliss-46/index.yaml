@@ -1,0 +1,180 @@
+title: Tanzania Beach Bliss
+destination: Tanzania
+destinationSlug: tanzania
+country: Tanzania
+type: international
+category: beach
+summary: 10 days of beach travel through Tanzania — serengeti plains & zanzibar shores.
+description: Discover Tanzania on this 10-day beach journey crafted by TravelX. Tanzania is one of the world's most sought-after destinations — serengeti plains & zanzibar shores. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Tanzania at an unhurried, premium pace. This itinerary balances must-see highlights with authentic local experiences and generous downtime, all backed by our 24/7 concierge and best-price promise.
+image: https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&w=1200&q=80
+durationDays: 10
+durationNights: 9
+price: 112367
+oldPrice: 141529
+currency: INR
+rating: '4.75'
+reviewCount: 607
+groupSizeMin: 2
+groupSizeMax: 14
+difficulty: Moderate
+seatsLeft: 16
+featured: false
+trending: true
+bestseller: false
+highlights:
+  - Kilimanjaro
+  - Serengeti safari
+  - Serengeti
+  - Kilimanjaro trek
+inclusions:
+  - Airport pick-up & drop
+  - Entrance fees to monuments
+  - Complimentary travel kit
+  - Daily breakfast & select meals
+  - Welcome drink on arrival
+  - Applicable taxes & service charges
+  - Private air-conditioned transfers
+  - Handpicked 4★/5★ accommodation
+exclusions:
+  - Anything not mentioned in inclusions
+  - Camera / drone permits
+  - Meals not specified in itinerary
+  - GST where applicable
+  - Personal expenses & tips
+  - Visa & travel insurance fees
+tags:
+  - Tanzania
+  - Tanzania
+  - beach
+  - international
+themes:
+  - Culture
+  - Photography
+  - Nightlife
+departureCities:
+  - Bengaluru
+  - Ahmedabad
+  - Chennai
+availableDates:
+  - '2026-10-13'
+  - '2026-12-15'
+  - '2026-02-05'
+  - '2026-04-04'
+  - '2026-06-21'
+  - '2026-08-15'
+hotels:
+  - name: Skyline Boutique
+    rating: 5
+    nights: 3
+  - name: Coral Reef Villas
+    rating: 5
+    nights: 3
+  - name: Mountain Echo Lodge
+    rating: 4
+    nights: 3
+itinerary:
+  - day: 1
+    title: Arrival in Tanzania
+    description: Arrive in Tanzania, meet your TravelX host for a private transfer to the hotel. Freshen up and enjoy a relaxed evening at leisure with a welcome briefing.
+    stay: Aurora Retreat
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 2
+    title: Adventure & activities
+    description: An action-packed day of activities and adventure suited to your pace, with all equipment and safety handled by our partners.
+    stay: Aurora Retreat
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 3
+    title: Adventure & activities
+    description: An action-packed day of activities and adventure suited to your pace, with all equipment and safety handled by our partners.
+    stay: Aurora Retreat
+    meals:
+      - Lunch
+      - Breakfast
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 4
+    title: Signature experience
+    description: 'The trip''s showcase day: a curated flagship experience unique to Tanzania, designed to be the highlight of your journey.'
+    stay: Aurora Retreat
+    meals:
+      - Lunch
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 5
+    title: At leisure / optional tours
+    description: A flexible day to unwind by the pool, indulge in a spa, or choose from a menu of optional excursions.
+    stay: The Grand Meridian
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 6
+    title: Signature experience
+    description: 'The trip''s showcase day: a curated flagship experience unique to Tanzania, designed to be the highlight of your journey.'
+    stay: The Grand Meridian
+    meals:
+      - Breakfast
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 7
+    title: Culture & leisure day
+    description: Immerse in local culture — markets, artisans and heritage — followed by free time to shop, relax or add an optional experience.
+    stay: Skyline Boutique
+    meals:
+      - Breakfast
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 8
+    title: Culture & leisure day
+    description: Immerse in local culture — markets, artisans and heritage — followed by free time to shop, relax or add an optional experience.
+    stay: Heritage Haveli
+    meals:
+      - Breakfast
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 9
+    title: Signature experience
+    description: 'The trip''s showcase day: a curated flagship experience unique to Tanzania, designed to be the highlight of your journey.'
+    stay: Skyline Boutique
+    meals:
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 10
+    title: Departure from Tanzania
+    description: After breakfast and some last-minute souvenir shopping, transfer to the airport for your onward journey with TravelX memories to keep.
+    stay: ''
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine

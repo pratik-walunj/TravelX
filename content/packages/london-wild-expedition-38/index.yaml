@@ -1,0 +1,161 @@
+title: London Wild Expedition
+destination: London
+destinationSlug: london
+country: United Kingdom
+type: international
+category: adventure
+summary: 8 days of adventure travel through London — royal history & modern buzz.
+description: Discover London on this 8-day adventure journey crafted by TravelX. London is one of the world's most sought-after destinations — royal history & modern buzz. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of London at an unhurried, premium pace. This itinerary balances must-see highlights with authentic local experiences and generous downtime, all backed by our 24/7 concierge and best-price promise.
+image: https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80
+durationDays: 8
+durationNights: 7
+price: 73082
+oldPrice: 83986
+currency: INR
+rating: '4.7'
+reviewCount: 250
+groupSizeMin: 2
+groupSizeMax: 25
+difficulty: Moderate
+seatsLeft: 6
+featured: true
+trending: false
+bestseller: false
+highlights:
+  - West End show
+  - Thames cruise
+  - London Eye
+  - Palace tour
+inclusions:
+  - Return economy airfare
+  - Entrance fees to monuments
+  - Expert local English-speaking guide
+  - 24/7 on-trip TravelX concierge
+  - Welcome drink on arrival
+  - Airport pick-up & drop
+  - Handpicked 4★/5★ accommodation
+  - Complimentary travel kit
+  - Daily breakfast & select meals
+exclusions:
+  - Early check-in / late check-out charges
+  - Meals not specified in itinerary
+  - Optional activities & upgrades
+  - Visa & travel insurance fees
+  - Personal expenses & tips
+tags:
+  - London
+  - United Kingdom
+  - adventure
+  - international
+themes:
+  - Culture
+  - Relaxation
+  - Nightlife
+departureCities:
+  - Chennai
+  - Bengaluru
+  - Pune
+availableDates:
+  - '2026-02-13'
+  - '2026-04-24'
+  - '2026-06-10'
+  - '2026-08-26'
+  - '2026-10-16'
+  - '2026-12-10'
+hotels:
+  - name: Azure Bay Resort
+    rating: 4
+    nights: 3
+  - name: Serenity Palace
+    rating: 4
+    nights: 3
+  - name: Aurora Retreat
+    rating: 4
+    nights: 3
+itinerary:
+  - day: 1
+    title: Arrival in London
+    description: Arrive in London, meet your TravelX host for a private transfer to the hotel. Freshen up and enjoy a relaxed evening at leisure with a welcome briefing.
+    stay: Aurora Retreat
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 2
+    title: Signature experience
+    description: 'The trip''s showcase day: a curated flagship experience unique to London, designed to be the highlight of your journey.'
+    stay: Highland Vista
+    meals:
+      - Lunch
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 3
+    title: Signature experience
+    description: 'The trip''s showcase day: a curated flagship experience unique to London, designed to be the highlight of your journey.'
+    stay: The Grand Meridian
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 4
+    title: Nature & scenic escape
+    description: Head out to the scenic countryside for panoramic landscapes, an outdoor experience and a memorable local lunch amid nature.
+    stay: Heritage Haveli
+    meals:
+      - Breakfast
+      - Dinner
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 5
+    title: Nature & scenic escape
+    description: Head out to the scenic countryside for panoramic landscapes, an outdoor experience and a memorable local lunch amid nature.
+    stay: Emerald Sands
+    meals:
+      - Breakfast
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 6
+    title: Nature & scenic escape
+    description: Head out to the scenic countryside for panoramic landscapes, an outdoor experience and a memorable local lunch amid nature.
+    stay: Highland Vista
+    meals:
+      - Breakfast
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 7
+    title: Nature & scenic escape
+    description: Head out to the scenic countryside for panoramic landscapes, an outdoor experience and a memorable local lunch amid nature.
+    stay: Heritage Haveli
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 8
+    title: Departure from London
+    description: After breakfast and some last-minute souvenir shopping, transfer to the airport for your onward journey with TravelX memories to keep.
+    stay: ''
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops

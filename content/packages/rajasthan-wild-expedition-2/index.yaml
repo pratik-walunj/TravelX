@@ -1,0 +1,163 @@
+title: Rajasthan Wild Expedition
+destination: Rajasthan
+destinationSlug: rajasthan
+country: India
+type: domestic
+category: adventure
+summary: 8 days of adventure travel through Rajasthan — land of kings, palaces & golden dunes.
+description: Discover Rajasthan on this 8-day adventure journey crafted by TravelX. Rajasthan is one of India's most sought-after destinations — land of kings, palaces & golden dunes. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Rajasthan at an unhurried, premium pace. This itinerary balances must-see highlights with authentic local experiences and generous downtime, all backed by our 24/7 concierge and best-price promise.
+image: https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80
+durationDays: 8
+durationNights: 7
+price: 20193
+oldPrice: 25797
+currency: INR
+rating: '4.8'
+reviewCount: 225
+groupSizeMin: 2
+groupSizeMax: 21
+difficulty: Challenging
+seatsLeft: 4
+featured: false
+trending: false
+bestseller: false
+highlights:
+  - Jaisalmer dunes
+  - Camel ride
+  - Desert safari
+  - Palace tour
+inclusions:
+  - Expert local English-speaking guide
+  - Welcome drink on arrival
+  - 24/7 on-trip TravelX concierge
+  - All sightseeing per itinerary
+  - Daily breakfast & select meals
+  - Entrance fees to monuments
+  - Complimentary travel kit
+exclusions:
+  - Anything not mentioned in inclusions
+  - Meals not specified in itinerary
+  - Optional activities & upgrades
+  - GST where applicable
+  - Early check-in / late check-out charges
+tags:
+  - Rajasthan
+  - India
+  - adventure
+  - domestic
+themes:
+  - Photography
+  - Wellness
+  - Relaxation
+departureCities:
+  - Delhi
+  - Hyderabad
+  - Kolkata
+  - Ahmedabad
+availableDates:
+  - '2026-02-15'
+  - '2026-04-15'
+  - '2026-06-10'
+  - '2026-08-16'
+  - '2026-10-13'
+  - '2026-12-08'
+hotels:
+  - name: Azure Bay Resort
+    rating: 5
+    nights: 3
+  - name: Serenity Palace
+    rating: 4
+    nights: 3
+  - name: Aurora Retreat
+    rating: 4
+    nights: 3
+itinerary:
+  - day: 1
+    title: Arrival in Rajasthan
+    description: Arrive in Rajasthan, meet your TravelX host for a private transfer to the hotel. Freshen up and enjoy a relaxed evening at leisure with a welcome briefing.
+    stay: Serenity Palace
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 2
+    title: Signature experience
+    description: 'The trip''s showcase day: a curated flagship experience unique to Rajasthan, designed to be the highlight of your journey.'
+    stay: Lagoon Pearl Resort
+    meals:
+      - Breakfast
+      - Lunch
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 3
+    title: Culture & leisure day
+    description: Immerse in local culture — markets, artisans and heritage — followed by free time to shop, relax or add an optional experience.
+    stay: Mountain Echo Lodge
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 4
+    title: Nature & scenic escape
+    description: Head out to the scenic countryside for panoramic landscapes, an outdoor experience and a memorable local lunch amid nature.
+    stay: Highland Vista
+    meals:
+      - Lunch
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 5
+    title: Nature & scenic escape
+    description: Head out to the scenic countryside for panoramic landscapes, an outdoor experience and a memorable local lunch amid nature.
+    stay: Lagoon Pearl Resort
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 6
+    title: At leisure / optional tours
+    description: A flexible day to unwind by the pool, indulge in a spa, or choose from a menu of optional excursions.
+    stay: The Regal Court
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 7
+    title: Signature experience
+    description: 'The trip''s showcase day: a curated flagship experience unique to Rajasthan, designed to be the highlight of your journey.'
+    stay: Emerald Sands
+    meals:
+      - Dinner
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 8
+    title: Departure from Rajasthan
+    description: After breakfast and some last-minute souvenir shopping, transfer to the airport for your onward journey with TravelX memories to keep.
+    stay: ''
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine

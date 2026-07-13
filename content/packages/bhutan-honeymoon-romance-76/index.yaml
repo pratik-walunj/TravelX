@@ -1,0 +1,150 @@
+title: Bhutan Honeymoon Romance
+destination: Bhutan
+destinationSlug: bhutan
+country: Bhutan
+type: international
+category: honeymoon
+summary: 7 days of honeymoon travel through Bhutan — the last himalayan kingdom of happiness.
+description: Discover Bhutan on this 7-day honeymoon journey crafted by TravelX. Bhutan is one of the world's most sought-after destinations — the last himalayan kingdom of happiness. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Bhutan at an unhurried, premium pace. This itinerary balances must-see highlights with authentic local experiences and generous downtime, all backed by our 24/7 concierge and best-price promise.
+image: https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&w=1200&q=80
+durationDays: 7
+durationNights: 6
+price: 106650
+oldPrice: 121801
+currency: INR
+rating: '4.85'
+reviewCount: 230
+groupSizeMin: 2
+groupSizeMax: 17
+difficulty: Challenging
+seatsLeft: 16
+featured: true
+trending: false
+bestseller: false
+highlights:
+  - Hot stone bath
+  - Tiger's Nest
+  - Tiger's Nest trek
+  - Punakha
+inclusions:
+  - Private air-conditioned transfers
+  - Airport pick-up & drop
+  - Expert local English-speaking guide
+  - All sightseeing per itinerary
+  - Entrance fees to monuments
+  - Welcome drink on arrival
+  - Applicable taxes & service charges
+  - Return economy airfare
+  - Daily breakfast & select meals
+exclusions:
+  - Early check-in / late check-out charges
+  - GST where applicable
+  - Optional activities & upgrades
+  - Meals not specified in itinerary
+tags:
+  - Bhutan
+  - Bhutan
+  - honeymoon
+  - international
+themes:
+  - Wellness
+  - Nightlife
+  - Nature
+departureCities:
+  - Delhi
+  - Pune
+  - Bengaluru
+availableDates:
+  - '2026-04-18'
+  - '2026-06-23'
+  - '2026-08-25'
+  - '2026-10-16'
+  - '2026-12-11'
+  - '2026-02-11'
+hotels:
+  - name: Aurora Retreat
+    rating: 4
+    nights: 3
+  - name: The Regal Court
+    rating: 4
+    nights: 3
+itinerary:
+  - day: 1
+    title: Arrival in Bhutan
+    description: Arrive in Bhutan, meet your TravelX host for a private transfer to the hotel. Freshen up and enjoy a relaxed evening at leisure with a welcome briefing.
+    stay: The Grand Meridian
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 2
+    title: Signature experience
+    description: 'The trip''s showcase day: a curated flagship experience unique to Bhutan, designed to be the highlight of your journey.'
+    stay: Emerald Sands
+    meals:
+      - Lunch
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 3
+    title: Signature experience
+    description: 'The trip''s showcase day: a curated flagship experience unique to Bhutan, designed to be the highlight of your journey.'
+    stay: Highland Vista
+    meals:
+      - Breakfast
+      - Lunch
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 4
+    title: Nature & scenic escape
+    description: Head out to the scenic countryside for panoramic landscapes, an outdoor experience and a memorable local lunch amid nature.
+    stay: Emerald Sands
+    meals:
+      - Breakfast
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 5
+    title: At leisure / optional tours
+    description: A flexible day to unwind by the pool, indulge in a spa, or choose from a menu of optional excursions.
+    stay: Highland Vista
+    meals:
+      - Lunch
+      - Breakfast
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 6
+    title: Signature experience
+    description: 'The trip''s showcase day: a curated flagship experience unique to Bhutan, designed to be the highlight of your journey.'
+    stay: Skyline Boutique
+    meals:
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 7
+    title: Departure from Bhutan
+    description: After breakfast and some last-minute souvenir shopping, transfer to the airport for your onward journey with TravelX memories to keep.
+    stay: ''
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine

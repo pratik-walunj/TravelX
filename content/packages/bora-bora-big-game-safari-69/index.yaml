@@ -1,0 +1,178 @@
+title: Bora Bora Big Game Safari
+destination: Bora Bora
+destinationSlug: bora-bora
+country: French Polynesia
+type: international
+category: wildlife
+summary: 9 days of wildlife travel through Bora Bora — the pearl of the pacific.
+description: Discover Bora Bora on this 9-day wildlife journey crafted by TravelX. Bora Bora is one of the world's most sought-after destinations — the pearl of the pacific. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Bora Bora at an unhurried, premium pace. This itinerary balances must-see highlights with authentic local experiences and generous downtime, all backed by our 24/7 concierge and best-price promise.
+image: https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80
+durationDays: 9
+durationNights: 8
+price: 162494
+oldPrice: 221813
+currency: INR
+rating: '4.75'
+reviewCount: 467
+groupSizeMin: 2
+groupSizeMax: 12
+difficulty: Easy
+seatsLeft: 17
+featured: false
+trending: false
+bestseller: false
+highlights:
+  - Matira Beach
+  - Lagoonarium
+  - Overwater bungalow
+  - Lagoon tour
+inclusions:
+  - Complimentary travel kit
+  - Entrance fees to monuments
+  - Daily breakfast & select meals
+  - All sightseeing per itinerary
+  - Airport pick-up & drop
+  - Expert local English-speaking guide
+  - Applicable taxes & service charges
+  - Welcome drink on arrival
+  - 24/7 on-trip TravelX concierge
+  - Handpicked 4★/5★ accommodation
+exclusions:
+  - Early check-in / late check-out charges
+  - GST where applicable
+  - Personal expenses & tips
+  - Optional activities & upgrades
+tags:
+  - Bora Bora
+  - French Polynesia
+  - wildlife
+  - international
+themes:
+  - Culture
+  - Nature
+  - Photography
+departureCities:
+  - Kolkata
+  - Ahmedabad
+  - Delhi
+  - Bengaluru
+  - Pune
+availableDates:
+  - '2026-09-18'
+  - '2026-11-08'
+  - '2026-01-18'
+  - '2026-03-17'
+  - '2026-05-07'
+  - '2026-07-19'
+hotels:
+  - name: Heritage Haveli
+    rating: 5
+    nights: 3
+  - name: Skyline Boutique
+    rating: 4
+    nights: 3
+  - name: Coral Reef Villas
+    rating: 5
+    nights: 3
+itinerary:
+  - day: 1
+    title: Arrival in Bora Bora
+    description: Arrive in Bora Bora, meet your TravelX host for a private transfer to the hotel. Freshen up and enjoy a relaxed evening at leisure with a welcome briefing.
+    stay: Serenity Palace
+    meals:
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 2
+    title: Nature & scenic escape
+    description: Head out to the scenic countryside for panoramic landscapes, an outdoor experience and a memorable local lunch amid nature.
+    stay: The Regal Court
+    meals:
+      - Lunch
+      - Dinner
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 3
+    title: Signature experience
+    description: 'The trip''s showcase day: a curated flagship experience unique to Bora Bora, designed to be the highlight of your journey.'
+    stay: Coral Reef Villas
+    meals:
+      - Breakfast
+      - Dinner
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 4
+    title: Adventure & activities
+    description: An action-packed day of activities and adventure suited to your pace, with all equipment and safety handled by our partners.
+    stay: Heritage Haveli
+    meals:
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 5
+    title: Culture & leisure day
+    description: Immerse in local culture — markets, artisans and heritage — followed by free time to shop, relax or add an optional experience.
+    stay: Mountain Echo Lodge
+    meals:
+      - Dinner
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 6
+    title: At leisure / optional tours
+    description: A flexible day to unwind by the pool, indulge in a spa, or choose from a menu of optional excursions.
+    stay: Serenity Palace
+    meals:
+      - Breakfast
+      - Lunch
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 7
+    title: Nature & scenic escape
+    description: Head out to the scenic countryside for panoramic landscapes, an outdoor experience and a memorable local lunch amid nature.
+    stay: Azure Bay Resort
+    meals:
+      - Lunch
+      - Dinner
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops
+  - day: 8
+    title: Signature experience
+    description: 'The trip''s showcase day: a curated flagship experience unique to Bora Bora, designed to be the highlight of your journey.'
+    stay: Lagoon Pearl Resort
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+  - day: 9
+    title: Departure from Bora Bora
+    description: After breakfast and some last-minute souvenir shopping, transfer to the airport for your onward journey with TravelX memories to keep.
+    stay: ''
+    meals:
+      - Breakfast
+    activities:
+      - Guided sightseeing
+      - Local cuisine
+      - Photo stops

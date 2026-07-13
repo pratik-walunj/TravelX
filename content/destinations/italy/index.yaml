@@ -1,0 +1,54 @@
+name: Italy
+country: Italy
+continent: Europe
+type: international
+tagline: Art, ruins & la dolce vita
+description: Italy is one of the world's most sought-after destinations — art, ruins & la dolce vita. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Italy at an unhurried, premium pace.
+image: https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80
+lat: '41.87'
+lng: '12.57'
+rating: '4.75'
+reviewCount: 1482
+packageCount: 10
+startingPrice: 157912
+idealDuration: 8–10 days
+trending: true
+featured: false
+bestTimeToVisit:
+  - Apr
+  - May
+  - Jun
+  - Sep
+  - Oct
+activities:
+  - Colosseum tour
+  - Gondola ride
+  - Wine tour
+  - Vatican visit
+highlights:
+  - Rome
+  - Venice
+  - Florence
+  - Amalfi Coast
+tags:
+  - Europe
+  - international
+  - Colosseum tour
+  - Gondola ride
+weather:
+  - season: Peak
+    temp: 21°C
+    note: Clear skies, ideal for sightseeing
+  - season: Shoulder
+    temp: 25°C
+    note: Fewer crowds, great value
+  - season: Off-season
+    temp: 28°C
+    note: Lush landscapes, occasional rain

@@ -1,0 +1,55 @@
+name: Kenya
+country: Kenya
+continent: Africa
+type: international
+tagline: The great migration & endless savanna
+description: Kenya is one of the world's most sought-after destinations — the great migration & endless savanna. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Kenya at an unhurried, premium pace.
+image: https://images.unsplash.com/photo-1516426122078-c23e76319801?auto=format&fit=crop&w=1200&q=80
+gallery:
+  - https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80
+  - https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80
+lat: '-0.02'
+lng: '37.9'
+rating: '4.35'
+reviewCount: 566
+packageCount: 21
+startingPrice: 101213
+idealDuration: 6–8 days
+trending: false
+featured: false
+bestTimeToVisit:
+  - Jul
+  - Aug
+  - Sep
+  - Oct
+  - Jan
+  - Feb
+activities:
+  - Big Five safari
+  - Balloon safari
+  - Masai village
+  - Lake cruise
+highlights:
+  - Masai Mara
+  - Amboseli
+  - Nairobi
+  - Lake Nakuru
+tags:
+  - Africa
+  - international
+  - Big Five safari
+  - Balloon safari
+weather:
+  - season: Peak
+    temp: 20°C
+    note: Clear skies, ideal for sightseeing
+  - season: Shoulder
+    temp: 29°C
+    note: Fewer crowds, great value
+  - season: Off-season
+    temp: 37°C
+    note: Lush landscapes, occasional rain
