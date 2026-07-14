@@ -1,4 +1,31 @@
+import { createElement as h } from "react";
 import { config, fields, collection } from "@keystatic/core";
+
+/** Branded logo shown in the CMS sidebar (a plane in the TravelX gradient). */
+const TravelXMark = () =>
+  h(
+    "div",
+    {
+      style: {
+        display: "flex",
+        alignItems: "center",
+        justifyContent: "center",
+        width: 28,
+        height: 28,
+        borderRadius: 8,
+        background: "linear-gradient(135deg, #0F4C81, #14B8A6)",
+        color: "white",
+      },
+    },
+    h(
+      "svg",
+      { width: 16, height: 16, viewBox: "0 0 24 24", fill: "none", stroke: "currentColor", strokeWidth: 2, strokeLinecap: "round", strokeLinejoin: "round" },
+      h("path", { d: "M17.8 19.2 16 11l3.5-3.5C21 6 21.5 4 21 3c-1-.5-3 0-4.5 1.5L13 8 4.8 6.2c-.5-.1-.9.1-1.1.5l-.3.5c-.2.5-.1 1 .3 1.3L9 12l-2 3H4l-1 1 3 2 2 3 1-1v-3l3-2 3.5 5.3c.3.4.8.5 1.3.3l.5-.2c.4-.3.6-.7.5-1.2z" }),
+    ),
+  );
+
+/** Public site base URL — used for live "preview" links from the CMS. */
+const SITE_URL = "https://travel-x-gamma.vercel.app";
 
 /**
  * Keystatic CMS configuration for TravelX.
@@ -31,7 +58,7 @@ export default config({
   storage,
   ...(cloudProject ? { cloud: { project: cloudProject } } : {}),
   ui: {
-    brand: { name: "TravelX CMS" },
+    brand: { name: "TravelX", mark: TravelXMark },
     navigation: {
       Content: ["posts", "packages", "destinations"],
       "Social proof": ["reviews", "faqs", "offers"],
@@ -43,6 +70,7 @@ export default config({
       label: "Blog Posts",
       slugField: "title",
       path: "content/blog/*/",
+      previewUrl: `${SITE_URL}/blog/{slug}`,
       columns: ["title", "category", "publishedAt"],
       schema: {
         title: fields.slug({ name: { label: "Title" } }),
@@ -65,6 +93,7 @@ export default config({
       label: "Tour Packages",
       slugField: "title",
       path: "content/packages/*/",
+      previewUrl: `${SITE_URL}/tour-packages/{slug}`,
       columns: ["title", "destination", "price"],
       schema: {
         title: fields.slug({ name: { label: "Title" } }),
@@ -144,6 +173,7 @@ export default config({
       label: "Destinations",
       slugField: "name",
       path: "content/destinations/*/",
+      previewUrl: `${SITE_URL}/destinations/{slug}`,
       columns: ["name", "country", "type"],
       schema: {
         name: fields.slug({ name: { label: "Name" } }),
