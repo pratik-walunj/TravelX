@@ -3,44 +3,33 @@ import { config, fields, collection } from "@keystatic/core";
 /**
  * Keystatic CMS configuration for TravelX.
  *
- * Storage is env-driven so you get the best of both:
- *   • Local dev  → `{ kind: 'local' }` — edit files on disk, no setup needed.
- *   • Production → `{ kind: 'github' }` — edits commit to your repo (which
- *     triggers a Vercel redeploy), so you can manage content on the live site.
- *
- * To enable GitHub mode on Vercel, set these environment variables:
- *   NEXT_PUBLIC_KEYSTATIC_GITHUB_REPO   = "owner/repo"          (e.g. "jane/travelx")
- *   NEXT_PUBLIC_KEYSTATIC_GITHUB_APP_SLUG = "<your-app-slug>"
- *   KEYSTATIC_GITHUB_CLIENT_ID          = "<from the GitHub App>"
- *   KEYSTATIC_GITHUB_CLIENT_SECRET      = "<from the GitHub App>"
- *   KEYSTATIC_SECRET                    = "<random 40+ char string>"
- * The last four are produced by Keystatic's one-click setup wizard the first
- * time you open /keystatic on the deployed site (see the README).
+ * Storage is env-driven (all NEXT_PUBLIC so it resolves the same on server + client):
+ *   • Cloud  → set NEXT_PUBLIC_KEYSTATIC_CLOUD_PROJECT = "team/project"
+ *             (from keystatic.cloud). Keystatic Cloud handles all GitHub auth —
+ *             no GitHub App or secrets needed. RECOMMENDED for the live site.
+ *   • GitHub → set NEXT_PUBLIC_KEYSTATIC_GITHUB_REPO + the GitHub-App secrets
+ *             (self-hosted OAuth). See the README.
+ *   • Local  → no env vars: edit files on disk at /keystatic, no setup.
  *
  * Content is stored as YAML under `content/<collection>/<slug>/index.yaml`.
  * Build-time reads (scripts/cms-sync.mts) always read local files, so this
  * env switch never affects builds.
  */
 
-// Storage mode is decided from NEXT_PUBLIC_KEYSTATIC_GITHUB_REPO ONLY, because
-// this expression must evaluate identically on the server AND in the browser
-// bundle. The GitHub auth secrets (KEYSTATIC_SECRET, client id/secret) are
-// server-only and are `undefined` in the client — gating on them put the
-// browser in local mode while the server ran GitHub mode, which made the admin
-// call the local-only `/api/keystatic/tree` endpoint and get a 404 "Not Found".
-//
-// ⚠️ Set the GitHub env vars all together (repo + app slug + client id/secret +
-// KEYSTATIC_SECRET), or none — a repo with missing secrets will fail the build.
+const cloudProject = process.env.NEXT_PUBLIC_KEYSTATIC_CLOUD_PROJECT as `${string}/${string}` | undefined;
 const githubRepo = process.env.NEXT_PUBLIC_KEYSTATIC_GITHUB_REPO as `${string}/${string}` | undefined;
 
-const storage = githubRepo
-  ? ({ kind: "github", repo: githubRepo } as const)
-  : ({ kind: "local" } as const);
+const storage = cloudProject
+  ? ({ kind: "cloud" } as const)
+  : githubRepo
+    ? ({ kind: "github", repo: githubRepo } as const)
+    : ({ kind: "local" } as const);
 
 const imageUrl = (label: string) => fields.text({ label, description: "Full image URL" });
 
 export default config({
   storage,
+  ...(cloudProject ? { cloud: { project: cloudProject } } : {}),
   ui: {
     brand: { name: "TravelX CMS" },
     navigation: {
