@@ -1,8 +1,12 @@
-# TravelX — Premium Travel Agency Frontend
+# TravelX — Premium Travel Agency
 
-A production-quality, enterprise-grade frontend for a premium travel agency, built with **Next.js 15**, **React 19**, **TypeScript**, **Tailwind CSS** and **Framer Motion**. It sells domestic & international tours, generates leads, and is architected to plug into a real backend.
+A production-quality, enterprise-grade travel-agency website, built with **Next.js 16**, **React 19**, **TypeScript**, **Tailwind CSS** and **Framer Motion**, with a full **Keystatic CMS**. It sells domestic & international tours, generates leads, and is deployed on **Vercel** with live content editing.
 
-> 🎨 Modern-luxury design system · 🌗 Dark mode · ♿ Accessible · 🔍 SEO-optimised · ⚡ Static-first performance · 📱 Fully responsive
+> 🎨 Modern-luxury design system · 🌗 Dark mode · ♿ Accessible · 🔍 SEO-optimised · ⚡ Static-first performance · 📱 Fully responsive · ✍️ CMS-managed content
+
+**Live:** https://travel-x-gamma.vercel.app · **CMS:** https://travel-x-gamma.vercel.app/keystatic
+
+> 📖 For a complete feature list, architecture, and roadmap, see **[DOCUMENTATION.md](./DOCUMENTATION.md)**.
 
 ---
 
@@ -16,10 +20,11 @@ npm run dev      # http://localhost:3000
 Other scripts:
 
 ```bash
-npm run build    # production build (241 pages, static-first)
+npm run build    # production build (240 pages, static-first)
 npm start        # serve the production build
-npm run lint     # eslint
+npm run lint     # eslint (flat config, Next 16)
 npm run typecheck# tsc --noEmit
+npm run cms:sync # regenerate data/cms/*.json from content/ (auto-runs on dev/build)
 ```
 
 Requires Node 18.18+ (built & tested on Node 24).
@@ -134,31 +139,39 @@ Content files are the single source of truth. `cms:sync` reads them via the Keys
 | `scripts/cms-sync.mts` | Generates `data/cms/*.json` from content |
 | `scripts/migrate-all.mts` | One-time seed → content migration (already run) |
 
-### Editing content on the live (Vercel) site
+### Editing content on the live (Vercel) site — Keystatic Cloud ✅ (in use)
 
-The storage mode is **env-driven** (`keystatic.config.ts`): with no env vars it's local mode; once the GitHub vars below are all set it switches to **GitHub mode**, where edits at `/keystatic` commit to your repo and Vercel auto-redeploys. A half-configured deploy safely stays in local mode, so **the build never breaks**.
+The storage mode is **env-driven** (`keystatic.config.ts`), resolved from `NEXT_PUBLIC` vars so it's identical on server and client:
 
-**One-time setup:**
+| Mode | How it activates | Notes |
+| --- | --- | --- |
+| **Cloud** ✅ | `NEXT_PUBLIC_KEYSTATIC_CLOUD_PROJECT = team/project` | **Currently used.** Keystatic Cloud handles all GitHub auth — no GitHub App, no secrets. |
+| GitHub | `NEXT_PUBLIC_KEYSTATIC_GITHUB_REPO` + GitHub-App secrets | Self-hosted OAuth (more setup — see below). |
+| Local | *(no env vars)* | Edits files on disk at `/keystatic`; used in local dev. |
 
-1. **Create a GitHub App** — GitHub → Settings → Developer settings → **GitHub Apps** → *New GitHub App*:
-   - **Homepage URL:** `https://<your-app>.vercel.app`
-   - **Callback URL:** `https://<your-app>.vercel.app/api/keystatic/github/oauth/callback` (add `http://localhost:3000/api/keystatic/github/oauth/callback` too, for local editing)
-   - **Request user authorization (OAuth) during installation:** ✅ on
-   - **Webhook:** uncheck *Active*
-   - **Permissions → Repository:** *Contents* = **Read and write**, *Metadata* = **Read-only**
-   - Create it, then **Generate a client secret** and **Install** the app on your repo.
-2. **Collect four values:** the App **slug** (from its URL), **Client ID**, **Client secret**, and a random **`KEYSTATIC_SECRET`** (`openssl rand -hex 32`).
-3. **Add env vars** in Vercel (Project → Settings → Environment Variables) — all five from `.env.example`:
-   ```
-   NEXT_PUBLIC_KEYSTATIC_GITHUB_REPO      = owner/travelx
-   NEXT_PUBLIC_KEYSTATIC_GITHUB_APP_SLUG  = <app-slug>
-   KEYSTATIC_GITHUB_CLIENT_ID             = <client-id>
-   KEYSTATIC_GITHUB_CLIENT_SECRET         = <client-secret>
-   KEYSTATIC_SECRET                       = <random-string>
-   ```
-4. **Redeploy.** Now open `https://<your-app>.vercel.app/keystatic`, sign in with GitHub, and edit — each save commits to your repo and triggers a redeploy. (Add the same vars to `.env.local` to edit against GitHub locally too.)
+**This project uses Keystatic Cloud.** The only production env var is:
 
-> Prefer a hosted option with no GitHub App? Keystatic Cloud (`storage: { kind: "cloud" }`) is an alternative — see [keystatic.com/docs/cloud](https://keystatic.com/docs/cloud).
+```
+NEXT_PUBLIC_KEYSTATIC_CLOUD_PROJECT = travel-x/travelx
+```
+
+**Editing flow on the live site:**
+1. Go to **https://travel-x-gamma.vercel.app/keystatic** → **Sign in with Keystatic**.
+2. Edit any collection → **Save**.
+3. Keystatic Cloud commits the change to `pratik-walunj/TravelX` → Vercel auto-redeploys → the site updates (~1–2 min).
+
+**To set up Cloud on a fresh project:** create a project at **[keystatic.cloud](https://keystatic.cloud)**, connect your GitHub repo, then set `NEXT_PUBLIC_KEYSTATIC_CLOUD_PROJECT` in Vercel and redeploy.
+
+<details>
+<summary>Alternative: self-hosted GitHub App mode (no Keystatic Cloud)</summary>
+
+Set all five in Vercel (from `.env.example`) and create a GitHub App with callback `…/api/keystatic/github/oauth/callback`, Contents read/write, **User-to-server token expiration enabled** (Optional features tab — Keystatic requires the refresh-token flow):
+```
+NEXT_PUBLIC_KEYSTATIC_GITHUB_REPO=owner/repo   NEXT_PUBLIC_KEYSTATIC_GITHUB_APP_SLUG=slug
+KEYSTATIC_GITHUB_CLIENT_ID=…   KEYSTATIC_GITHUB_CLIENT_SECRET=…   KEYSTATIC_SECRET=…
+```
+Keystatic Cloud is simpler and recommended.
+</details>
 
 ---
 
