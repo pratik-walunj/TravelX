@@ -5,19 +5,33 @@ country: India
 type: domestic
 category: family
 summary: 8 days of family travel through Kerala — god's own backwaters & misty hills.
-description: Discover Kerala on this 8-day family journey crafted by TravelX. Kerala is one of India's most sought-after destinations — god's own backwaters & misty hills. TravelX curates handcrafted itineraries here with hand-picked stays, private transfers and expert local guides so you experience the very best of Kerala at an unhurried, premium pace. This itinerary balances must-see highlights with authentic local experiences and generous downtime, all backed by our 24/7 concierge and best-price promise.
-image: https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80
+description: >-
+  Discover Kerala on this 8-day family journey crafted by TravelX. Kerala is one
+  of India's most sought-after destinations — god's own backwaters & misty
+  hills. TravelX curates handcrafted itineraries here with hand-picked stays,
+  private transfers and expert local guides so you experience the very best of
+  Kerala at an unhurried, premium pace. This itinerary balances must-see
+  highlights with authentic local experiences and generous downtime, all backed
+  by our 24/7 concierge and best-price promise.
+image: >-
+  https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80
 gallery:
-  - https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80
-  - https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80
-  - https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&q=80
-  - https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80
-  - https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80
-  - https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1200&q=80
+  - >-
+    https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80
+  - >-
+    https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80
+  - >-
+    https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&q=80
+  - >-
+    https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80
+  - >-
+    https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80
+  - >-
+    https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1200&q=80
 durationDays: 8
 durationNights: 7
-price: 46190
-oldPrice: 59150
+price: 50190
+oldPrice: 60150
 currency: INR
 rating: '4.6'
 reviewCount: 83
@@ -64,12 +78,12 @@ departureCities:
   - Bengaluru
   - Hyderabad
 availableDates:
-  - '2026-03-09'
-  - '2026-05-23'
-  - '2026-07-11'
-  - '2026-09-09'
-  - '2026-11-25'
-  - '2026-01-04'
+  - 2026-03-09
+  - 2026-05-23
+  - 2026-07-11
+  - 2026-09-09
+  - 2026-11-25
+  - 2026-01-04
 hotels:
   - name: Serenity Palace
     rating: 4
@@ -83,7 +97,10 @@ hotels:
 itinerary:
   - day: 1
     title: Arrival in Kerala
-    description: Arrive in Kerala, meet your TravelX host for a private transfer to the hotel. Freshen up and enjoy a relaxed evening at leisure with a welcome briefing.
+    description: >-
+      Arrive in Kerala, meet your TravelX host for a private transfer to the
+      hotel. Freshen up and enjoy a relaxed evening at leisure with a welcome
+      briefing.
     stay: Lagoon Pearl Resort
     meals:
       - Dinner
@@ -93,7 +110,9 @@ itinerary:
       - Photo stops
   - day: 2
     title: Nature & scenic escape
-    description: Head out to the scenic countryside for panoramic landscapes, an outdoor experience and a memorable local lunch amid nature.
+    description: >-
+      Head out to the scenic countryside for panoramic landscapes, an outdoor
+      experience and a memorable local lunch amid nature.
     stay: Mountain Echo Lodge
     meals:
       - Lunch
@@ -104,7 +123,9 @@ itinerary:
       - Photo stops
   - day: 3
     title: At leisure / optional tours
-    description: A flexible day to unwind by the pool, indulge in a spa, or choose from a menu of optional excursions.
+    description: >-
+      A flexible day to unwind by the pool, indulge in a spa, or choose from a
+      menu of optional excursions.
     stay: Azure Bay Resort
     meals:
       - Dinner
@@ -115,7 +136,9 @@ itinerary:
       - Local cuisine
   - day: 4
     title: Signature experience
-    description: 'The trip''s showcase day: a curated flagship experience unique to Kerala, designed to be the highlight of your journey.'
+    description: >-
+      The trip's showcase day: a curated flagship experience unique to Kerala,
+      designed to be the highlight of your journey.
     stay: Skyline Boutique
     meals:
       - Breakfast
@@ -126,7 +149,9 @@ itinerary:
       - Photo stops
   - day: 5
     title: Nature & scenic escape
-    description: Head out to the scenic countryside for panoramic landscapes, an outdoor experience and a memorable local lunch amid nature.
+    description: >-
+      Head out to the scenic countryside for panoramic landscapes, an outdoor
+      experience and a memorable local lunch amid nature.
     stay: Aurora Retreat
     meals:
       - Dinner
@@ -136,7 +161,9 @@ itinerary:
       - Local cuisine
   - day: 6
     title: At leisure / optional tours
-    description: A flexible day to unwind by the pool, indulge in a spa, or choose from a menu of optional excursions.
+    description: >-
+      A flexible day to unwind by the pool, indulge in a spa, or choose from a
+      menu of optional excursions.
     stay: Azure Bay Resort
     meals:
       - Lunch
@@ -146,7 +173,9 @@ itinerary:
       - Local cuisine
   - day: 7
     title: Adventure & activities
-    description: An action-packed day of activities and adventure suited to your pace, with all equipment and safety handled by our partners.
+    description: >-
+      An action-packed day of activities and adventure suited to your pace, with
+      all equipment and safety handled by our partners.
     stay: Highland Vista
     meals:
       - Lunch
@@ -156,8 +185,9 @@ itinerary:
       - Local cuisine
   - day: 8
     title: Departure from Kerala
-    description: After breakfast and some last-minute souvenir shopping, transfer to the airport for your onward journey with TravelX memories to keep.
-    stay: ''
+    description: >-
+      After breakfast and some last-minute souvenir shopping, transfer to the
+      airport for your onward journey with TravelX memories to keep.
     meals:
       - Breakfast
     activities:
